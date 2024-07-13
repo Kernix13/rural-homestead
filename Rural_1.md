@@ -36,7 +36,7 @@ https://www.urban-sheds.com/post/shed-styles-and-types
 
 3. Shed Permits in KY: https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/
 
-- See `North Carolina.md`
+- See `State-kentucky1.md`
 
 ### Shed or tiny home permits
 
@@ -62,7 +62,7 @@ Kentucky
 5. https://www.extendedstayamerica.com/
 6. https://www.apartmentguide.com/
 
-## Misc
+## Miscellaneous articles to read
 
 1. Airtight article: https://www.buildingscience.com/documents/information-sheets/air-barriers-airtight-drywall-approach
 
