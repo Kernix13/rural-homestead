@@ -21,7 +21,7 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 - "near London, KY" => 24 mins from Manchester => an hour south of him
 - it was a 35-acre farm - she is living in an army tent
 
-2. 😱 OMG! EPIC OFF-GRID KY LOG CABIN & BARN & LAND!! 😱
+### 2. 😱 OMG! EPIC OFF-GRID KY LOG CABIN & BARN & LAND!! 😱
 
 - ~ 14 acres at $138,000 with a large log cabin and a killer barn - it was built for off-grid living - has a creek on the land
 - chicken coop inside barn - has an outhouse - sits on concrete
