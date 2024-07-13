@@ -1,5 +1,7 @@
 # Ken Wheeler Videos Mostly
 
+## Miscellaneous notes
+
 > How to find land with google maps and google earth
 > He mentioned Georgia as land people are buying
 
@@ -13,7 +15,7 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 
 ## LAND Videos
 
-1. 😃 Help for Dr. Michelle 🤩 CONGRATS on her Kentucky FARM!🤩
+### 1. 😃 Help for Dr. Michelle 🤩 CONGRATS on her Kentucky FARM!🤩
 
 - She gave him the location of a piece of land she was looking at so that he could take a look
 - "near London, KY" => 24 mins from Manchester => an hour south of him
@@ -27,7 +29,7 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 
 > he says that 4 acres in that location with no structure costs more than this place - HUH?
 
-3. `😱 HOW TO: Home & Farm for 30K OR LESS 🥰`
+### 3. `😱 HOW TO: Home & Farm for 30K OR LESS 🥰`
 
 - his friend got 15 acres for $17K
 - he mentioned an `Amish built prefab cabins` for under $10K
@@ -45,7 +47,7 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 
 > Search `Amish prefab cabin` - 500-$100 to deliver it
 
-4. ♦️ RAW LAND TIPS & Expert TRICKS 🤔 - 1 year ago
+### 4. ♦️ RAW LAND TIPS & Expert TRICKS 🤔 - 1 year ago
 
 > TIPS:
 
@@ -82,16 +84,16 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 - OFFER CASH - realtors work on numbers per year
 - when you buy the land you have to be increadibly proactive on the property taxes the first year b\c the government is really slow - they will send the property txes to the previous owner - the first year you have to be proactive and call the shefiffs dept and tell t hem you are the new owner - find out when they mail t he property taxes - tell tthem to send you the bill - MAKE SURE THEY SEND YOU THE BILL
 
-5. 😱 A Most INCREDIBLE LAND deal 😎👍🌳
+### 5. 😱 A Most INCREDIBLE LAND deal 😎👍🌳
 
 - his buddy bought 50 acres at $248/acre!
 - Pikeville in Pike county
 
-6. 😨 A SECRET of BUYING RAW LAND 🤗
+### 6. 😨 A SECRET of BUYING RAW LAND 🤗
 
 - cut/thin the most desirable trees which pays for the land - the land ends up being free - black walnut, oak, hickory, depends on the year
 
-7. 😙 Cheap Kentucky Land 🤩
+### 7. 😙 Cheap Kentucky Land 🤩
 
 - Locattion: are your neighbors people you wouldn't want to live next to
 - is there water, what sort of water
@@ -102,7 +104,7 @@ Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov
 - coal company surveys don't count as "professional" but theirs are pretty close to the actual
 - he mentioned Pikeville again
 
-8. 🤔 Tricks & Tips: BUYING RAW LAND 🤔
+### 8. 🤔 Tricks & Tips: BUYING RAW LAND 🤔
 
 What to look for when buying land
 
@@ -123,14 +125,14 @@ What to look for when buying land
 
 > He mentioned Georgia as land people are buying
 
-9. 🧐 4 LAND BUYING TIPS I KNOW WORK
+### 9. 🧐 4 LAND BUYING TIPS I KNOW WORK
 
 - `#1` walk the land - look at it
 - `#2` knock on neighbors doors, introduce yourself, maybe offer a $10 bill - ask them what they know - realtors don't care about you, they car about their commission
 - `#3` the land itself: make sure you have mineral rights - make sure it is not in a flood plane - no issues with the land
 - `#4` don't offer close to what they are asking for it - "This is my first offer, come back with a counter offer" - business is business - list off the problems
 
-10. 😇 Buying RAW LAND: Tips & Tricks 😇
+### 10. 😇 Buying RAW LAND: Tips & Tricks 😇
 
 Raw Land = no structures
 
@@ -143,14 +145,14 @@ Raw Land = no structures
 - ways around a pro survey: coal country has coal company surveys and so is accurate
 - TREES: selective timbering
 
-11. 🤩 Raw Land Buying Secrets 😱 Genuinely undeniable
+### 11. 🤩 Raw Land Buying Secrets 😱 Genuinely undeniable
 
 - land that is not sold instantly is because there is not a professional survey - **but if it is cheap, so what**
 - `#1` So no professioanl survey = cheap, if it is not cheap don't buy it - if the land is dirt cheap is does NOT need to have a pro survey
 - `#2` property tax notice, usually Oct or Nov - **be proactive** - it will go to the prior owner - creeps "buy the bill" >
 - `#3` information is god - go to the deed ofc, the pvs, sheriffs dept, property taxes, find if there are liens on it, title search ($500), find out where the boundaries are, have pictures, features of the land,
 
-12. 🤔 Considerations ABOUT LAND 🤔
+### 12. 🤔 Considerations ABOUT LAND 🤔
 
 Kentucky property taxes are extremely cheap
 
@@ -159,7 +161,7 @@ Kentucky property taxes are extremely cheap
 - property taxes low in rural Kentucky
 - fertile land can be farmed and selectively forested
 
-13. 🌎 LAND. Tips On & About 🤔
+### 13. 🌎 LAND. Tips On & About 🤔
 
 - `Realtor Tina Neil` - https://tinaneal.remax.com/
 - have a tiny home and charge rent
@@ -168,7 +170,7 @@ Kentucky property taxes are extremely cheap
 - check for zoning on what you can build -
 - C:\Users\pc\Documents\Jobs\specific\RAWLAND.pdf or file:///C:/Users/pc/Documents/Jobs/specific/RAWLAND.pdf
 
-14. 😨 HOW TO: HOME & 10 Acres for UNDER $30K. Seriously 🤗
+### 14. 😨 HOW TO: HOME & 10 Acres for UNDER $30K. Seriously 🤗
 
 - amish prefab cabin!!!
 - spray foam insulation
@@ -182,7 +184,7 @@ Kentucky property taxes are extremely cheap
 
 ## SOLAR Videos
 
-1. 😘 DIY Large SOLAR PANEL STAND 😄👍
+### 1. 😘 DIY Large SOLAR PANEL STAND 😄👍
 
 - kickstand for large panels - `320 watt 24 volt Renogy` panel
 - getting 40 `volts` to the `volt meter` in full sun
@@ -195,7 +197,7 @@ Kentucky property taxes are extremely cheap
 
 > Never hook your charge controller or solar panel without hooking the battery to the charge controller first or it will wrech the controller
 
-2. 🥳🌞 200W OFF-GRID Portable Solar SOLUTION 🌺
+### 2. 🥳🌞 200W OFF-GRID Portable Solar SOLUTION 🌺
 
 - people steal solar panels
 - 200 watt briefcase, Renogy briefcase ... - mono-crystalline
@@ -219,7 +221,7 @@ Kentucky property taxes are extremely cheap
 
 > He only needs 200 watts for his cabin
 
-3. 🤩🌞 My portable SOLAR POWER rig I built ☀️
+### 3. 🤩🌞 My portable SOLAR POWER rig I built ☀️
 
 - $8 piece of pine board - sanded the corners, drilled a handle in it
 - attached 2 casters (wheels)
@@ -236,7 +238,7 @@ Kentucky property taxes are extremely cheap
 
 > look for sales on Renogy.com
 
-4. 🔥🤩 MUST HAVE SOLAR Gadget! Power Queen MICRO controller & New Bluetooth battery ☀️
+### 4. 🔥🤩 MUST HAVE SOLAR Gadget! Power Queen MICRO controller & New Bluetooth battery ☀️
 
 > he has solar operated security cameras
 
@@ -247,7 +249,7 @@ Kentucky property taxes are extremely cheap
 
 > you always need charge controllers and maybe inverters
 
-5. 🥳 Solar Batteries & POWER Redundancy Solutions. POWER QUEEN🔥🤩
+### 5. 🥳 Solar Batteries & POWER Redundancy Solutions. POWER QUEEN🔥🤩
 
 - what to use to connect the charge controller to the battery bank
   - buy jumper cables, split them down the middle, strip off the ends, twist the ends tight and put them in the controller terminals
@@ -260,7 +262,7 @@ Kentucky property taxes are extremely cheap
 
 > Check the dates - he seems to like power queen more than renogy
 
-6. 🌞🌳 Parallel SOLAR hookup 740Ah & 960W 🤓
+### 6. 🌞🌳 Parallel SOLAR hookup 740Ah & 960W 🤓
 
 > voltaic.com website > touch led lights, dimmable - low power usage
 
@@ -286,7 +288,7 @@ Parallel battery setup
 
 > NEVER, EVER HOOK UP SOLAR TO THE CHARGE CONTROLLER FIRST - ALWAYS HOOK UP THE BATTERIES FIRST TO THE CONTROLLER THEN HOOK UP THE SOLAR - and when breaking down disconnect solar panels from controller first
 
-7. 🌞🤩 LARGE SOLAR PANEL Mobile Stand DIY 😚
+### 7. 🌞🤩 LARGE SOLAR PANEL Mobile Stand DIY 😚
 
 - the stand needs weights for wind
 - they should be mounted on the roof but there are disadvantages:
@@ -296,7 +298,7 @@ Parallel battery setup
 - need 4 hose clamps - 3/4" PVC, 8 T-Joints, connector add the clamp before it, PVC glue,
 - 320 watt solar panel - 400 & 500 watt are too big - $1/watt
 
-8. 😍 SOLAR POWER SYSTEM 😘 200W & OKMO power station
+### 8. 😍 SOLAR POWER SYSTEM 😘 200W & OKMO power station
 
 - Okmo 1000 watt `power station` - better than Jackery - it has 18 more amp hrs for $250 less than 1000 watt okmo (?)
 - anderson power pull (pole?) y-connector to hook up 2 solar panels
@@ -311,7 +313,7 @@ Parallel battery setup
 > you always need a charge controller with solar panels
 > you basically have 4 things in a solar system setup: 1. solar panels, 2. charge controller, 3. power inverter (preferably pure sinewave), 4. battery
 
-9. 🌞 DIY SOLAR BRIEFCASE Setup! 😇👍 RENOGY 200W or 100W Solar Briefcase
+### 9. 🌞 DIY SOLAR BRIEFCASE Setup! 😇👍 RENOGY 200W or 100W Solar Briefcase
 
 - 200 watt Renogy Eclipse mono-crystalline solar briefcase:
 - applicable to all solar briefcases:
@@ -335,7 +337,7 @@ Parallel battery setup
 
   > Renogy Lithium Iron Phosphate battery, $800, less heave than lead-acid
 
-  10. 🥰 Best value COMPACT SOLAR PANEL Briefcase. 100W SOLAR 🥰
+  ### 10. 🥰 Best value COMPACT SOLAR PANEL Briefcase. 100W SOLAR 🥰
 
   -
 
@@ -343,7 +345,7 @@ Parallel battery setup
 
 ## POWER Videos
 
-1.
+### 1.
 
 -
 
@@ -351,7 +353,7 @@ Parallel battery setup
 
 ## SURVIVAL Videos
 
-1.
+### 1.
 
 -
 
