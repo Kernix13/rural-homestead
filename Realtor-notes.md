@@ -19,7 +19,7 @@
 
 ### 3. Listing
 
-- Who is listing the land? Bank, realtor, owner, county, ...
+- Who is listing the land? Bank, agent, owner, county, ...
 
 ### 4. Zoning
 
@@ -41,36 +41,38 @@
 ### CLOSING
 
 - It should be by a title company
-- sales transactions/closing to the company involvement (agent or attorney - HUH?
+- Sales transactions/closing to the company involvement (agent or attorney - HUH?
 
 ### WALKING THE LAND
 
 - You never know how many offers the listing got
-- if the offer is accepted, and under contract, …"I always want to be under review"?
-- For my preferred time - in order to be able to opt out of contract
-- Earnest Money
-- If offer is accepted the seller expects to pay earnest money (Seller or buyer?)
-- protection against them keeping the money
+- If the offer is accepted, and <em><ins>under contract</ins></em>, …"I always want to be under review"?
+- <em><ins>For my preferred time</ins></em> - in order to be able to opt out of contract
+- <em><ins>Earnest Money</ins></em>
+- If offer is accepted the seller expects to pay earnest money (Seller pays or buyer pays?)
+- Earnest Money is protection against them keeping the money
 
 ### UNDER REVIEW
 
 - attorney: "review for 2 business days …" - in contract
-- get earnest money back
+- You get the earnest money back
 
 ### Miscellaneous
 
-- "gated community" - do they have as much say as in a Home Owners Association?
-- "Agricultural Land" - permit only for farming or can I place a tiny home on the land?
+- "gated community": What does that mean? Do they have as much say as in a Home Owners Association?
+- "Agricultural Land": Does that type only allow farming or can I place a tiny home on the agricultural land?
+
+## Good Websites
+
+> Signed up for free for all of these
 
 1. Landsearch.com
-
-- signed up for free with Google
-
-> We depend on ad revenue to build great things. Plese consider allowing our ads.
-
 2. LandAndFarm.com
-
-- signed up for free
+3. LandWatch.com
+4. Realtor.com
+5. Zillow.com
+6. Redfin.com
+7. LandFlip.com
 
 ..............................................................................
 
@@ -83,7 +85,7 @@ WordPress is the best option for small businesses. I own 3 WordPress websites, o
 - Next would be a custom classic theme which would take much more time
 - Lastly would be a custom block theme. This would be my preferred theme, however, I never finished learning how to build a block theme. Once I settle into my new home, this is exactly what I will do.
 
-> "_best free wordpress theme for real estate website_"
+> "_best free wordpress theme for real estate website_" - make sure they are block themes or just go with _Frost_
 
 - Check out: https://medium.com/@Don_Peno/20-top-free-real-estate-wordpress-themes-133f0f3cee1c
 - Check this page too: https://wpthemego.com/best-real-estate-wordpress-themes/
