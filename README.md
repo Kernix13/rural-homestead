@@ -37,3 +37,9 @@ Other important markdown files:
 <hr>
 
 > Look into adding `CHANGELOG.md` - look at https://github.com/vweevers/common-changelog and https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c
+
+<!--
+   <div id="back-to-top"></div>
+
+   <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+ -->

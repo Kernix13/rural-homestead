@@ -208,3 +208,11 @@ How to find raw rural land in ...
 Landwatch.com - just repeats
 
 Land.com - nothing
+
+### Shed or tiny home permits
+
+Kentucky
+
+- https://shelbycounty.ky.gov/departments/building-inspector/Pages/Permit-Requirements.aspx
+- https://madisoncountyky.gov/planning/applications-regulations/
+- https://www.eshutilitybuildings.com/articles/tiny-home-regulations-in-ky/
