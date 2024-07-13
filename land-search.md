@@ -12,26 +12,30 @@ TERMS:
 - websites listing raw land for sale
 - websites listing undeveloped land for sale
 
-WEBSITES:
+## WEBSITES
 
-1. [LandWatch.com](https://www.landwatch.com/undeveloped-land):
-2. [LandAndFarm.com](https://www.landandfarm.com/search/Undeveloped-Land-for-sale/):
-3. [Real estate and federal lands for sale by the government](https://www.usa.gov/real-estate-sales): (usa.gov)
-4. [LandLeader.com](https://www.landleader.com/land-for-sale/undeveloped) – nothing in my price range
-5. [LandWatch.com](https://www.landwatch.com/) - my notes for this one is that it had repeats from LandSearch.com
-6. [LandsOfAmerica.com](https://www.landsofamerica.com/United-States/undeveloped-land/):
-7. [Realtor.com](https://www.realtor.com/):
-8. [Zillow.com](https://www.zillow.com/):
-9. [MossyOakProperties.com](https://www.mossyoakproperties.com/land-for-sale/undeveloped/):
-10. [LandFlip.com](https://www.landflip.com/land-for-sale/undeveloped-keyword):
-11. [Acres.com](https://www.acres.com/):
-12. [Government property for sale or lease](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease):
+1. **[LandSearch.com](https://www.landwatch.com/undeveloped-land)**: signed up for free with Google
+2. **[LandAndFarm.com](https://www.landandfarm.com/search/Undeveloped-Land-for-sale/)**: signed up for free
+3. **[LandWatch.com](https://www.landwatch.com/undeveloped-land)**: my notes for this one is that it had repeats from LandSearch.com - signed up for free, same as LandsOfAmerica.com?
+4. [LandsOfAmerica.com](https://www.landsofamerica.com/United-States/undeveloped-land/): redirects to land.com - signed up for free, same as LandsOfAmerica.com? - _NOTHING_
+5. [LandLeader.com](https://www.landleader.com/land-for-sale/undeveloped) – _nothing in my price range_
+6. [MossyOakProperties.com](https://www.mossyoakproperties.com/land-for-sale/undeveloped/): signed up for free - only 1 property under 10 acres - 4 acres for $30K - _SKIP_
+7. [LandFlip.com](https://www.landflip.com/land-for-sale/undeveloped-keyword): signed up for free - only one _maybe_ in my price range:
+   1. HILLSIDE HAVEN MANCHESTER ESCAPE 14 acres for $20K = $1464/acre
+8. [Acres.com](https://www.acres.com/): signed up for free but they have a premium plan for $29.99/month - _nothing in my price range_
+9. [Realtor.com](https://www.realtor.com/): signed up for free with Google - some repeated listings but some good new ones as well
+10. [Zillow.com](https://www.zillow.com/): signed up for free - not bad but nothing different from Realtor.com
+11. [Redfin.com](https://www.redfin.com/state/Kentucky/land): signed up for free with Google - also good but mostly repeats
+12. [Real estate and federal lands for sale by the government](https://www.usa.gov/real-estate-sales): (usa.gov) - they have 9 different links where you can buy land 6 of which involve land - see below - _NOTHING_
 
-ARTICLES
+### Real estate and federal lands for sale by the government
 
-1. [Buying Undeveloped Land: The Pros And Cons](https://www.rocketmortgage.com/learn/undeveloped-land):
-2. [How to buy undeveloped land](https://www.bankrate.com/real-estate/buyng-undeveloped-land/):
-3. [What Does Undeveloped Land Mean? And How to Find Undeveloped Land for Sale!](https://remarkableland.com/undeveloped-land-for-sale/): section called Where to Find Undeveloped Land for Sale – they list LandAndFarm but also LandWatch and LandsOfAmerica.com
+1. [U.S. Department of Agriculture](https://properties.sc.egov.usda.gov/resales/public/home) - sells homes, farms, and ranches, by auction or offer - only option for me is `Farm and Ranch` with _nothing near me_
+2. [GSA Auctions](https://realestatesales.gov/) - real estate, land, and lighthouses along with other government-owned excess property - _NOTHING_
+3. [U.S. Treasury auctions](https://home.treasury.gov/services/treasury-auctions) - homes, land, commercial property, and other items forfeited by owners for violations of Treasury law - _NOTHING_
+4. [U.S. Marshals Service auctions](https://www.usmarshals.gov/what-we-do/asset-forfeiture) - seized homes, condominiums, commercial real estate, and land in the U.S. and Caribbean, plus other items - uses reallook.com - _NOTHING_
+5. [General Services Administration sells real property](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal) - including Undeveloped land - uses realestatesales.gov - _SKIP_
+6. [Bureau of Land Management (BLM) sells public lands](https://www.blm.gov/programs/lands-and-realty/sales-and-exchanges) - which are undeveloped land tracts with no improvements - To learn about public lands for sale, [find and contact the BLM state office](https://www.blm.gov/office/national-office) for the area where you are interested - _NOTHING_
 
 ## How to find raw rural land in ...
 
