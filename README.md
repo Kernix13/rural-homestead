@@ -1,7 +1,5 @@
 # Livable Sheds/Cabins and Homesteading in a Rural Setting
 
-> Look into adding `CHANGELOG.md`
-
 This is mostly a markdown repo containing notes I need to find rural land in Kentucky or North Carolina and what it takes to get a Tiny Home/Livable Shed/Amish Prefab Cabin on the land.
 
 Eventually, I want to turn it into a homestead and as off-grid as possible. The plan is to get all my power from solar, grow as much food as I can, fish, hunt, and trap as much meat as I can eat, freeze, and smoke, etc.
@@ -27,3 +25,7 @@ Other important markdown files:
 2. `Realtor-notes.md`: These are notes from a friend of a friend who is an agent.
 3. `sheds-cabins1.md`: There is some unique info in here and some duplicate info. Most of the info that is in here, or was in here, is in the `livable-sheds` files
 4. `kentucky.html` and `style.css`: a quick HTML file used to paste into a CodePen pen for the agent who helped me - very little styling.
+
+<hr>
+
+> Look into adding `CHANGELOG.md` - look at https://github.com/vweevers/common-changelog and https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c
