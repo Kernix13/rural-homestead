@@ -12,7 +12,7 @@
 
 ### 2. Ownership
 
-- Could be a person or a company or a bank or a county - don’t worry about that in the beginning
+- Could be a person or a company or a bank or a county - don't worry about that in the beginning
 - Eventually, you will be able to find out who the owner is
 - Banks - auctions - will take you to another site for the auction
 - Owners - can range from bad deal to a great deal - owners often overprice the land
@@ -36,7 +36,7 @@
 
 ### TITLE SEARCH
 
-- Owner pays or buyer? Attorneys (flat fee) don’t negotiate, agents will
+- Owner pays or buyer? Attorneys (flat fee) don't negotiate, agents will
 
 ### CLOSING
 

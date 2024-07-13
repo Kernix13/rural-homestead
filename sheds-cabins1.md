@@ -15,8 +15,8 @@
 
 2. https://thetinylife.com/living-in-a-shed/
 
-- One big advantage of the prefab shed option is that these structures are so prevalent that in many places you can just drop one off and you’re good
-- You can get water to most properties without much hassle. Of the three main utilities, water is the simplest because it’s not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
+- One big advantage of the prefab shed option is that these structures are so prevalent that in many places you can just drop one off and you're good
+- You can get water to most properties without much hassle. Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
 
 > 2nd time I've seen this: **get your shed pad graded**
 
@@ -26,7 +26,7 @@
 
 - Converting a shed will cost around $75 per square foot including the cost of the shed
 - It could be done more cheaply if you build the shed yourself (shed companies typically mark up 60% above material cost).
-- Solar is a great option if you can’t get power run to your shed: https://thetinylife.com/tiny-house-solar/
+- Solar is a great option if you can't get power run to your shed: https://thetinylife.com/tiny-house-solar/
 
 .............................................
 
@@ -69,7 +69,7 @@ types of sheds:
 
 > **To have a legal shed home, the shed base must be built to the IRC (2018)**
 
-- It’s recommended to have a foundation made with concrete footers. Typically, a solid foundation made from footers ranges from $3,000 to $6,000
+- It's recommended to have a foundation made with concrete footers. Typically, a solid foundation made from footers ranges from $3,000 to $6,000
 - Getting your plumbing hooked up costs about $1,500 to $2,000.
 - When creating a budget for your shed home, figure approximately $3,500 for completing your electrical needs
 - You want to ensure your shed home is insulated - It costs around $3.50 per square footage to have someone spray foam your shed home – around $2.50 per square foot for flooring and ceiling and $2.50 per linear square foot for walls. For a standard shed home size (512 sq ft), that costs around $4,000 to $6,000

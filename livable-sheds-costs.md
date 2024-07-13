@@ -63,3 +63,21 @@ SUMMARY FROM OTHER SECTIONS:
 - You want to ensure your shed home is insulated - It costs around $3.50 per square footage to have someone spray foam your shed home – around $2.50 per square foot for flooring and ceiling and $2.50 per linear square foot for walls. For a standard shed home size (512 sq ft), that costs around $4,000 to $6,000
 - Typically, `flooring` costs $2.00 to $3.50 per square foot
 - To finish off your walls with `sheetrock`, you should figure around $1.50 per square foot
+
+From [Buying Undeveloped Land: The Pros And Cons](https://www.rocketmortgage.com/learn/undeveloped-land)
+
+- Clearing and grading the land
+- Building an access road
+- Environmental testing?
+- Additional permits?
+- Building access to utilities, like water, natural gas and sewage
+- Amount of time and money needed to prepare the land...
+
+Costs from rom [What Does Undeveloped Land Mean? And How to Find Undeveloped Land for Sale!](https://remarkableland.com/undeveloped-land-for-sale/):
+
+- **Site Clearing**: Clearing and grading the land for the house's footprint, outbuildings, utilities, and a staging area for construction.
+- **Access**: Clearing, grading, and building an all-weather road, including culverts for drainage and bridges for stream crossings.
+- **Testing**: Environmental testing, including <ins>soil stability</ins> and compaction tests, perc tests, and a Phase 1 Environmental Site Assessment.
+- **Permitting**: Some construction and improvements will require permitting and inspections depending on the location and area.
+- **Utilities**: Paying to install and connect to existing, local utilities or constructing stand-alone utilities _like drilling a water well and installing a septic system_.
+- **Fencing**: To publicly and legally designate your property, you may need to survey, clear, and fence the property's boundary.

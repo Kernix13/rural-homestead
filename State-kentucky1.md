@@ -1,5 +1,12 @@
 # Information specific to Kentucky
 
+Check out these counties in KY: Pike, Boyd, Greenup:
+
+- Counties in KY: https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/
+- `Pike County` https://pikevilleky.gov/code-violation-fines/
+- `Boyd County` https://boydcountyky.gov/construction-permits-inspection/
+- `Greenup County` https://www.businesslicenses.com/Licenses/KY/Greenup/Greenup-2108933004/ Building-Permit-25895/
+- Pikeville in Pike county
 - 8hrs from `Pikeville` to Virginia beach 9.5 hrs to Assateauge | 8.5 to Manteo
 - https://www.facebook.com/zephyrcreek
 
@@ -98,7 +105,7 @@ REQUIREMENTS: Cities/Towns in KY
 
 Google search for "best sheds in kentucky":
 
-- Esh’s: https://www.eshutilitybuildings.com/
+- Esh's: https://www.eshutilitybuildings.com/
 - Sheds of Kentucky: https://www.shedsofkentucky.com/
 - Overholt & Sons: https://overholtstoragebuildings.com/
 - Shed Squad: https://www.shedsquadofgeorgetownkentucky.com/

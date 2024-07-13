@@ -2,7 +2,7 @@
 
 ## 1. [Do I Need A Building Permit For A Shed](https://carolinayardbarns.com/do-i-need-a-building-permit-for-a-shed/)
 
-- The first step in the process would be to find out if you need Home Owner’s Association approval to build a shed
+- The first step in the process would be to find out if you need Home Owner's Association approval to build a shed
 - The HOA sets rules and guidelines for the type, size, style, siding and color you can have on a shed.
 - It is always best to obtain their approval prior to starting the permit process. <ins>Typically HOA approval is free but the permit process comes with fees</ins>.
 
@@ -51,7 +51,7 @@
 ### Zoning Codes
 
 - Zoning deals with the location of <ins>where</ins> you intend to place your building.
-- Zoning regulations are based on more local factors and determine the size requirements of your building on what zone it’s located in. You will need to call your local zoning or planning department to find that info.
+- Zoning regulations are based on more local factors and determine the size requirements of your building on what zone it's located in. You will need to call your local zoning or planning department to find that info.
 - Cities and towns in North Carolina have been fairly accommodating for people intending to use tiny homes as an Accessory Dwelling Unit (ADU). So if you have plans to put your tiny home in your backyard, most areas have specific guidelines in addition to the standard setback and such. For example, some require that the ADU can only be a certain size, based on the size of the primary dwelling.
 - If you plan on putting the tiny home on a different parcel of land, or plan on using it as something like an Airbnb or vacation home, <ins>there will be different zoning guidelines</ins>.
 - Zoning codes are super specific to each town and city and typically can have different requirements within each city zone. So your first stop would be to contact the Planning & Zoning department of your county. They will direct you to the proper contact.
@@ -59,8 +59,8 @@
 ### Building Codes
 
 - Local building/construction codes dictate how you can build your tiny house.
-- This is really no different than building a home. Just on a "tiny" level. And just like home construction, there are different inspections that must be done. Electric must be inspected. That means, <em><ins>don’t add insulation that covers the wiring before approval</ins></em>. Plumbing must also be inspected. There are multiple steps to getting your final approved permit.
-- This is why many <em><ins>people who don’t understand building codes decide it is best to hire a general contractor</ins></em>.
+- This is really no different than building a home. Just on a "tiny" level. And just like home construction, there are different inspections that must be done. Electric must be inspected. That means, <em><ins>don't add insulation that covers the wiring before approval</ins></em>. Plumbing must also be inspected. There are multiple steps to getting your final approved permit.
+- This is why many <em><ins>people who don't understand building codes decide it is best to hire a general contractor</ins></em>.
 
 ........................................................................
 
@@ -112,14 +112,14 @@
 ## 7. [Shed Regulations & Permissions](https://www.urban-sheds.com/post/shed-building-permits-and-regulations)
 
 - <ins>A building or shed permit is a piece of paper that gives you, the homeowner, permission to construct a building on your property</ins>
-- The regulations that apply to the construction of outdoor buildings vary considerably from one location to another, However, you’ll likely need a building permit.
+- The regulations that apply to the construction of outdoor buildings vary considerably from one location to another, However, you'll likely need a building permit.
 - There will also be a variety of local zoning restrictions, building codes, Homeowners Association requirements, local bylaws, or environmental protection laws <strong><ins>you must comply</ins></strong> with.
-- In most states, cities, and other locations, the need for building permits is determined by the size of the construction. For example, if it’s over a certain height or size
-- <strong><em><ins>Anything larger, such as 16’x 20’ or 16’x 24’, could be completely restricted</ins></em></strong>
+- In most states, cities, and other locations, the need for building permits is determined by the size of the construction. For example, if it's over a certain height or size
+- <strong><em><ins>Anything larger, such as 16'x 20' or 16'x 24', could be completely restricted</ins></em></strong>
 - where you plan to locate or place it has a vital role to play in the approval and permit process
 - Building code standards vary from one location to another
 - <ins>Part of the process of applying for a building permit is demonstrating that the building is going to last and is constructed using the correct methods and materials</ins>
-- If you’re planning to include electricity, wiring, or some other kind of utility modification, additional approval and a building permit is often a requirement
+- If you're planning to include electricity, wiring, or some other kind of utility modification, additional approval and a building permit is often a requirement
 - **Homeowners Association**: If your home is in an HOA, you should always check first if you want to make any changes to your property, including building a shed. Every HOA has different regulations and rules
 - You may find there are restrictions in place relating to the type of foundation you use
 - **Zoning laws** and **local codes** are similarly varied. However, they <ins>deal more with <strong>quantitive</strong> and <strong>aesthetic</strong> features</ins>. How many plumbing fixtures are also specified in zoning laws.
@@ -152,4 +152,4 @@
 - You can build a shed of at least 120 square feet before being required to get a permit
 - Size requirements may vary slightly based on whether the shed would be considered commercial or residential (falling under the Building Code or the Residential Code)
 - You can get a shed permit by accessing your local government website in KY and downloading/filling out the appropriate building permit application and submitting it for approval.
-- you will need to know what you are going to use the shed for and where it is going to be located on the property. The shed’s size, & often some construction and installment information will also be needed. If you intend to include electric or plumbing in your shed, additional permits may be required.
+- you will need to know what you are going to use the shed for and where it is going to be located on the property. The shed's size, & often some construction and installment information will also be needed. If you intend to include electric or plumbing in your shed, additional permits may be required.

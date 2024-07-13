@@ -26,14 +26,14 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 ## 2. (An In Depth Guide To Turning A Shed Into A Tiny Home)[https://thetinylife.com/living-in-a-shed/]
 
-- Of the three main utilities, water is the simplest because it’s not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
+- Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
 - <ins>Because water is so easy to get, you can get it and the bill will provide "proof of residence" for things like the DMV, post office box, etc</ins>
 - **_Get your shed pad graded_**???
 - Connecting Sewer To Your Shed: the biggest hurtle - you could use a composting toilet, you could use a porta potty service, or you could consider getting a septic system installed
-- Once you buy a shed, you’re first going to want to get all your utilities to the site and setup before you do anything. Get your water, power and sewer squared away, get your copies of all the approvals
+- Once you buy a shed, you're first going to want to get all your utilities to the site and setup before you do anything. Get your water, power and sewer squared away, get your copies of all the approvals
 - <strong><ins>Converting a shed will cost around $75 per square foot including the cost of the shed</ins></strong>.
 - It could be done more cheaply if you build the shed yourself (_shed companies typically mark up 60% above material cost_).
-- **Solar is a great option** if you can’t get power run to your shed: [Solar Panels For Tiny Houses](https://thetinylife.com/tiny-house-solar/)
+- **Solar is a great option** if you can't get power run to your shed: [Solar Panels For Tiny Houses](https://thetinylife.com/tiny-house-solar/)
 
 ......................................................................
 
@@ -42,7 +42,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 > My shed: 12x20 = 240 sqft
 
 - _A liveable shed can cost between $60 and $100 per square foot. A finished, insulated, and completed liveable shed can cost $150 and $200 per square foot_.
-- This means that a 12’ x 16’ liveable shed should cost anywhere from $11,520 to $19,200. A liveable finished 12’ x 16’ shed would cost from $28,800 to $38,400
+- This means that a 12' x 16' liveable shed should cost anywhere from $11,520 to $19,200. A liveable finished 12' x 16' shed would cost from $28,800 to $38,400
 - Things that will increase the cost of your shed include electricity, plumbing, extra windows, extra levels, type of flooring & siding...
 - You can purchase specific doors that are more weather resistant. Besides the windows, the door is the most likely culprit of escaping heat or air conditioning.
 
@@ -96,7 +96,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
   3. **Install utilities**: Determine your requirements for electricity, plumbing, and heating/cooling. <ins>Hire professionals to handle electrical and plumbing work</ins>. Ensure that your electrical setup complies with local codes and that you get those items inspected and approved before adding items like insulation as inspectors will need access to see the connections
   4. **Insulate and weatherproof**: Since sheds are typically not insulated for living purposes, you'll need to insulate the walls, ceiling, and floor to make the space comfortable and energy-efficient. Install weather stripping around doors and windows to prevent drafts.
   5. **Flooring and interior finishes**: Choose suitable flooring materials that are durable and easy to maintain. Install walls, if necessary, using drywall or other appropriate materials...consider materials like shiplap or even galvanized metal panels on the ceiling or as a wainscoting feature. Finish the interior with paint or other desired finishes
-  6. **Kitchen and bathroom setup**: By code, you are required to have a kitchen with a sink and a bathroom that has a shower or tub and a toilet. You’ll need to determine the layout and install necessary fixtures such as sinks, cabinets, countertops, and appliances. Plumbing work for water supply and drainage will be required, which may involve professional assistance
+  6. **Kitchen and bathroom setup**: By code, you are required to have a kitchen with a sink and a bathroom that has a shower or tub and a toilet. You'll need to determine the layout and install necessary fixtures such as sinks, cabinets, countertops, and appliances. Plumbing work for water supply and drainage will be required, which may involve professional assistance
   7. **Lighting and ventilation**: Install appropriate lighting fixtures and ensure proper ventilation to maintain air quality: windows, fans for airflow, lights on the outside by the front door
   8. Gutters and awnings: water is the enemy to any home foundation, especially for tiny homes. In addition to adding gutters, adding awnings over doors will help keep water away.
   9. **Skirting**: You will definitely want to install skirting around the unit. There are a variety of options to choose from, including, vinyl skirting, concrete or stucco skirting, brick and cinder block skirting, fiber cement skirting and lattice skirting. Be sure to leave room for access points.
@@ -108,7 +108,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 ## 8. [FAQs](https://www.ncshedconversions.com/faqs)
 
-9 Q’s – important one:
+9 Q's – important one:
 
 1. How to determine total interior square footage?
 
@@ -143,9 +143,9 @@ Your shed must pass all of these requirements or you can't make it an accessory 
   - a strong floor, good venting,
   - and quality, insulated doors and windows
 - The 2×4 construction is critical because it provides excellent strength, but it also allows you to use standard insulation.
-- **_Unfortunately, so many sheds on the market are created with 1×2’s or 1×3’s. They also use weaker materials such as pressboard. These cheaper sheds simply won’t hold up over time_**
+- **_Unfortunately, so many sheds on the market are created with 1×2's or 1×3's. They also use weaker materials such as pressboard. These cheaper sheds simply won't hold up over time_**
 
-> ### VERIFY THAT THE CONSTRUCTION USES 2x4’s
+> ### VERIFY THAT THE CONSTRUCTION USES 2x4's
 
 - Check out the big items like flooring, walls, roof, siding, and spacing and **size of floor joists** and **wall studs**. And make sure the shed company has been in business for at least a decade
 - <ins>you will want to work with a shed company that offers upgrades to your shed such as insulated egress windows and drywall corners to help you meet home requirements</ins>.
@@ -155,10 +155,10 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 ### Delivery
 
-- The foundation is literally, the foundation of the project so it’s vital to plan this part properly
-- Most shed companies will deliver a pre-built shed, up to 14’ wide, to your location for free (based on mileage). A few shed companies will even build the shed on-site, typically with surcharges for that option
-- Your local municipality may require poured concrete footings, poured piers, and/or a foundation wall to create a crawl space, seal plates, a center beam, tie downs, underpinning, etc. None of these are included as a part of the shed company’s delivery service
-- <ins>When you get the foundation requirements, it is good to work with the shed company to ensure they are aware of that plan</ins>. You can expect the shed company to block the building and raise it 2ft - 3 ft off the ground. They may have a slight charge for blocks if you don’t have them on hand.
+- The foundation is literally, the foundation of the project so it's vital to plan this part properly
+- Most shed companies will deliver a pre-built shed, up to 14' wide, to your location for free (based on mileage). A few shed companies will even build the shed on-site, typically with surcharges for that option
+- Your local municipality may require poured concrete footings, poured piers, and/or a foundation wall to create a crawl space, seal plates, a center beam, tie downs, underpinning, etc. None of these are included as a part of the shed company's delivery service
+- <ins>When you get the foundation requirements, it is good to work with the shed company to ensure they are aware of that plan</ins>. You can expect the shed company to block the building and raise it 2ft - 3 ft off the ground. They may have a slight charge for blocks if you don't have them on hand.
 - _Depending on the size of the building and the foundation, you may be required to hire a crane to put the building in place. While this is an additional cost to consider, this process is quite normal and to be expected for larger units_
 
 ................ _SPECIFIC INFORMATION BELOW HERE_ .......................
