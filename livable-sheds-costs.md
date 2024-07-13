@@ -4,27 +4,34 @@
 
 ## Costs table
 
-| Type                   | Cost    |
-| :--------------------- | :------ |
-| Land                   | TBD     |
-| Prefab Shed            | $10-14K |
-| $/sqft min             | $15     |
-| $/sqft max             | $150    |
-| Slab foundation min    | $4K     |
-| Slab foundation max    | $12K    |
-| Land Clearing/sqft min | $1      |
-| Land Clearing/sqft max | $10     |
-| Plumber/hr min         | $45     |
-| Plumber/hr max         | $150    |
-| Approx plumbing        | $1750   |
-| Electrician/hr min     | $44     |
-| Electrician/hr max     | $100    |
-| Insulation             | ?       |
-| Overall $/sqft min     | $30     |
-| Overall $/sqft max     | $150    |
-| Flooring/sq ft min     | $2      |
-| Flooring/sq ft max     | $3.5    |
-| Wall sheetrock/sqft    | $1.50   |
+| Land & Build costs | Cost               |
+| :----------------- | :----------------- |
+| Land               | TBD                |
+| Prefab Shed        | $10-14K            |
+| Permit             | TBD                |
+| License(s)         | TBD                |
+| Title Search       | $500               |
+| Real Estate Agent  | 2-3% of land value |
+
+| Livable add-on costs   | Cost  |
+| :--------------------- | :---- |
+| $/sqft min             | $15   |
+| $/sqft max             | $150  |
+| Slab foundation min    | $4K   |
+| Slab foundation max    | $12K  |
+| Land Clearing/sqft min | $1    |
+| Land Clearing/sqft max | $10   |
+| Plumber/hr min         | $45   |
+| Plumber/hr max         | $150  |
+| Approx plumbing        | $1750 |
+| Electrician/hr min     | $44   |
+| Electrician/hr max     | $100  |
+| Insulation             | ?     |
+| Overall $/sqft min     | $30   |
+| Overall $/sqft max     | $150  |
+| Flooring/sq ft min     | $2    |
+| Flooring/sq ft max     | $3.5  |
+| Wall sheetrock/sqft    | $1.50 |
 
 ## 1. [How Much Does It Cost To Build A Shed](https://www.urban-sheds.com/post/cost-to-build-a-shed)
 

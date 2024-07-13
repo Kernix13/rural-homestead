@@ -12,6 +12,7 @@ There are 3 sets of markdown files:
    1. `livable-sheds-notes.md`: the most general of the 3 files and contains Notes, Info, Guides and Tips on livable sheds
    2. `livable-sheds-permits.md`: Has information from various articles on permits, zoning, and licensing
    3. `livable-sheds-steps.md`: the shortest of the 3 files and is a general overview of the process
+   4. `livable-sheds-costs.md`: Costs associated with converting your shed/cabin into a livable space
 2. `Rural_[#]`: `Rural_1.md`, `Rural_2.md`, and `Rural_3.md` were my original working files
    1. `Rural_1.md`: This file was the main file but I cut nearly everything out of it and now is just miscellaneous notes. I'm keeping it for now.
    2. `Rural_2.md`: These are notes from videos by Ken Wheeler. There are43 sections: 1) Land, 2) Solar, 3) Power, 4) Survival
