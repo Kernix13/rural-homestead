@@ -4,7 +4,7 @@
 
 ## Can you live in a shed - info and guides and tips
 
-1. https://www.urban-sheds.com/post/living-in-a-shed
+1. [Can You Live in a Shed on Your Property](https://www.urban-sheds.com/post/living-in-a-shed)
 
 - If you're wondering what structure to go for, consider a `prefab shed`, as it's perfect for folks working on a budget
 - You can decide to add windows and porches, adding electricity and water
@@ -13,7 +13,7 @@
 
 .........................................
 
-2. https://thetinylife.com/living-in-a-shed/
+2. [Living in a Shed? An In Depth Guide To Turning A Shed Into A Tiny Home](https://thetinylife.com/living-in-a-shed/)
 
 - One big advantage of the prefab shed option is that these structures are so prevalent that in many places you can just drop one off and you're good
 - You can get water to most properties without much hassle. Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
@@ -30,14 +30,14 @@
 
 .............................................
 
-3. https://www.hometownstructures.com/blog/liveable-sheds/
+3. [Everything You Need To Know About Liveable Sheds](https://www.hometownstructures.com/blog/liveable-sheds/)
 
 Common Liveable Shed Sizes
 
 - Medium: (10×16, 12×14) - The medium liveable shed is the most popular size shed to get
 - Large: (12×20, 14×18) - guest house
 
-4. https://www.thespruce.com/shed-into-a-tiny-house-8379938
+4. [Turning Your Shed Into a Tiny House](https://www.thespruce.com/shed-into-a-tiny-house-8379938)
 
 What Is a Tiny House?
 
@@ -50,7 +50,7 @@ A tiny house is a detached house, usually 400 square feet or less, often located
 
 .......................................
 
-5. How to: https://www.linkedin.com/pulse/how-turn-shed-tiny-house-art-chartier-7kdkc/
+5. [How to Turn a Shed into Tiny House](https://www.linkedin.com/pulse/how-turn-shed-tiny-house-art-chartier-7kdkc/)
 
 types of sheds:
 
@@ -61,7 +61,7 @@ types of sheds:
 - **Tool Sheds or Garden Sheds**: Tool sheds often have a simple design, making them easier to convert. They are readily available and may be more affordable - Limited space and may require more extensive modifications to meet the needs of a tiny house
 - **Barn-Style Sheds**: offer a lofted design, providing additional vertical space. This can be advantageous when creating a loft for sleeping or storage - may limit headroom on the lower level
 
-6. https://www.eshutilitybuildings.com/articles/shed-homes-complete-guide/
+6. [Shed Homes: The Complete Guide](https://www.eshutilitybuildings.com/articles/shed-homes-complete-guide/)
 
 > Most of this is in `sheds-cabins2.md`
 
