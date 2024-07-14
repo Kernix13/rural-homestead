@@ -40,23 +40,24 @@
 
 ...........................................
 
+## Miscellaneous notes
+
 - Large: (`12×20` = 240, `14×18` = 252) - `12x18` = 216
 
 Google search for "best sheds in north carolina":
 
-- The Shed Depot of NC: https://www.buildashednc.com/ - 2+ hrs away Goldsboro
-- **Liberty Sheds**: https://www.libertysheds.com/ - 4+ hrs away Mocksville, NC - https://www.libertysheds.com/compare-all-shed-styles |
-- https://www.greatlakestinyhome.com/what-counties-in-north-carolina-allow-tiny-houses/ - Jackson county, just west of Ashville which is 8 hrs from Roanoke Island
-- FAQ: NORTH CAROLINA PERMITTING: https://sheddepotnc.com/faq-north-carolina-permitting/ -
-- where to find rural land for sale in NC – contact **Liberty Sheds**
+- [The Shed Depot of NC](https://www.buildashednc.com/) - 2+ hrs away Goldsboro
+- **[Liberty Sheds](https://www.libertysheds.com/)** - 4+ hrs away Mocksville, NC - https://www.libertysheds.com/compare-all-shed-styles |
+- [What Counties In North Carolina Allow Tiny Houses](https://www.greatlakestinyhome.com/what-counties-in-north-carolina-allow-tiny-houses/) - Jackson county, just west of Ashville which is 8 hrs from Roanoke Island
+- [FAQ: NORTH CAROLINA PERMITTING](https://sheddepotnc.com/faq-north-carolina-permitting/) -
+- Where to find rural land for sale in NC – contact **Liberty Sheds**
 - Rural counties in North Carolina: the State of North Carolina comprises 100 counties, 78 of which are rural
-- Stellar Barn Co.: https://stellarbarn.co/ - Stellar Standards Cabin #2 - $7995 + add-ons which I will buy - https://stellarbarn.co/contact/ -
+- [Stellar Barn Co.](https://stellarbarn.co/) - Stellar Standards Cabin #2 - $7995 + add-ons which I will buy - https://stellarbarn.co/contact/ -
 
-4. https://www.autonomous.ai/ourblog/best-states-for-tiny-homes-to-build
+1. [Best States for Tiny Homes to Build and Live in The US](https://www.autonomous.ai/ourblog/best-states-for-tiny-homes-to-build)
 
 - N. Carolina is high on this list
 - North Carolina has a growing tiny home community, with many tiny home builders and communities throughout the state. The state also has a mild climate and a low cost of living
-
 - Tiny Homes in North Carolina must meet minimum requirements from the North Carolina State Residential Code. This means you need to consider many items such as:
 
   - Habitable Room Space (must be at least 70 square feet)
