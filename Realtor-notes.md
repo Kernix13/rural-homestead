@@ -87,6 +87,6 @@ WordPress is the best option for small businesses. I own 3 WordPress websites, o
 
 > "_best free wordpress theme for real estate website_" - make sure they are block themes or just go with _Frost_
 
-- Check out: https://medium.com/@Don_Peno/20-top-free-real-estate-wordpress-themes-133f0f3cee1c
-- Check this page too: https://wpthemego.com/best-real-estate-wordpress-themes/
-- Searching for "real estate" from _Add theme_ in the admin dashboard returned 128 themes, some of which are mentioned in the 2 articles above
+- Check out: [Medium: 20 Top Free Real Estate WordPress Themes](https://medium.com/@Don_Peno/20-top-free-real-estate-wordpress-themes-133f0f3cee1c)
+- Check this page too: [20+ Best Real Estate WordPress Themes](https://wpthemego.com/best-real-estate-wordpress-themes/)
+- Searching for "real estate" from _Add theme_ in the WordPress admin dashboard returned 128 themes, some of which are mentioned in the 2 articles above
