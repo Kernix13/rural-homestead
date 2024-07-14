@@ -1,15 +1,15 @@
 # Steps towards building a livable shed
 
-## STEP ONE
+## ONE
 
-- **Foundation**: laying about 5 inches of gravel or pour a slab
-- **Utilities**: wait to get your shed pad graded. Then proceed with connecting utilities like a composting toilet or porta-potty service and any HVAC needs - electrician for internet lines and electricity, and you may need plumbing services as well. Utilities and outlets on your walls need to be added early
-- **Get Rid Of Moisture**: raise your shed floor level using blocks or treated plywood - cover-coat the underneath with a thick deck oil to keep the wood healthy and prevent moisture from ruining it.
-- **Insulate**: too much heat or too cold - use a spray can of foam to insulate the seams of your shed - focus on climate control - <ins>insulation of the floors</ins> might also come in handy
-- **Zoning**: the zoning code jurisdictions dictate the site where you can build a shed. They also give laws on the size of a building and the number of buildings on a particular property. So, it'll be illegal to start building your shed without getting approved
-- **HOA**: Different cities have their specific bylaws of HOA on the size and structure of outbuildings
+1. **Foundation**: laying about 5 inches of gravel or pour a slab
+2. **Utilities**: wait to get your shed pad graded. Then proceed with connecting utilities like a composting toilet or porta-potty service and any HVAC needs - electrician for internet lines and electricity, and you may need plumbing services as well. Utilities and outlets on your walls need to be added early
+3. **Get Rid Of Moisture**: raise your shed floor level using blocks or treated plywood - cover-coat the underneath with a thick deck oil to keep the wood healthy and prevent moisture from ruining it.
+4. **Insulate**: too much heat or too cold - use a spray can of foam to insulate the seams of your shed - focus on climate control - <ins>insulation of the floors</ins> might also come in handy
+5. **Zoning**: the zoning code jurisdictions dictate the site where you can build a shed. They also give laws on the size of a building and the number of buildings on a particular property. So, it'll be illegal to start building your shed without getting approved
+6. **HOA**: Different cities have their specific bylaws of HOA on the size and structure of outbuildings - avoid HOAs! I would like to have neighbors close but not that many neighbors.
 
-## STEP TWO
+## TWO
 
 1. **Set A Level Pad And Grade For Drainage**: 4-6 inches of ¾" gravel - Have the gravel base extend in all directions about 1-2 feet beyond the footprint of the shed. Make sure the space is totally level and compact - double for me for extension and back porch
 2. **Make Utility Connections**: If you pre-buried your connections, uncover the connection points, and connect them. <ins>Test everything before you close up the walls</ins>
@@ -22,7 +22,7 @@
 9. Drywall, Floors And Trim: finishing with dry wall because it's cheap. You want to make sure you are sealing all the joints and transitions of the dry wall for air tightness. This is because <ins>if you make this air tight, no water vapor can enter the wall cavity and hit a cold surface to condense, build up moisture and cause mold</ins> - see _Air Barriers—Airtight Drywall Approach_ link above - put up your drywall, spackled and sanded your joints, go ahead and trim out your doors and windows, then paint the whole thing. Install your floors at this point, then add your baseboards to hide the rough edges of the floors
 10. **Drop in any cabinets, counters and other finishes**
 
-## STEP THREE (Summary):
+## THREE (Summary):
 
 1. Create detailed interior plans
 2. Decide on the interior materials
