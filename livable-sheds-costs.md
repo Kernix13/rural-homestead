@@ -52,13 +52,13 @@
 
 **Furnishing**
 
-| Type               |   Cost   |
-| :----------------- | :------: |
-| Igloo Fridge       |   $250   |
-| ice making machine |   $120   |
-| convection oven    |   $150   |
-| Wood for various   |    ?     |
-| Futon/Sleeper sofa | $600-800 |
+| Type                 |   Cost   |
+| :------------------- | :------: |
+| Igloo Fridge         |   $250   |
+| ice making machine   |   $120   |
+| convection microwave | $200-500 |
+| Wood for various     |    ?     |
+| Futon/Sleeper sofa   | $600-800 |
 
 ## 1. [How Much Does It Cost To Build A Shed](https://www.urban-sheds.com/post/cost-to-build-a-shed)
 
