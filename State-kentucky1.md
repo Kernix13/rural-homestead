@@ -1,5 +1,10 @@
 # Information specific to Kentucky
 
+1. [Best States for Tiny Homes to Build and Live in The US](https://www.autonomous.ai/ourblog/best-states-for-tiny-homes-to-build)
+2. [2024’s Best States for Tiny House Living](https://www.lawnstarter.com/blog/studies/best-states-for-tiny-houses/): Kentucky is #2
+
+## Kentucky Counties
+
 Check out these counties in KY: Pike, Boyd, Greenup:
 
 - Counties in KY: https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/
@@ -7,13 +12,12 @@ Check out these counties in KY: Pike, Boyd, Greenup:
 - `Boyd County` https://boydcountyky.gov/construction-permits-inspection/
 - `Greenup County` https://www.businesslicenses.com/Licenses/KY/Greenup/Greenup-2108933004/ Building-Permit-25895/
 - Pikeville in Pike county
-- 8hrs from `Pikeville` to Virginia beach 9.5 hrs to Assateauge | 8.5 to Manteo
-- https://www.facebook.com/zephyrcreek
+- 8hrs from `Pikeville` to Virginia beach, 9.5 hrs to Assateauge | 8.5 to Manteo
+- How/where to find rural land for sale in KY
 
-1. SEND JOHN DIENNO A MESSAGE TO SEE IF HE HAS ANY IDEAS
-2. where to find rural land for sale in KY
+## Kentucky Permits by County
 
-REQUIREMENTS: Counties in KY: https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/
+PERMIT REQUIREMENTS: Counties in KY: https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/
 
 - Louisville County https://louisvilleky.gov/government/develop-louisville/building-code#land-use
 - `Fayette County` (Louisville) https://www.lexingtonky.gov/sites/default/files/2022-07/Building%20Inspection%20Permit%20Guide%20Res%20Acc%20structure_0%20%281%29.pdf
@@ -47,6 +51,8 @@ REQUIREMENTS: Counties in KY: https://www.eshutilitybuildings.com/articles/shed-
 - `Greenup County` https://www.businesslicenses.com/Licenses/KY/Greenup/Greenup-2108933004/Building-Permit-25895/
 
 Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov/Documents/KHBC_Clay%20County.pdf |
+
+## Kentucky Permits by City
 
 REQUIREMENTS: Cities/Towns in KY
 
@@ -90,13 +96,11 @@ REQUIREMENTS: Cities/Towns in KY
 - Campbellsville https://codelibrary.amlegal.com/codes/campbellsville/latest/campbellsville_ky/0-0-0-4110
 - Lawrenceburg https://lawrenceburgky.org/code-enforcement-building-inspector/
 
-4. https://www.autonomous.ai/ourblog/best-states-for-tiny-homes-to-build
+.........................................................................
 
-5. Kentucky is #2: https://www.lawnstarter.com/blog/studies/best-states-for-tiny-houses/
+## Miscellaneous
 
-..................................................
-
-- https://www.greatlakestinyhome.com/tiny-homes/ - check them out – The Cub or The Elope
+- [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/tiny-homes/) - check them out – The Cub or The Elope
 - I NEED AT LEAST 1 ACRE BUT 2 OR MORE IS BETTER
 - What counties in KY…: https://www.greatlakestinyhome.com/what-counties-in-kentucky-allow-tiny-houses/ - Jefferson (Louisville) and Fayette (Lexington)
 - Maybe Pike County, Boyd County and Greenup County
@@ -110,46 +114,54 @@ Google search for "best sheds in kentucky":
 - Overholt & Sons: https://overholtstoragebuildings.com/
 - Shed Squad: https://www.shedsquadofgeorgetownkentucky.com/
 
-> In North Carolina.docx I have notes on MAryland and South Carolina rural land
-
-...........................................................................
+> In North Carolina.docx I have notes on Maryland and South Carolina rural land
 
 > how to find undeveloped land for sale in kentucky
 > how to find raw land for sale in kentucky
+> ...........................................................................
 
 ## Campgrounds with cabins to rent in Kentucky
 
 > Campgrounds with cabins in Kentucky
 
-- https://parks.ky.gov/parks/camping
+I may need to stay in a cabin while I look because of Luna or find a cat sitter for her. Another option is to buy a camper.
+
+### [Kentucky State Park Campgrounds](https://parks.ky.gov/parks/camping)
 
 1. Lake Cumberland State Resort Park - primitive site (pets): https://parks.ky.gov/explore/lake-cumberland-state-resort-park-7795#lodging-&-camping
 2. My Old Kentucky Home State Park - primitive site (pets): https://parks.ky.gov/explore/my-old-kentucky-home-state-park-7821#camping-&-rv
 
 > Next: Natural Bridge State Resort Park - parks.ky sucks because it goes to a different site and searching sucks
 
-- Camping in Kentucky and Surrounding Areas: https://www.facebook.com/groups/1159070021242952/
-- I need some help. I basically need a place to camp with my cat. But there is more to that. Let me give more detail:
+- [Camping in Kentucky and Surrounding Areas Facebook group](https://www.facebook.com/groups/1159070021242952/)
+
+```
+<!-- Message for the group: -->
+
+I need some help. I basically need a place to camp with my cat. But there is more to that. Let me give more detail:
+
   - I want to buy a few acres of undeveloped land in Kentucky.
   - Once I have it I will get the ball rolling for adding a prefab cabin on the land.
   - I most likely will need to be out of my house by August 15th or the end of August at the latest - I'm in Southeast Pennsylvania.
   - So I need to be in KY so that I can drive to raw/undeveloped land and look at it
   - But what do I do with my cat? I would not trust a syl-nylon tent wall to protect her or keep her in if I am gone for hours.
   - So I feel I need to rent a cabin for a month or more or do tent camping but find a local pet service that boards cats. every time I will be gone for half a day or more
-- I looked into some cabins at campsites and they are $100 or more per night. That's $3000/month and it may take a month.
-- Are there any cat lovers in this group who have any ideas to solve my dilemma?
+
+I looked into some cabins at campsites and they are $100 or more per night. That's $3000/month and it may take a month.
+
+Are there any cat lovers in this group who have any ideas to solve my dilemma?
+```
 
 > campgrounds with rustic cabins in kentucky:
 
-- Falls Creek Cabins and Campground: https://www.fallscreekcc.com/pricing.html - $109-119/night
-  - **Drive-to Platform Sites**: $35-40/night
+### [Falls Creek Cabins and Campground](https://www.fallscreekcc.com/pricing.html)
+
+- $109-119/night
+- **Drive-to Platform Sites**: $35-40/night
 - https://www.hipcamp.com/en-US/land/kentucky-patrick-s-point-river-camp-r57hwwne?adults=1&children=0&srid=11ea6617-ef8b-467d-81f9-6f2aebf3992b
 - https://www.hipcamp.com/en-US/land/kentucky-bunker-farm-r57h2nwm?adults=1&children=0&srid=05bebb45-01a5-4257-bf41-f3aa61495dbb
 - https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39322
-
-Kentucky (U.S. National Park Service)
-
-- https://www.nps.gov/state/ky/index.htm
+- [Kentucky U.S. National Park Service](https://www.nps.gov/state/ky/index.htm)
 
 ## Facebook undeveloped land for sale in kentucky
 
@@ -171,12 +183,6 @@ How to find raw rural land in ...
 
 > `Pike County` | `Boyd County` | `Greenup County` |
 > "_Look in `Jackson` county and around my Vernon_"
-
-- 8hrs from `Pikeville` to Virginia beach 9.5 hrs to Assateauge | 8.5 to Manteo
-- `Pike County` https://pikevilleky.gov/code-violation-fines/
-- `Boyd County` https://boydcountyky.gov/construction-permits-inspection/
-  - `Ashland` (_Boyd County_) https://www.ashlandky.gov/departments/
-- `Greenup County` https://www.businesslicenses.com/Licenses/KY/Greenup/Greenup-2108933004/Building-Permit-25895/
 
 ### LandSearch.com results
 
@@ -209,7 +215,7 @@ Landwatch.com - just repeats
 
 Land.com - nothing
 
-### Shed or tiny home permits
+## Shed or tiny home permits
 
 Kentucky
 
