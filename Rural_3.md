@@ -1,8 +1,21 @@
-# Land
+# Land Tips Summary
+
+<div id="back-to-top"></div>
+
+## Table of Contents
+
+1. [LEGAL AND PAPERWORK](#legal-and=paperwork)
+2. [THE LAND](#the-land)
+3. [HOME AND CABIN](#home-and-cabin)
+4. [POWER AND WATER AND UTILITIES](#power-and-water-and-utilities)
+5. [REALTORS AND CASH BUY](#realtors-and-cash-buy)
+6. [MISCELLANEOUS](#miscellaneous)
+7. [How to use Google Earth](#how-to-use-google-aarth)
+8. [MORE ARTICLES](#more-articles)
 
 ## Best of from `RURAL_2.md`
 
-### LEGAL/PAPERWORK
+### LEGAL AND PAPERWORK
 
 DEED:
 
@@ -25,6 +38,8 @@ TAXES
 - Buy land with farming exceptions B\C this makes the lands yearly taxes VERY CHEAP
 - Check for ZONING on the land
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ### THE LAND
 
 - Use Google Earth to zoom around & find different access points
@@ -42,14 +57,16 @@ TAXES
 - DO MINERAL RIGHTS COME WITH THE LAND?
 - ALWAYS ALWAYS LOOK FOR RAW LAND NEXT TO OR VERY CLOSE TO RITZY NEIGHBORHOODS WITH NICE HOMES!
 
-### HOME/CABIN
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### HOME AND CABIN
 
 - `Amish prefab cabin` - 500-$1000 to deliver it
 - Wood burning stove, copper coil around the pipe
 - $400 for spray foam insulation
 - Plywood floor and vinyl flooring on top of that
 
-### POWER/WATER/UTILITIES
+### POWER AND WATER AND UTILITIES
 
 - Are utilities close
 - Cistern, gray water, power hookup for $1000
@@ -62,7 +79,9 @@ TAXES
 - How good is the internet and cell phone access? That is REALLY important
 - **Do you have the correct ground strata for a septic system**?
 
-### REALTORS/CASH BUY
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### REALTORS AND CASH BUY
 
 - Hound realtors to death about picking your land out before it gets listed - once it gets listed
   - Tell them you aren't going to finance, you have cash - "_Let me know and I will make it worth your while_" - offer them bonuses for finding you the land
@@ -72,8 +91,10 @@ TAXES
 - **The BEST WAY to get a deal on land is to GET IT BEFORE ITS LISTED**, hound realtors to consider YOU before its listed and make sure THEY KNOW you'll take care of them if they consider you FIRST.
 - `ALWAYS ALWAYS be cold hearted on the buy negotiation. Make an offer 15%+ or lower and offer CASH`
 - Never ever EVER EVER offer full price on any land, no matter how much you want it. THIS TACTIC WORKS ALMOST ALWAYS WHEN YOU HAVE CASH TO DROP ON THE PURCHASE
-- RE/MAX Realtor Lisa ...:
-- RE/MAX Realtor Tina ...:
+- RE/MAX Realtor Lisa ... in Pennsylvania:
+- RE/MAX Realtor Tina ... in Kentucky:
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### MISCELLANEOUS
 
@@ -84,11 +105,7 @@ TAXES
 
 > _`Undeveloped land`, often called `raw land`, is a vacant area without any public utilities, buildings or even driveways_
 
-## Google Earth
-
-- Google doc "Kentucky": https://docs.google.com/document/d/1c_1pcCdhIjVxcZ10xmf9WxXY9_PMZ9fyu_cnl8umNHQ/edit?usp=sharing
-
-### How to use Google Earth
+## How to use Google Earth
 
 1. Enter lat/long (you may need to change the settings from degrees to decimal)
 2. Click "Save to project"
@@ -101,7 +118,9 @@ TAXES
 9. Click "Copy link" button
 10. Click "Done"
 
-## ARTICLES
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+## MORE ARTICLES
 
 ### 1. [Buying Undeveloped Land: The Pros And Cons](https://www.rocketmortgage.com/learn/undeveloped-land)
 
@@ -116,6 +135,8 @@ TAXES
 - Zoning laws restrict how you can use different plots within a municipality. If you’re hoping to buy a plot and build a home, make sure it’s zoned for housing
 - Explore government resources. Depending on how you’re going to use the land, you might qualify for financing through the USDA’s Section 523 and 524 loans, or the SBA’s 504 loan. Some of these will finance construction, as well as the land purchase itself
 - Unless you want to live totally off-grid, you’ll need to work with the local authorities to extend utilities to your property. Talk to the town and figure out how that process works and what you’ll have to pay. The same is true for infrastructure like paved roads
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### 3. [What Does Undeveloped Land Mean? And How to Find Undeveloped Land for Sale!](https://remarkableland.com/undeveloped-land-for-sale/)
 
@@ -146,6 +167,8 @@ TAXES
   - [Land for sale in Kentucky on Realtor.com](https://www.realtor.com/realestateandhomes-search/Kentucky/type-land)
   - [Land for sale in Kentucky on Zillow.com](https://www.zillow.com/ky/land/)
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ### Misc 2
 
 $1000 / acre without utilities:
@@ -154,3 +177,5 @@ $1000 / acre without utilities:
 - No electricity: Many solar panels, batteries and associated equipment and knowledge
 - No internet: Starlink?
 - MUST HAVE NICE NEIGHBORS THAT ARE CLOSE
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
