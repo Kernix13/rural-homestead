@@ -1,37 +1,64 @@
 # Costs for building a livable shed
 
-> Costs associated with converting a shed/cabin to a livable space
+> Costs associated with converting a shed/cabin to a livable space - this is all rough and needs to be tightened up - I NEED A BUDGET!
 
 ## Costs table
 
-| Land & Build costs | Cost               |
-| :----------------- | :----------------- |
-| Land               | TBD                |
-| Prefab Shed        | $10-14K            |
-| Permit             | TBD                |
-| License(s)         | TBD                |
-| Title Search       | $500               |
-| Real Estate Agent  | 2-3% of land value |
+**Land & Shed costs**
 
-| Livable add-on costs   | Cost  |
-| :--------------------- | :---- |
-| $/sqft min             | $15   |
-| $/sqft max             | $150  |
-| Slab foundation min    | $4K   |
-| Slab foundation max    | $12K  |
-| Land Clearing/sqft min | $1    |
-| Land Clearing/sqft max | $10   |
-| Plumber/hr min         | $45   |
-| Plumber/hr max         | $150  |
-| Approx plumbing        | $1750 |
-| Electrician/hr min     | $44   |
-| Electrician/hr max     | $100  |
-| Insulation             | ?     |
-| Overall $/sqft min     | $30   |
-| Overall $/sqft max     | $150  |
-| Flooring/sq ft min     | $2    |
-| Flooring/sq ft max     | $3.5  |
-| Wall sheetrock/sqft    | $1.50 |
+| Type                   |        Cost        |
+| :--------------------- | :----------------: |
+| $/sqft min             |        $15         |
+| $/sqft max             |        $150        |
+| Slab foundation min    |        $4K         |
+| Slab foundation max    |        $12K        |
+| Land Clearing/sqft min |         $1         |
+| Land Clearing/sqft max |        $10         |
+| Land                   |        TBD         |
+| Prefab Shed            |      $10-14K       |
+| Permit                 |        TBD         |
+| License(s)             |        TBD         |
+| Title Search           |        $500        |
+| Real Estate Agent      | 2-3% of land value |
+
+**Livable add-on costs**
+
+| Type                | Cost  |
+| :------------------ | :---: |
+| Plumber/hr min      |  $45  |
+| Plumber/hr max      | $150  |
+| Approx plumbing     | $1750 |
+| Electrician/hr min  |  $44  |
+| Electrician/hr max  | $100  |
+| Insulation          |   ?   |
+| Overall $/sqft min  |  $30  |
+| Overall $/sqft max  | $150  |
+| Flooring/sq ft min  |  $2   |
+| Flooring/sq ft max  | $3.5  |
+| Wall sheetrock/sqft | $1.50 |
+| Septic tank         |   ?   |
+
+**Solar power**
+
+| Type                           |   Cost   |
+| :----------------------------- | :------: |
+| 4 300 watt solar panel         |  $1000   |
+| marine batteries               | 4 x $170 |
+| Lithium iron battery           |   $350   |
+| Lithium iron phosphate battery |   $730   |
+| golf cart battery              |   $160   |
+| sinewave inverter              | $170-260 |
+| cables/cabling                 |          |
+
+**Furnishing**
+
+| Type               |   Cost   |
+| :----------------- | :------: |
+| Igloo Fridge       |   $250   |
+| ice making machine |   $120   |
+| convection oven    |   $150   |
+| Wood for various   |    ?     |
+| Futon/Sleeper sofa | $600-800 |
 
 ## 1. [How Much Does It Cost To Build A Shed](https://www.urban-sheds.com/post/cost-to-build-a-shed)
 
@@ -44,7 +71,7 @@ _Last Updated: Nov 17, 2022_
 - If you want a large shed, say 12 by 16 feet, you will need to budget around $3,000 to $15,000
 - When considering the size of the shed, you should pay attention to the height as much as you do to the floor space. Shed prices differ if it has a high or low roof
 - Not all prefabricated shed manufacturers make concrete `slab foundations` a must. However, a significant number of large custom sheds will require one. Various municipalities require custom-built sheds and prefab sheds to have a concrete slab foundation. Ensure you are well informed about the rules in your area concerning construction projects. Needing shed foundation work will add to the final cost of your structure, which could range from $4,000 to $12,000
-- the importance of getting a fireproof shed. You should know that accidents occur, and there is no harm in being prepared. It is advised that you go for a shed that is fire resistant to protect your furniture and equipment from damage
+- The importance of getting a fireproof shed. You should know that accidents occur, and there is no harm in being prepared. It is advised that you go for a shed that is fire resistant to protect your furniture and equipment from damage
 
 Other Additional Costs
 
@@ -57,7 +84,7 @@ Other Additional Costs
 
 SUMMARY FROM OTHER SECTIONS:
 
-- cost around $30 - $150 per square foot - Converting your shed could cost you anywhere from $2000 to $30000. But the costs ultimately depend on the quality of raw materials, fixtures, and structures
+- Cost around $30 - $150 per square foot - Converting your shed could cost you anywhere from $2000 to $30000. But the costs ultimately depend on the quality of raw materials, fixtures, and structures
 - **All of these costs (including the cost of the shed) add up to around $20,000 – $27,000**
 - Getting your plumbing hooked up costs about $1,500 to $2,000.
 - You want to ensure your shed home is insulated - It costs around $3.50 per square footage to have someone spray foam your shed home – around $2.50 per square foot for flooring and ceiling and $2.50 per linear square foot for walls. For a standard shed home size (512 sq ft), that costs around $4,000 to $6,000

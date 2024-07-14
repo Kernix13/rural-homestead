@@ -6,24 +6,11 @@ Videos from Ken Wheeler who lives in Kentucky.
 
 ## Table of Contents
 
-1. [Miscellaneous notes](#miscellaneous-notes)
-2. [LAND Videos](#land-tips-videos)
-3. [SOLAR Videos](#solar-videos)
-4. [POWER Videos](#power-videos)
-5. [SURVIVAL Videos](#survival-videos)
-
-## Miscellaneous notes
-
-> How to find land with google maps and google earth
-> He mentioned Georgia as land people are buying
-
-Notes of things he mentioned:
-
-1. Sunflower butter! Better than peanut butter.
-2. Propane stove
-3. Okmo power station for charging things
-
-Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov/Documents/KHBC_Clay%20County.pdf |
+1. [LAND Videos](#land-tips-videos)
+2. [SOLAR Videos](#solar-videos)
+3. [POWER Videos](#power-videos)
+4. [SURVIVAL Videos](#survival-videos)
+5. [Miscellaneous notes](#miscellaneous-notes)
 
 ........................................
 
@@ -446,3 +433,16 @@ Parallel battery setup
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 .................................................
+
+## Miscellaneous notes
+
+> How to find land with google maps and google earth
+> He mentioned Georgia as land people are buying
+
+Notes of things he mentioned:
+
+1. Sunflower butter! Better than peanut butter.
+2. Propane stove
+3. Okmo power station for charging things
+
+Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov/Documents/KHBC_Clay%20County.pdf |
