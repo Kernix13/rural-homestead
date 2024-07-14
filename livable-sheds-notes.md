@@ -2,12 +2,29 @@
 
 > Can you live in a shed? (info and guides and tips)
 
-## 1. [Can You Live in a Shed on Your Property](https://www.urban-sheds.com/post/living-in-a-shed)
+<div id="back-to-top"></div>
+
+## Table of contents
+
+1. ARTICLE: <a href="#live-in-shed">Can You Live in a Shed on Your Property</a>
+2. ARTICLE: <a href="#shed-tiny-home">Guide To Turning A Shed Into A Tiny Home</a>
+3. ARTICLE: <a href="#livable-sheds">Everything You Need To Know About Liveable Sheds</a>
+4. ARTICLE: <a href="#shed-tiny-house">Turning Your Shed Into a Tiny House</a>
+5. ARTICLE: <a href="#linked-in">How to Turn a Shed into Tiny House</a>
+6. ARTICLE: <a href="#shed-homes">Shed Homes: The Complete Guide</a>
+7. ARTICLE: <a href="#tips-notes">Tips & Notes</a>
+8. ARTICLE: <a href="#faqs">FAQs</a>
+9. ARTICLE: <a href="#checklist">Checklist</a>
+10. ARTICLE: <a href="#shed-conversions">Shed conversions</a>
+11. ARTICLE: <a href="#air-barriers">Air Barriers—Airtight Drywall Approach</a>
+12. ARTICLE: <a href="#solar-panels">Solar Panels For Tiny Houses</a>
+
+<h2 id="live-in-shed">1. <a href="https://www.urban-sheds.com/post/living-in-a-shed">Can You Live in a Shed on Your Property</a></h2>
 
 - **PREFAB SHED**: If you're wondering what structure to go for, consider a `prefab shed`, as it's perfect for folks working on a budget – you can add windows and porches
 - Another great benefit of a prefab shed is you'll get help from the manufacturers with designing, permitting, and installing it.
 - But if you want a quick and easy installation that will comply with almost any building permit, it's best to try a prefab shed. Prefab shed kits cost around $2000 to $5000
-- the most serious problem you will probably face isn't the heating or cooling but compost from urine and feces. <ins>Although most owners usually hook their toilet up to a septic tank</ins>.
+- The most serious problem you will probably face isn't the heating or cooling but compost from urine and feces. <ins>Although most owners usually hook their toilet up to a septic tank</ins>.
 
 ### Class 1a Livable Shed
 
@@ -22,9 +39,11 @@ The general codes that apply to a **Class 1a livable shed** include:
 
 Your shed must pass all of these requirements or you can't make it an accessory dwelling unit.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 2. (An In Depth Guide To Turning A Shed Into A Tiny Home)[https://thetinylife.com/living-in-a-shed/]
+<h2 id="shed-tiny-home">2. <a href="https://thetinylife.com/living-in-a-shed/">An In Depth Guide To Turning A Shed Into A Tiny Home</a></h2>
 
 - Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
 - <ins>Because water is so easy to get, you can get it and the bill will provide "proof of residence" for things like the DMV, post office box, etc</ins>
@@ -35,11 +54,13 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - It could be done more cheaply if you build the shed yourself (_shed companies typically mark up 60% above material cost_).
 - **Solar is a great option** if you can't get power run to your shed: [Solar Panels For Tiny Houses](https://thetinylife.com/tiny-house-solar/)
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 3. [Everything You Need To Know About Liveable Sheds](https://www.hometownstructures.com/blog/liveable-sheds/)
+<h2 id="livable-sheds">3. <a href="https://www.hometownstructures.com/blog/liveable-sheds/">Everything You Need To Know About Liveable Sheds</a></h2>
 
-> My shed: 12x20 = 240 sqft
+> My shed: 12x20 = 240 sqft or 12x24 = 288 sqft
 
 - _A liveable shed can cost between $60 and $100 per square foot. A finished, insulated, and completed liveable shed can cost $150 and $200 per square foot_.
 - This means that a 12' x 16' liveable shed should cost anywhere from $11,520 to $19,200. A liveable finished 12' x 16' shed would cost from $28,800 to $38,400
@@ -52,9 +73,11 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - **Venting**: The two main venting options - soffit vents and gable vents - Soffit vents are found at the bottom of the roof and are a type of intake vent. A gable vent is located on the upper side of the shed below the two sides of the roof. This vent allows more for wind work than anything else
 - **Windows**: If you are going to be spending a considerable amount of time in your insulated shed, extra windows are a must.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 4. [Turning Your Shed Into a Tiny House](https://www.thespruce.com/shed-into-a-tiny-house-8379938)
+<h2 id="shed-tiny-house">4. <a href="https://www.thespruce.com/shed-into-a-tiny-house-8379938">Turning Your Shed Into a Tiny House</a></h2>
 
 - What is DADU (detached accessory dwelling unit) permissibility?
 - _North Carolina on the east coast is especially welcoming to ADU (Accessory Dwelling Unit) development_
@@ -63,9 +86,11 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - Using a composting toilet allows your off-grid tiny house to handle waste without water and sewer installations. Composting toilets turn human waste into a compost-like material, without the need for a water supply
 - <ins>You can put a bathroom in a shed by adding a partition wall or creating a separate walled space for the toilet</ins> - The shed will need a fresh water supply and it should be connected to the property's sewer or septic system. An alternative to these costly hookups is to install a waterless composting toilet
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 5. [How to Turn a Shed into Tiny House](https://www.linkedin.com/pulse/how-turn-shed-tiny-house-art-chartier-7kdkc/)
+<h2 id="linked-in">5. <a href="https://www.linkedin.com/pulse/how-turn-shed-tiny-house-art-chartier-7kdkc/">How to Turn a Shed into Tiny House</a></h2>
 
 - Take stock of your financial resources and set a realistic budget for the project. Keep in mind that unexpected expenses may arise, so it's wise to have a contingency fund
 - With limited space, every inch counts. Plan the layout thoughtfully, prioritizing functionality. Consider multifunctional furniture and creative storage solutions to maximize the use of your compact space
@@ -73,9 +98,11 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - If you plan to have plumbing and electrical amenities, consult with professionals to ensure safety and compliance with regulations. This may involve connecting to existing utilities or installing independent systems
 - **Prefab or Kit Sheds**: designed for easy assembly, making them a popular choice for DIYers. They often come with pre-cut materials and instructions, saving time and effort - Limited customization options compared to building from scratch
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 6. [Shed Homes: The Complete Guide](https://www.eshutilitybuildings.com/articles/shed-homes-complete-guide/)
+<h2 id="shed-homes">6. <a href="https://www.eshutilitybuildings.com/articles/shed-homes-complete-guide/">Shed Homes: The Complete Guide</a></h2>
 
 - **To have a legal shed home, the shed base must be built to the IRC (2018)**
 - it is legal to convert a shed built to IRC (2018) into a home in `Kentucky`
@@ -85,40 +112,46 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - <ins>Have a good foundation for your shed</ins>.
 - <ins>Electrical and Plumbing inspection before interior work</ins>.
 
-......................................................................
-
-## 7. [Tips & Notes](https://www.ncshedconversions.com/shed-conversion)
-
-- you need to carefully plan the space before you even order your shed. Window placement, door placement, and internal wall placement is critical to get right.
-- Below are some general items to consider when planning your shed conversion
-  1. **Plan the layout**: Determine the layout and design of your tiny home. Consider the placement of walls, windows, doors, and any necessary utilities such as plumbing and electrical connections. Also consider utilizing a loft as either an extra sleeping area or for storage
-  2. **Set the foundation**: Once you know the size and placement of the shed, the foundation will need to be set properly: poured concrete footings, poured piers, etc. **You may even be required to hire a crane to place the building in place**. Be sure to include this in your budgeting
-  3. **Install utilities**: Determine your requirements for electricity, plumbing, and heating/cooling. <ins>Hire professionals to handle electrical and plumbing work</ins>. Ensure that your electrical setup complies with local codes and that you get those items inspected and approved before adding items like insulation as inspectors will need access to see the connections
-  4. **Insulate and weatherproof**: Since sheds are typically not insulated for living purposes, you'll need to insulate the walls, ceiling, and floor to make the space comfortable and energy-efficient. Install weather stripping around doors and windows to prevent drafts.
-  5. **Flooring and interior finishes**: Choose suitable flooring materials that are durable and easy to maintain. Install walls, if necessary, using drywall or other appropriate materials...consider materials like shiplap or even galvanized metal panels on the ceiling or as a wainscoting feature. Finish the interior with paint or other desired finishes
-  6. **Kitchen and bathroom setup**: By code, you are required to have a kitchen with a sink and a bathroom that has a shower or tub and a toilet. You'll need to determine the layout and install necessary fixtures such as sinks, cabinets, countertops, and appliances. Plumbing work for water supply and drainage will be required, which may involve professional assistance
-  7. **Lighting and ventilation**: Install appropriate lighting fixtures and ensure proper ventilation to maintain air quality: windows, fans for airflow, lights on the outside by the front door
-  8. Gutters and awnings: water is the enemy to any home foundation, especially for tiny homes. In addition to adding gutters, adding awnings over doors will help keep water away.
-  9. **Skirting**: You will definitely want to install skirting around the unit. There are a variety of options to choose from, including, vinyl skirting, concrete or stucco skirting, brick and cinder block skirting, fiber cement skirting and lattice skirting. Be sure to leave room for access points.
-  10. **Porches and steps/ramps**: With some shed companies, you can order a porch that is built into the shed. That is a nice economic option, but the porches can be on the small side. <ins>If you want something larger, make plans early so that can be included in your budget and planning</ins>. Almost all sheds will need to be raised to allow for crawl space. That means you will need steps or a ramp for proper access.
-  11. **Furnishings and storage**: Choose <em><ins>multi-functional furniture</ins></em> pieces that can serve multiple purposes and make the most of the available space – futon (couch/bed), folding table tops, …
-  12. **Landscaping**: plan and budget for this part as well
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ......................................................................
 
-## 8. [FAQs](https://www.ncshedconversions.com/faqs)
+<h2 id="tips-notes">7. <a href="https://www.ncshedconversions.com/shed-conversion">Tips & Notes</a></h2>
+
+You need to carefully plan the space before you even order your shed. Window placement, door placement, and internal wall placement is critical to get right.
+
+Below are some general items to consider when planning your shed conversion
+
+1. **Plan the layout**: Determine the layout and design of your tiny home. Consider the placement of walls, windows, doors, and any necessary utilities such as plumbing and electrical connections. Also consider utilizing a loft as either an extra sleeping area or for storage
+2. **Set the foundation**: Once you know the size and placement of the shed, the foundation will need to be set properly: poured concrete footings, poured piers, etc. **You may even be required to hire a crane to place the building in place**. Be sure to include this in your budgeting
+3. **Install utilities**: Determine your requirements for electricity, plumbing, and heating/cooling. <ins>Hire professionals to handle electrical and plumbing work</ins>. Ensure that your electrical setup complies with local codes and that you get those items inspected and approved before adding items like insulation as inspectors will need access to see the connections
+4. **Insulate and weatherproof**: Since sheds are typically not insulated for living purposes, you'll need to insulate the walls, ceiling, and floor to make the space comfortable and energy-efficient. Install weather stripping around doors and windows to prevent drafts.
+5. **Flooring and interior finishes**: Choose suitable flooring materials that are durable and easy to maintain. Install walls, if necessary, using drywall or other appropriate materials...consider materials like shiplap or even galvanized metal panels on the ceiling or as a wainscoting feature. Finish the interior with paint or other desired finishes
+6. **Kitchen and bathroom setup**: By code, you are required to have a kitchen with a sink and a bathroom that has a shower or tub and a toilet. You'll need to determine the layout and install necessary fixtures such as sinks, cabinets, countertops, and appliances. Plumbing work for water supply and drainage will be required, which may involve professional assistance
+7. **Lighting and ventilation**: Install appropriate lighting fixtures and ensure proper ventilation to maintain air quality: windows, fans for airflow, lights on the outside by the front door
+8. Gutters and awnings: water is the enemy to any home foundation, especially for tiny homes. In addition to adding gutters, adding awnings over doors will help keep water away.
+9. **Skirting**: You will definitely want to install skirting around the unit. There are a variety of options to choose from, including, vinyl skirting, concrete or stucco skirting, brick and cinder block skirting, fiber cement skirting and lattice skirting. Be sure to leave room for access points.
+10. **Porches and steps/ramps**: With some shed companies, you can order a porch that is built into the shed. That is a nice economic option, but the porches can be on the small side. <ins>If you want something larger, make plans early so that can be included in your budget and planning</ins>. Almost all sheds will need to be raised to allow for crawl space. That means you will need steps or a ramp for proper access.
+11. **Furnishings and storage**: Choose <em><ins>multi-functional furniture</ins></em> pieces that can serve multiple purposes and make the most of the available space – futon (couch/bed), folding table tops, …
+12. **Landscaping**: plan and budget for this part as well
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+......................................................................
+
+<h2 id="faqs">8. <a href="https://www.ncshedconversions.com/faqs">FAQs</a></h2>
 
 9 Q's – important one:
 
 1. How to determine total interior square footage?
 
 - The width of the wall studs should be deducted from all sides of the building
-- add your interior wall finish thickness, i.e., ½ or ¾ inch drywall, to determine your exact interior square footage of the building
-- you have to subtract spaces such as bathrooms and kitchens
+- Add your interior wall finish thickness, i.e., ½ or ¾ inch drywall, to determine your exact interior square footage of the building
+- You have to subtract spaces such as bathrooms and kitchens
 
 ......................................................................
 
-## 9. [Checklist](https://www.ncshedconversions.com/checklist)
+<h2 id="checklist">9. <a href="https://www.ncshedconversions.com/checklist">Checklist</a></h2>
 
 1. Determine a Budget,
 2. Find a property,
@@ -133,9 +166,11 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 11. Once you get a pass for the inspections, start to add the paneling, flooring, kitchen, etc
 12. Landscaping
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ......................................................................
 
-## 10. [Sheds](https://www.ncshedconversions.com/sheds)
+<h2 id="shed-conversions">10. <a href="https://www.ncshedconversions.com/sheds">Shed conversions</a></h2>
 
 - Shed are sold with finished on the outside but unfinished on the interior where you can see the interior studs
 - **What to look for**:
@@ -151,7 +186,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - <ins>you will want to work with a shed company that offers upgrades to your shed such as insulated egress windows and drywall corners to help you meet home requirements</ins>.
 - Also make sure your shed company offers **certified, engineered drawings** for their sheds
 - **Shed delivery** is also an important part of the overall shed experience
-- consider the following _upgrades_: Insulated Egress Windows, Pre-Hung Insulated Doors, Transom Dormers, Hurricane Ties on Rafters, Collar Ties in Rafters, Drywall 3-Member Corners, 12" OC Floor Joists, House wrap under Siding, Interior Wall Height Studs, Tar Paper under Shingles, Ridge Vent
+- Consider the following _upgrades_: Insulated Egress Windows, Pre-Hung Insulated Doors, Transom Dormers, Hurricane Ties on Rafters, Collar Ties in Rafters, Drywall 3-Member Corners, 12" OC Floor Joists, House wrap under Siding, Interior Wall Height Studs, Tar Paper under Shingles, Ridge Vent
 
 ### Delivery
 
@@ -161,16 +196,18 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 - <ins>When you get the foundation requirements, it is good to work with the shed company to ensure they are aware of that plan</ins>. You can expect the shed company to block the building and raise it 2ft - 3 ft off the ground. They may have a slight charge for blocks if you don't have them on hand.
 - _Depending on the size of the building and the foundation, you may be required to hire a crane to put the building in place. While this is an additional cost to consider, this process is quite normal and to be expected for larger units_
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ................ _SPECIFIC INFORMATION BELOW HERE_ .......................
 
-## 1. [Air Barriers—Airtight Drywall Approach](https://www.buildingscience.com/documents/information-sheets/air-barriers-airtight-drywall-approach)
+<h2 id="air-barriers">1. <a href="https://www.buildingscience.com/documents/information-sheets/air-barriers-airtight-drywall-approach">Air Barriers—Airtight Drywall Approach</a></h2>
 
-- shows images of where you want/need to seal
+- Shows images of where you want/need to seal - check this article out!
 - I will do this myself
 
 ......................................................................
 
-## 2. [Solar Panels For Tiny Houses](https://thetinylife.com/tiny-house-solar/)
+<h2 id="solar-panels">2. <a href="https://thetinylife.com/tiny-house-solar/">Solar Panels For Tiny Houses</a></h2>
 
 - Long article!
 - Sections:
@@ -186,3 +223,5 @@ Your shed must pass all of these requirements or you can't make it an accessory 
   - Choosing Batteries For Solar
   - Wiring A Tiny House For Solar
   - Connection A Tiny House To Solar
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
