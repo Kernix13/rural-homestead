@@ -73,7 +73,7 @@ TAXES
 - SATELLITE INTERNET!
 - Solar panels: 3-4 300 watt 5.5' high x 4' wide is all you need - cheap batteries are lead acid
 - Drill for a well or bring in your drinking water
-- 320 gallon cube unit for $500
+- 240 or 320 gallon cube unit for $500 - paint it black to prevent the sun from hitting it so the water doesn't get fungus/mold in it (or does he mean algae?) - he collects rain water with his
 - Rain water for everything else
 - Does it have water - water is very important - spring is the best, next creek
 - How good is the internet and cell phone access? That is REALLY important
@@ -175,7 +175,8 @@ $1000 / acre without utilities:
 
 - No water: need a well, rain water and to buy water
 - No electricity: Many solar panels, batteries and associated equipment and knowledge
-- No internet: Starlink?
+- No internet: Starlink or Dish?
 - MUST HAVE NICE NEIGHBORS THAT ARE CLOSE
+- Weed wacker for around the cabin
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

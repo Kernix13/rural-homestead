@@ -44,7 +44,7 @@ Important topics/phrases from Land tips videos:
 - Solar panels: 3-4 300 watt 5.5' high x 4' wide is all you need
 - Cheap batteries are lead acid
 - Drill for a well or bring in your drinking water
-- _320 gallon cube unit_ for $500???
+- _240 or 320 gallan cube unit_ for $500???
 - Rain water for everything else: shower, toilet, sink, dishes, etc
 - Wood burning stove, copper coil around the pipe
 - Cheap property taxes in KY
@@ -202,9 +202,11 @@ Kentucky property taxes are extremely cheap
 
 ## SOLAR Videos
 
+> I need to learn how to solder
+
 Important topics/phrases from Land tips videos:
 
-- solar panel | Renogy | volt meter | Lithium Iron Phosphate battery | Deep Cycle Lead Acid (flooded) marine batteries | Nautilus | amp hours | deep discharge | charge controller | solar panel briefcase | Voyager | fuse | Nomad | golf cart battteries | cables/cabling | MMPT (Maximum Power Point Tracking) charge controller | sinewave inverter | photo voltaic connectors | Power Queen | prismatic lithium cells | Renogy connectors | battery bank | controller terminals | Igloo refrigerators | ice making machines | Parallel battery setup | Okmo | Jackery | Lithium iron battery | mono-crystalline | Cabling extensions | Charge controller cables | switch board connector | MC44 connectors |
+- solar panel | Renogy | volt meter | Lithium Iron Phosphate battery | Deep Cycle Lead Acid (flooded) marine batteries | Nautilus | amp hours | deep discharge | charge controller | solar panel briefcase | Voyager | fuse | Nomad | golf cart battteries | cables/cabling | MMPT (Maximum Power Point Tracking) charge controller | sinewave inverter | photo voltaic connectors | Power Queen | prismatic lithium cells | Renogy connectors | battery bank | controller terminals | Igloo refrigerators | ice making machines | Parallel battery setup | Okmo | Jackery | Lithium iron battery | mono-crystalline | Cabling extensions | Charge controller cables | switch board connector | MC44 connectors | Polycrystalline solar panels | monocrystalline | solar panel efficiency | Anderson power port cabling | Y-cable | incidence | watt-hours | gel, AGM, flooded, or lithium battery | MMPT Rover | alligator clips | parallel, series, voltage, amperage | 2-to-1 or 3-to-1 connectors | 12-volt batteries | Battery interconnect cables | inline fuse |
 
 ### 1. 😘 DIY Large SOLAR PANEL STAND 😄👍
 
@@ -313,7 +315,7 @@ Parallel battery setup
 
 > $900 for 4 trees to be cut down which was dangerous for the cabin + blocking the sun
 
-> NEVER, EVER HOOK UP SOLAR TO THE CHARGE CONTROLLER FIRST - ALWAYS HOOK UP THE BATTERIES FIRST TO THE CONTROLLER THEN HOOK UP THE SOLAR - and when breaking down disconnect solar panels from controller first
+> NEVER, EVER HOOK UP SOLAR TO THE CHARGE CONTROLLER FIRST - ALWAYS HOOK UP THE BATTERIES FIRST TO THE CONTROLLER THEN HOOK UP THE SOLAR - and when breaking down disconnect solar panels from controller first - the charge controller has no where to dump the energy to
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -372,19 +374,93 @@ Parallel battery setup
 
 ### 10. 🥰 Best value COMPACT SOLAR PANEL Briefcase. 100W SOLAR 🥰
 
--
+- Polycrystalline solar panels, solar panel efficiency,
+- Okmo OS 100W monocrystalline - $269
+- Anderson power port cabling - needd a Y-cable, he solders his own
+- **NOTE**: Decent wattage is 100 watts and above but 200 watts and above for decent recharge times
+- ... least amount of incidence relative to the surface of the solar panels
 
-### 11.
+<!-- MC44 connectors -->
 
--
+### 11. 🏡 🌞DIY OFF-GRID SOLAR PANEL SETUP for CABIN or MOBILE 🌞
 
-### 12.
+- 200 watt Goal Zero Nomad - $650 setup
+- He has 2 50 Watt solar panels that fold into a briefcase
+- You only need 4 major components
+- 1. Your solar panels - he has 100 watt monocrystalline
+- 2. You must use deep-cycle lead acid batteries - he has Nautilus Exide marine RV batteries for about $105, 115 mmilli-amps 31 MDC
+- 99% of people use deep-cycly marine batteries because Lithium batteries are insanely expensive
+- He has 12-volt charger to charge your battery fully beforehand because it will tke 16 hours to fully charge the battery under ideal conditions
+- **NOTE**: this unit ships with the solar panels connected to the charge controller but you want to connect to the battery first
+- 2 AMP "something" to chage the battery (10:00?) - with a cigarette lighter or an adapter - he has a NOCO 2 amp genius - He also has a 30 amp Dewalt charger which will recharge the battery quicker (where is the setup does that come in?)
+- 3. Power inverter, pure sinewave - he has a 1000 watt, it only has a single 3-prong outlet but he uses a 1-3 power strip - hooks up the +/- onto the battery terminals - his was $200
+- **NOTE**: everything he is running stuff off of solar charging is watt-hours
+- On ebay get 2 sets of alligator clips - he soldered the ends to hook back to the inverter
+- He said you don't need a 1000 watt inverter but he recommends that for a minimum - a 1000W requires a 100 watt battery - NOT A STANDARD CAR BATTERY FOR THIS SETUP
+- 4 RC4 connectors
+- 4. Charge controller - you need to set it - press the button to select the barry type: gel, AGM, flooded, or lithium battery -
 
--
+Finally:
 
-### 13.
+- Inverter hooked to the battery with alligator clips > plug your appliances into the inverter
 
--
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### 12. 🔥OFF GRID SOLAR setup at my cabin 🌞😎 DIY SOLAR
+
+He is running a mini fridge, minor appliances and recharging devices and batteries
+
+1. 2 150 amp hour lead acid 12-volt batteries connected in parallel (12 volts, 300 amps) - he does not have fuses for the batteries - they are not Lithium batteries - they are deep discharge batteries at $250 per piece - you want 150 amp hour deep discharge 12-volt golf cart batteries - $500 for 300 amp hours
+2. 2000 watt power inverter - he has a fuse on the inverter - set the params for the type of batteries you are using, then set how many amp hours,
+3. 60 amp MMPT Rover charger - he has a fuse on the on the charge controller
+4. 320 watt Renogy solar panel - he has 4 of them - don't get larger than 320 watt solar panels
+
+- For the 2 batteries in parallel, you need 2 sets of jumper cables, they need to be beefy between the battery and inverter - from the inverter to the positive of one battery to the negative of the other
+- the alligator clips from the charge controller go to the positive of one battery to the negative of the other battery (same as the inverter)
+- You should NOT use alligator clips from the inverter to the batteries OR from battery to battery to connect in parallel (wires get hot, fire hazard), but you can use 12-guage wiring to connect from the charge controller to the batteries because it is not high current UNLESS you have an enormous amount of solar panels
+- he mentioned at 6:15 that he is going to ground the inverter (how?)
+- the whole setup cost him $1500
+
+> Batteries in parallel: same voltage but higher amperage
+> Batteries in series: higher voltage but same amperage
+> NEVER buy the flexible solar panels
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### 13. 🌞🔥 EMERGENCY SOLAR SETUPS 🤗
+
+- Emergency super simple solar setup - he attached diagrams to this video - he also lists the gear with links - here is the gear:
+  - Power Queen 12.8V 300Ah LiFePO4 Battery
+  - Power Queen 12.8V 200Ah LiFePO4 Battery
+  - Power Queen 12V/24V 30 Amp MPPT Solar Charge Controller
+  - Power Queen 100W Portable Solar Panel
+  - 320W RENOGY SOLAR PANELS
+  - RENOGY 400W PORTABLE SOLAR PANEL BRIEFCASE
+  - RENOGY 40FT SOLAR PANEL TO CHARGE CONTROLLER CABLES
+  - RENOGY 200W PORTABLE SOLAR PANEL BRIEFCASE
+  - RENOGY 200W RIGID SOLAR PANELS
+  - RENOGY 60AMP CHARGE CONTROLLER
+- 2-to-1 or 3-to-1 connectors for your solar panels depending on how many you have
+- You SHOULD have but you do NOT need to have an inline fuse between your battery and your power inverter
+- **_The Setup_**: power inverter to batteries > batteries to charge controller > solar panels to charge controller with Y-connectors in between - and of course cabling
+- Most inverters have 2 power sockets - he has a Renogy 2000 Watt which he got on sale for $260 - comes with beefy cables
+- You need beefy cables if setting up batteries in parallel or series
+- Keep it simple and have 12-volt batteries
+- Battery interconnect cables -
+- Check your charge controller limit for amp hours - you may not be able to have many batteries in parallel
+- Charge controller - positive to the positive of battery A and the negative to the negative of battery B - same for your inverter to the batteries
+- But the first thing is to connect your batteries in parallel then connect the charge controller then the inverter
+- You don't need beefy cables from your charge controller to the batteries or from the solar panels to the controller
+- He is using battery jumper cables which he split into 2 and cut them in half to get 2 sets
+- The charge controller needs to know what it is charrging up so set the battery type and amperage
+- He has 40' Renogy cables (recommended length to go from outside to inside) that go from the charge controller to the solar panels
+- He has a 100 watt solar panel but he does not recommend buying them but 200 watt is ideal in his opinion
+- Renogy 200 watt briefcase solar panels
+- 60 amp MMPT REnogy Rover charge controller - can hook up max 800 watts of 12-volt solar to this unit
+- rigid solar panels can stay outdoors all t he time but not the briefcase models
+- Battery interconnect cables = when connecting multiple batteries together - you can't use jumper cables going from your battery to your inverter
+- Another charge controller: Power Queen MPPT 30 amp with a max of 400 watts of solar, half of the Rover 60 Amp - it has Load connections which you do not need to hook anything to that - you can use the REnogy cables but you need to strip them down
+- He recommends an inline fuse between the positive of your inverter to your battery
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -392,9 +468,11 @@ Parallel battery setup
 
 ## POWER Videos
 
-### 1.
+### 1. 🙃 MY 2021 Sale Pick for an UPSIDE DOWN WORLD 😂
 
 -
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### 2.
 
