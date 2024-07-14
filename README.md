@@ -5,7 +5,7 @@ This is mostly a markdown repo containing notes I need to find rural land in Ken
 Eventually, I want to turn it into a homestead and as off-grid as possible. The plan after getting my prefab cabin is to:
 
 - Build out buildings as needed,
-- get all/most of my power from solar,
+- Get all/most of my power from solar panels,
 - Grow as much food as I can,
 - Raise chickens,
 - Fish, hunt, and trap as much meat as I can,
@@ -36,11 +36,11 @@ Other important markdown files:
 3. `sheds-cabins1.md`: There is some unique info in here and some duplicate info. Most of the info that was in here is now in the `livable-sheds` files
 4. `kentucky.html` and `style.css`: a quick HTML file used to paste into a CodePen pen for the agent who helped me - very little styling.
 
-<hr>
-
-> Look into adding `CHANGELOG.md` - look at https://github.com/vweevers/common-changelog and https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c
-
 <!--
+   Look into adding `CHANGELOG.md` - look at
+   1. https://github.com/vweevers/common-changelog and
+   2. https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c
+
    <div id="back-to-top"></div>
 
    <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
