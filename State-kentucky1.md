@@ -1,7 +1,22 @@
 # Information specific to Kentucky
 
+> This file is quite messy...
+
 1. [Best States for Tiny Homes to Build and Live in The US](https://www.autonomous.ai/ourblog/best-states-for-tiny-homes-to-build)
 2. [2024’s Best States for Tiny House Living](https://www.lawnstarter.com/blog/studies/best-states-for-tiny-houses/): Kentucky is #2
+
+<div id="back-to-top"></div>
+
+## Table of Contents
+
+1. [Kentucky Counties](#kentucky-counties)
+2. [Kentucky Permits by County](#kentucky-permits-by-county)
+3. [Kentucky Permits by City](#kentucky-permits-by-city)
+4. [Miscellaneous](#miscellaneous)
+5. [Campgrounds with cabins to rent in Kentucky](#campgrounds-with-cabins-to-rent-in-kentucky)
+6. [Facebook undeveloped land for sale in kentucky](#facebook-undeveloped-land-for-sale-in-kentucky)
+7. [Miscellaneous2 notes for Kentucky](#miscellaneous2-notes-for-kentucky)
+8. [Shed or tiny home permits](#shed-or-tiny-home-permits)
 
 ## Kentucky Counties
 
@@ -14,6 +29,8 @@ Check out these counties in KY: Pike, Boyd, Greenup:
 - Pikeville in Pike county
 - 8hrs from `Pikeville` to Virginia beach, 9.5 hrs to Assateauge | 8.5 to Manteo
 - How/where to find rural land for sale in KY
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Kentucky Permits by County
 
@@ -51,6 +68,8 @@ PERMIT REQUIREMENTS: Counties in KY: https://www.eshutilitybuildings.com/article
 - `Greenup County` https://www.businesslicenses.com/Licenses/KY/Greenup/Greenup-2108933004/Building-Permit-25895/
 
 Clay County (Manchester) local building permit requirements: https://dhbc.ky.gov/Documents/KHBC_Clay%20County.pdf |
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Kentucky Permits by City
 
@@ -96,6 +115,8 @@ REQUIREMENTS: Cities/Towns in KY
 - Campbellsville https://codelibrary.amlegal.com/codes/campbellsville/latest/campbellsville_ky/0-0-0-4110
 - Lawrenceburg https://lawrenceburgky.org/code-enforcement-building-inspector/
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 .........................................................................
 
 ## Miscellaneous
@@ -118,7 +139,10 @@ Google search for "best sheds in kentucky":
 
 > how to find undeveloped land for sale in kentucky
 > how to find raw land for sale in kentucky
-> ...........................................................................
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+...........................................................................
 
 ## Campgrounds with cabins to rent in Kentucky
 
@@ -133,7 +157,7 @@ I may need to stay in a cabin while I look because of Luna or find a cat sitter 
 
 > Next: Natural Bridge State Resort Park - parks.ky sucks because it goes to a different site and searching sucks
 
-- [Camping in Kentucky and Surrounding Areas Facebook group](https://www.facebook.com/groups/1159070021242952/)
+### [Camping in Kentucky and Surrounding Areas Facebook group](https://www.facebook.com/groups/1159070021242952/)
 
 ```
 <!-- Message for the group: -->
@@ -163,6 +187,8 @@ Are there any cat lovers in this group who have any ideas to solve my dilemma?
 - https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39322
 - [Kentucky U.S. National Park Service](https://www.nps.gov/state/ky/index.htm)
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ## Facebook undeveloped land for sale in kentucky
 
 - Group: https://www.facebook.com/groups/407741149892986/
@@ -174,7 +200,7 @@ Are there any cat lovers in this group who have any ideas to solve my dilemma?
 
 .......................................................................
 
-## Miscellaneous notes for Kentucky
+## Miscellaneous2 notes for Kentucky
 
 How to find raw rural land in ...
 
@@ -215,6 +241,8 @@ Landwatch.com - just repeats
 
 Land.com - nothing
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ## Shed or tiny home permits
 
 Kentucky
@@ -222,3 +250,5 @@ Kentucky
 - https://shelbycounty.ky.gov/departments/building-inspector/Pages/Permit-Requirements.aspx
 - https://madisoncountyky.gov/planning/applications-regulations/
 - https://www.eshutilitybuildings.com/articles/tiny-home-regulations-in-ky/
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
