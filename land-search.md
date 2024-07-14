@@ -1,12 +1,10 @@
 # My Land Searching
 
-> This first section including the articles is what I found, but I have not looked at them yet in detail.
+> I found 6 websites and all are free. Are there other sites? How can I find land that has not been listed yet? Private Facebook groups? Forums? Local town or city websites?
 
 ## Search terms and results
 
-Websites already looked at: LandSearch.com, LandAndFarm.com, LandWatch.com, Land.com
-
-TERMS:
+SEARCH TERMS:
 
 - undeveloped land for sale
 - websites listing raw land for sale
