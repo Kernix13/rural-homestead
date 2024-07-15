@@ -15,8 +15,8 @@ Eventually, I want to turn it into a homestead and as off-grid as possible. The 
 There are 3 sets of markdown files:
 
 1. `livable-sheds-[type]`: `-costs.md`, `-notes.md`, `-permits.md`, and `-steps.md` are categorized notes that were in the `Rural` files and may be duplicated in the `sheds-cabins` files
-   1. `livable-sheds-costs.md`: Costs associated with converting your shed/cabin into a livable space
-   2. `livable-sheds-notes.md`: the most general of the 3 files and contains Notes, Info, Guides and Tips on livable sheds
+   1. [livable-sheds-costs.md](livable-sheds-costs.md): Costs associated with converting your shed/cabin into a livable space
+   2. [livable-sheds-notes.md](livable-sheds-notes.md): the most general of the 3 files and contains Notes, Info, Guides and Tips on livable sheds
    3. `livable-sheds-permits.md`: Has information from various articles on permits, zoning, and licensing
    4. `livable-sheds-steps.md`: the shortest of the 3 files and is a general overview of the process
 2. `Rural_[#]`: `Rural_1.md`, `Rural_2.md`, and `Rural_3.md` were my original working files
