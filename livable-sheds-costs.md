@@ -44,20 +44,20 @@
 | Type                           |   Cost   |
 | :----------------------------- | :------: |
 | 4 300 watt solar panel         |  $1000   |
-| marine batteries               | 4 x $170 |
+| Marine batteries               | 4 x $170 |
 | Lithium iron battery           |   $350   |
 | Lithium iron phosphate battery |   $730   |
-| golf cart battery              |   $160   |
-| sinewave inverter              | $170-260 |
-| cables/cabling                 |          |
+| Golf cart battery              |   $160   |
+| Sinewave inverter              | $170-260 |
+| Cables/cabling                 |          |
 
 **Furnishing**
 
 | Type                 |   Cost   |
 | :------------------- | :------: |
 | Igloo Fridge         |   $250   |
-| ice making machine   |   $120   |
-| convection microwave | $200-500 |
+| Ice making machine   |   $120   |
+| Convection microwave | $200-500 |
 | Wood for various     |    ?     |
 | Futon/Sleeper sofa   | $600-800 |
 
