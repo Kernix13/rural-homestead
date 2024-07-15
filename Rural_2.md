@@ -2,6 +2,10 @@
 
 Videos from Ken Wheeler who lives in Kentucky.
 
+Here is [his YouTube channel link](https://www.youtube.com/@kathodosdotcom).
+
+Here is [my playlist link](https://www.youtube.com/playlist?list=PLKyHVFwCKntjf6R3r_VTOHjTDtb_naDkE) with all of these videos.
+
 <div id="back-to-top"></div>
 
 ## Table of Contents
@@ -204,7 +208,7 @@ Kentucky property taxes are extremely cheap
 
 > I need to learn how to solder
 
-Important topics/phrases from Land tips videos:
+Important topics/phrases from Solar videos:
 
 - solar panel | Renogy | volt meter | Lithium Iron Phosphate battery | Deep Cycle Lead Acid (flooded) marine batteries | Nautilus | amp hours | deep discharge | charge controller | solar panel briefcase | Voyager | fuse | Nomad | golf cart battteries | cables/cabling | MMPT (Maximum Power Point Tracking) charge controller | sinewave inverter | photo voltaic connectors | Power Queen | prismatic lithium cells | Renogy connectors | battery bank | controller terminals | Igloo refrigerators | ice making machines | Parallel battery setup | Okmo | Jackery | Lithium iron battery | mono-crystalline | Cabling extensions | Charge controller cables | switch board connector | MC44 connectors | Polycrystalline solar panels | monocrystalline | solar panel efficiency | Anderson power port cabling | Y-cable | incidence | watt-hours | gel, AGM, flooded, or lithium battery | MMPT Rover | alligator clips | parallel, series, voltage, amperage | 2-to-1 or 3-to-1 connectors | 12-volt batteries | Battery interconnect cables | inline fuse |
 
@@ -444,7 +448,7 @@ He is running a mini fridge, minor appliances and recharging devices and batteri
 - You SHOULD have but you do NOT need to have an inline fuse between your battery and your power inverter
 - **_The Setup_**: power inverter to batteries > batteries to charge controller > solar panels to charge controller with Y-connectors in between - and of course cabling
 - Most inverters have 2 power sockets - he has a Renogy 2000 Watt which he got on sale for $260 - comes with beefy cables
-- You need beefy cables if setting up batteries in parallel or series
+- You need beefy cables if setting up batteries in parallel or series, actually not as beefy for series
 - Keep it simple and have 12-volt batteries
 - Battery interconnect cables -
 - Check your charge controller limit for amp hours - you may not be able to have many batteries in parallel
@@ -468,27 +472,37 @@ He is running a mini fridge, minor appliances and recharging devices and batteri
 
 ## POWER Videos
 
-### 1. 🙃 MY 2021 Sale Pick for an UPSIDE DOWN WORLD 😂
+Important topics/phrases from POWER videos:
 
 -
+- 2000 watt Okmo Solar Generator, Lithium power station, really expensive, $2100
+- LiFePo4 Power Queen 12 volt 200 Ah battery
+- Lead acid battery off-gas flammable acidic gas
 
-<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+> You don't want to drain lead acid batteries below 50% or they lose their effectiveness - same with Lithium - you can drain them to zero here and don't drain them super low super fast but you can take them way lower than lead acids
 
-### 2.
+### 1. 😘⚡️ Power & Lighting MUST HAVE Favorites 🤩
 
--
+> The first 3 videos in my playlist were not that good so I deleted the first two and the notes above here are the notes from those 3 videos
 
-### 3.
+- [VOLTAIC Touchlite](https://voltaicsystems.com/usb-touchlight/): $12, 5-pack is $55 - low power usage, large range of power output
+- [DeWalt DCL043 Light](https://www.dewalt.com/product/dcl043/20v-max-jobsite-led-spotlight): $71,you need Dewalt battery packs with this
+- Power Inverter: 2000 watt Renogy vs Power Queen - Renogy is better
+- Charge controllers: Power Queen charge controllers are better than Renogy - you can use a Lithium charger (20 watt) to charge your Lithium batteries when do not want to hook up your solar panels
+  - [Power Queen 29.2V 20Amp Lithium LiFePO4 Battery Charger](https://ipowerqueen.com/collections/battery-charger/products/power-queen-29-2v-20amp-lithium-lifepo4-battery-charger)
+  - Power Queen 12.8V 200Ah LiFePO4 Battery
+  - Power Queen 12.8V 300Ah LiFePO4 Battery
+  - Power Queen 12V/24V 30 Amp MPPT Solar Charge Controller
+  - Power Queen 100W Portable Solar Panel
+- Lithium's do not like fast discharge or deep discharge
 
--
+> You can't use a 12-volt battery charger on a Lithium battery or you can harm your Lithium battery pack
 
-### 4.
+### 2. 🤯 POWER Independence. 200AH LITHIUM Best Option 🔥
 
--
-
-### 5.
-
--
+- Lithiums: no fast discharges, no deep discharges!
+- Repeat of above: _Power Queen 12.8V 200Ah LiFePO4 Battery_ ($458.99) & _Power Queen 12V/24V 30 Amp MPPT Solar Charge Controller_
+- Lithium Iron batteries are not to catch fire or explode but that is not true of Lithium Iron Phospate batteries
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -496,17 +510,42 @@ He is running a mini fridge, minor appliances and recharging devices and batteri
 
 ## SURVIVAL Videos
 
-### 1.
+### 1. 😇 Cabin Survival thoughts Tools & Thoughts 🌳
 
--
+- Double-bladed axe and hatchet
+- Mylar insulation (bubble-wrap)
+- Iso-butane stove
+- Chain saw and saw ripper
+- Rope
+- Rubbing alcohol: spray to keep the mildew down
+- Benelli shotgun
+- Heat induction fans on the wood burning stove
+- Water containers for storing water with optional spigot attached
+- Bushcraft knives and machetes
+- Walking sticks
+- 320 gallon tank to collect rain water
+- MSR internationale, MSR Dragonfly
+- Ferro rods
+- Sawyer micro filter, Katadyne hiker pro water filter - when you use the filters you need to take them out to let them dry
+- Tarps
 
-### 2.
+### 2. 🤔 Emergency Portable Power & Communications. OKMO & BAOFENG
 
--
+- Repeat of OKMO Solar Generator 1000W and 2000W
+- FAHB BAofeng radio - Baofengs are cheap - not worth it
 
-### 3.
+> Every one should have a power station
 
--
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### 3. 🔥🌳 CABIN Survival tools 😁 OFF GRID living
+
+- Sun Gold LiFePO4 battery
+- Sawyer micro squeeze
+- 100% pure coconut oil - insect repellent, prevents poison ivy
+- UCO Titan stormproof matches
+- First aid
+- Gun
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 

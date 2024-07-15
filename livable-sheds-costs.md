@@ -23,20 +23,21 @@
 
 **Livable add-on costs**
 
-| Type                | Cost  |
-| :------------------ | :---: |
-| Plumber/hr min      |  $45  |
-| Plumber/hr max      | $150  |
-| Approx plumbing     | $1750 |
-| Electrician/hr min  |  $44  |
-| Electrician/hr max  | $100  |
-| Insulation          |   ?   |
-| Overall $/sqft min  |  $30  |
-| Overall $/sqft max  | $150  |
-| Flooring/sq ft min  |  $2   |
-| Flooring/sq ft max  | $3.5  |
-| Wall sheetrock/sqft | $1.50 |
-| Septic tank         |   ?   |
+| Type                     | Cost  |
+| :----------------------- | :---: |
+| Plumber/hr min           |  $45  |
+| Plumber/hr max           | $150  |
+| Approx plumbing          | $1750 |
+| Electrician/hr min       |  $44  |
+| Electrician/hr max       | $100  |
+| Insulation               |   ?   |
+| Overall $/sqft min       |  $30  |
+| Overall $/sqft max       | $150  |
+| Flooring/sq ft min       |  $2   |
+| Flooring/sq ft max       | $3.5  |
+| Wall sheetrock/sqft      | $1.50 |
+| Septic tank              |   ?   |
+| Wood burning stove (new) | $800  |
 
 **Solar power**
 
