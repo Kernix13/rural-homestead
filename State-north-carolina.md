@@ -2,15 +2,15 @@
 
 ## Rural property - notes from Rich
 
-- where to find rural land for sale
+- Where to find rural land for sale
 
-> You should look around on `Roanoke island` where I'm at. If you go. West of my position to `Columbia`. You get a big piece of land with a house on it, but it's a little out of the way. Where you can look in `Manns Harbor`. That's just a 10 minute drive from where I'm at. I think you would love the island life.
+> _You should look around on `Roanoke island` where I'm at. If you go. West of my position to `Columbia`. You get a big piece of land with a house on it, but it's a little out of the way. Where you can look in `Manns Harbor`. That's just a 10 minute drive from where I'm at. I think you would love the island life_.
 
-- outer banks north carolina
+- Outer banks north carolina, Cape Hatteras
 - https://www.realtor.com/realestateandhomes-detail/140-Pearce-Point-Dr-5_Columbia_NC_27525_M93272-66831?cid=txt_shares_rdc_ldp
 - https://www.realtor.com/realestateandhomes-search/Columbia_NC/price-na-30000
-- towns in the outer banks of north carolina
-- https://www.outerbanks.org/plan-your-trip/towns-and-villages/
+- "Towns in the outer banks of North Carolina"
+- [Villages & Towns in Outer Banks](https://www.outerbanks.org/plan-your-trip/towns-and-villages/)
 - Columbia, North Carolina 27925 to Manteo, North Carolina 27954 = 41mins, 37mi
 
 ..............................................
@@ -27,16 +27,11 @@
 ## Manteo Apartments - zip code 27954
 
 > Tyrrell or Dare or Hyde Counties
-> short term rentals Tyrrell county north carolina
-> short term Accessory dwelling units rentals Dare county north carolina
-> short term sublet rentals Hyde county north carolina
-> short term Accessory dwelling unit rentals Hyde county north carolina
-> short term Guest house rentals Hyde county north carolina
-
-- https://outerbanks.craigslist.org/search/apa?query=1%20bedroom%20apartments#search=1~grid~0~0
-- https://www.facebook.com/marketplace/item/1146123666604020/?ref=marketplace_pdp_share
-- https://www.facebook.com/marketplace/item/772621144327188/?ref=marketplace_pdp_share
-- https://www.realtor.com
+> Short term rentals Tyrrell county north carolina
+> Short term Accessory dwelling units rentals Dare county north carolina
+> Short term sublet rentals Hyde county north carolina
+> Short term Accessory dwelling unit rentals Hyde county north carolina
+> Short term Guest house rentals Hyde county north carolina
 
 ...........................................
 
@@ -47,7 +42,7 @@
 Google search for "best sheds in north carolina":
 
 - [The Shed Depot of NC](https://www.buildashednc.com/) - 2+ hrs away Goldsboro
-- **[Liberty Sheds](https://www.libertysheds.com/)** - 4+ hrs away Mocksville, NC - https://www.libertysheds.com/compare-all-shed-styles |
+- **[Liberty Sheds](https://www.libertysheds.com/)** - 4+ hrs away Mocksville, NC - https://www.libertysheds.com/compare-all-shed-styles | This one is the best
 - [What Counties In North Carolina Allow Tiny Houses](https://www.greatlakestinyhome.com/what-counties-in-north-carolina-allow-tiny-houses/) - Jackson county, just west of Ashville which is 8 hrs from Roanoke Island
 - [FAQ: NORTH CAROLINA PERMITTING](https://sheddepotnc.com/faq-north-carolina-permitting/) -
 - Where to find rural land for sale in NC – contact **Liberty Sheds**
@@ -67,13 +62,15 @@ Google search for "best sheds in north carolina":
   - Egress Requirements (minimum windows and size)
   - Foundation.
 
-- in North Carolina, we would recommend Liberty Sheds. They are a North Carolina company that builds its sheds locally with what really are the best products in the market
+- in North Carolina, we would recommend **_Liberty Sheds_**. They are a North Carolina company that builds its sheds locally with what really are the best products in the market
 
 ............................................................................
 
 ## Facebook undeveloped land for sale in north carolina
 
-- Group: https://www.facebook.com/groups/3339921772972888/?hoisted_section_header_type=recently_seen&multi_permalinks=3475585999406464
+Groups:
+
+- https://www.facebook.com/groups/3339921772972888/?hoisted_section_header_type=recently_seen&multi_permalinks=3475585999406464
 - https://www.facebook.com/groups/2222197854603401/
 - https://www.facebook.com/groups/ncland/
 - https://www.facebook.com/groups/181017914689161/
