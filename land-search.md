@@ -44,15 +44,17 @@ SEARCH TERMS:
 5. [General Services Administration sells real property](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal) - including Undeveloped land - uses realestatesales.gov - _SKIP_
 6. [Bureau of Land Management (BLM) sells public lands](https://www.blm.gov/programs/lands-and-realty/sales-and-exchanges) - which are undeveloped land tracts with no improvements - To learn about public lands for sale, [find and contact the BLM state office](https://www.blm.gov/office/national-office) for the area where you are interested - _NOTHING_
 
-## LandCentury.com
+## NEW WEBSITES
+
+[LandCentury.com](https://www.landcentury.com/)
 
 -
 
-## LandBrokerMLS.com
+[LandBrokerMLS.com](https://www.landbrokermls.com/)
 
 -
 
-## LandHub.com
+[LandHub.com](https://www.landhub.com/)
 
 -
 
@@ -91,9 +93,88 @@ For those seeking a more streamlined and comprehensive approach, there are paid 
 
 ## ARTICLE: [How To Get MLS Access In 6 Ways (Even Without A License)](https://www.realestateskills.com/blog/mls-access)
 
+...securing access might seem challenging, especially for those who don't possess a real estate license, but it's not an insurmountable task.
+
+### What Is The Multiple Listing Service (MLS)?
+
+The MLS in your region is the database of all on-market houses for sale in your local market. The MLS is a private database maintained by real estate professionals to share information and help their clients buy and sell properties.
+
+The MLS provides data such as Property pictures, Real estate listings, Listing agent’s phone number, Bedroom and bathroom count, Square footage of the house, Zoning and lot square footage, Important listing information.
+
+There are hundreds of different types of MLS systems across the nation, because they are region-specific.
+
+### Why Get Access To The MLS Database?
+
+The MLS is the ultimate source of all the on-market property in your region. IT is where other websites pull their information from because it is the source...nothing is going to beat out the actual MLS. It is the most up-to-date resource.
+
+### How Much Does MLS Access Cost?
+
+The cost of getting MLS access is extremely nominal. Other users of the MLS, such as unlicensed MLS assistants and appraisers, normally come with lower costs to access the MLS database. Fees can be as low as $0 to $75 per month. The key here is to work with a licensed agent to obtain this type of access, which we’ll cover in more detail later in this guide.
+
+### How To Get MLS Access With 6 Strategies
+
+1. ~~Get A Real Estate License~~
+2. ~~Using a Real Estate Agent’s or Broker’s Personal MLS Login~~
+3. Leverage Free Online MLS Listings
+4. IDX Websites
+5. PropStream
+6. ~~Unlicensed Assistant Access~~
+
+### Leverage Free Online MLS Listings
+
+These online databases offer a significant degree of versatility and information:
+
+- [Realtor.com](https://www.realtor.com/): provides the contact numbers for brokers representing listed properties then dive into research
+- [Trulia.com](https://www.trulia.com/): searches across diverse listing categories, from foreclosures and reduced-price properties to resale and for sale by owner (FSBO) listings
+- [Zillow.com](https://www.zillow.com/): parallels Trulia in functionalities
+
+### IDX WEbsites
+
+An IDX website is a syndication of the local MLS feed that a real estate agent hosts on their own website. Most real estate broker’s websites can instantly search properties in your area. This is free, quick, and simple.
+
+This is comparable to looking at properties on Zillow or Redfin, without a lot of the user-friendly features... you will not be able to see all of the crucial information.
+
+### PropStream
+
+[PropStream](https://trial.propstreampro.com/realestateskills/) is a real estate software that pulls MLS data from across the nation, as well as data from other records, such as tax, lien, and mortgage information providers.
+
+PropStream offers instant access to the majority of MLS listings in the nation. It's important to note that PropStream doesn’t contain about 5% of the MLS listings in the nation and there’s usually a seven to ten-day delay for new listings to be populated.
+
+> ARV, signifies the potential value of a property once all renovations and improvements have been executed
+
 ## ARTICLE: [How To Build A Real Estate Network](https://www.realestateskills.com/blog/network)
 
+> This is for agents, not for me
+
 ## ARTICLE: [What Is a Real Estate Attorney, and Do You Need One?](https://www.nerdwallet.com/article/mortgages/real-estate-attorney)
+
+A real estate attorney's role is to ensure the legal transfer of property from seller to buyer. These attorneys handle tasks like preparing or reviewing documents, ensuring that the title is clear and facilitating the transfer of funds.
+
+A real estate lawyer's exact duties will vary depending on whether you, the seller or the lender hire them, what your state laws require and what's needed for your home purchase to proceed smoothly.
+
+### What does a real estate lawyer do?
+
+Real estate attorneys handle "real property" transactions. Real property is somewhat interchangeable with real estate — land and permanent structures that are fixed in place.
+
+...a real estate lawyer may prepare or review all of the documents related to your home purchase, including the contract, any additional agreements made with the seller, documents from your lender, and title and transfer documents. If you use a real estate attorney, they may also attend the closing, either virtually or in person.
+
+Real estate attorneys sometimes handle additional parts ... like title searches and title insurance, to ensure there are no outstanding claims or liens against the property.
+
+### Should you hire a real estate attorney?
+
+Even if real estate attorneys aren’t required in your state, you may still want to retain one if you're dealing with a trickier type of purchase, like a short sale, or if there's an issue like a neighboring structure crossing over the property line.
+
+In states that require a closing attorney, know that even though you hire and pay for the lawyer, they are considered a neutral party whose interest is simply to complete the transaction.
+
+> _A real estate attorney is representing your interests only if you hire them as your advocate_.
+
+### How much will a real estate attorney cost?
+
+Real estate attorney costs will vary depending on what services you need and how they choose to bill you. The attorney may charge a flat fee that encompasses a specific set of services (like examining the title abstract and providing a title opinion) or an hourly fee.
+
+Real estate attorney fees are generally paid as part of your **_closing costs_**.
+
+> _Check your attorney's credentials with your state's bar association to ensure they are in good standing_
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
