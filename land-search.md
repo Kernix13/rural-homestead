@@ -46,17 +46,42 @@ SEARCH TERMS:
 
 ## NEW WEBSITES
 
-[LandCentury.com](https://www.landcentury.com/)
+~~[LandCentury.com](https://www.landcentury.com/)~~
 
--
+- Only one listing in Kentucky: 3.6 acres for $45K - That's ridiculous
 
 [LandBrokerMLS.com](https://www.landbrokermls.com/)
 
+- Has 2 possible listings that I saw on other websites
+
+~~[LandHub.com](https://www.landhub.com/)~~
+
+- Only one listing in Kentucky: 4 acres for $30K - also ridiculous
+
+[LoopNet.com](https://www.loopnet.com/)
+
+- One listing that is ridiculously cheap: 189 acres for $3900
+  - [Highway 951 - Lot 17 - Philpot, KY 42366](https://www.loopnet.com/Listing/Highway-951-Philpot-KY/30273993/)
+
+[Commercial Brokers Association](http://commercialmls.com/)
+
 -
 
-[LandHub.com](https://www.landhub.com/)
+[Craigslist](http://craigslist.org/)
 
 -
+
+[Land Central](https://landcentral.com/)
+
+-
+
+[Brevitas](https://brevitas.com/)
+
+- Maybe
+
+Nothing for me: ~~CREXI~~, ~~Commercial Brokers Association~~, ~~CommercialCafe~~, ~~CIMLS~~, ~~Leavitt Digital~~,
+
+Check out [Guide to the best commercial real estate listings platforms](https://www.reonomy.com/resources/guide-to-the-best-commercial-real-estate-listings-platforms/)
 
 ## ARTICLE: [How To Find Vacant Properties](https://www.realestateskills.com/blog/how-to-find-vacant-properties)
 
@@ -180,4 +205,71 @@ Real estate attorney fees are generally paid as part of your **_closing costs_**
 
 ## ARTICLE: [How to find land for sale](https://www.reonomy.com/resources/land-for-sale/)
 
+- ...the volume of listings found online can be quite mountainous. The key is defining why you’re looking for land, and finding the tool that best fits that instance
+- If you’re looking for a simple, one-off land parcel purchase:
+  - LandWatch
+  - Lands of America
+  - LoopNet
+
+### How to find land off-market
+
+- ...off-market opens up a new world of possibility for investment teams and brokers
+- By searching for land off-market, prospective investors can avoid inflated real estate prices and the competition of other motivated buyers. And with access to nearly every parcel in the country (through Reonomy), your options become nearly limitless
+
+> Article referenced in text is linked below - it's about finding sellers
+
+### Land for sale listings
+
+1. **LoopNet**: one of the most extensive and well-recognized commercial real estate listings platforms on the internet, and it is often the first place prospective buyers go when trying to find land or any other commercial asset type for sale. There are currently 5 million monthly LoopNet users searching through the platform’s 500,000 property listings.
+
+LoopNet offers a number of asset type search filters, including one for Land. Users can typically find dozens of listings for commercial land, vacant land, farmland, ranches, as well as other less traditional land assets
+
+2. **Craigslist**: Users can search listings by a number of specific asset types, which can be found under the _Housing category_ on Craigslist’s home page. Interested buyers can expect to find vacant, recreational, waterfront, and a variety of other land offered for sale within a specific geographic location
+
+3. **[Land Central](https://landcentral.com/)**: add filters for zoning, elevation, price, property size, property use, and more
+
+### State-specific and for sale listings
+
+One avenue to find land listings only within certain states is to simply Google, "`land for sale + [state]`"
+
 ## ARTICLE: [How to Find Land for Sale (On & Off-Market Land)](https://www.simplybuildable.com/knowledge-center/how-to-find-land-for-sale)
+
+If you are looking to build a custom home, finding land to buy is going to be the first step in the process once you’ve determined your vision, budget, and strategy...ensure that the lot is buildable
+
+### How to find land for sale
+
+Finding land to buy is harder than looking at traditional homes, because it’s a much smaller subset of the market.
+
+The most common place to see lots for sale is the multiple listing service (MLS). Real estate agents use the MLS to post their lots for sale, which creates a database of properties available.
+
+In the past, real estate agents functioned as the gatekeepers for these listings and required you to work through them to see available real estate. With platforms like Zillow, Realtor.com, Redfin, Trulia, and others, you can directly access the MLS. However, it can be difficult for inexperienced land buyers to parse out the most important details and information about the listing...we would still advise that you work with experts to find land to purchase. You may have multiple MLS feeds in your area...
+
+Use various sites when searching for land to ensure you don’t miss an opportunity. When searching, you can filter by "Home Type" to remove the existing homes in the market. Choose the "land" option to see only the results of raw land or vacant lots.
+
+> Their "Land Report":
+
+- Zoning | Setbacks & Height Restrictions | REgulations | Maximum Building Coverage | Tax Rate | Driveway | Fire Department Regulations | Drainage Requirements | Stormwater | Geotechnical | Construction Access | Water District & Connection | Electric & Connection | Natural Gas / Propane Availability | Sewer/Septic Availability | Fire District Review | Flood Zone and Impact | Coastal Commission | Environmental Requirements | Cultural Impacts & Limitations | ADU Requirements | Solar Rating | School Districts & Fees | And more...
+
+### How to find off-market land for sale
+
+**_When buying land, you aren’t necessarily limited to what is currently on the market. There are a ton of unlisted and off-market lots out there that are ready for you to purchase if you know the right way to go about it._**
+
+1. **Look for expired listings**: Expired listings may be tough to access unless you are a real estate agent. Listings expire due to incorrect pricing, buyers dropping out, or seller dissatisfaction with their agent
+
+2. **Contact vacant lot owners**: Oftentimes, owners of vacant lots are willing to sell their properties, even if they haven’t officially put them on the market. If you’re going to do this on your own, you can search for the property owners via online tax portals and make public records requests. There are other companies like [Property Shark](https://www.propertyshark.com/mason/) that enable you to get these details, but there is a charge for each request, and the systems are designed for professionals and can be incredibly time-consuming.
+
+3. **Seek out wholesalers**: Take caution as this approach is only for experts. Real estate wholesaling is a business strategy in which a wholesaler enters into a contract on a home before eventually selling the contract to a new buyer. The wholesaler acts as an intermediary, selling the property on behalf of the property owner and keeping a set profit based on the sale. These transactions can be risky in that you may have little to no inspection period. It is essential that you have experts with you. Without the proper support, you could make a costly mistake. There are a few companies out there that specialize in this. You can find wholesalers on Facebook groups around “real estate” and “Real estate investing.” But always remember to proceed with caution.
+
+........................................................................
+
+## ARTICLE: [How to find motivated sellers of off-market properties](https://www.reonomy.com/resources/how-to-find-sellers-for-off-market-properties/)
+
+During economic downturns, off-market deals become much more important and prevalent. Therefore, acquisition teams should focus on identifying motivated sellers off-market instead of sourcing deals the traditional way.
+
+There are a number of commercial owners that are eager or willing to sell; they simply haven’t listed their property or connected with an agent yet.
+
+### How to find off-market deals with Reonomy
+
+> Nevermind, it's one of ttheir resources: `Likely to Sell` feature
+
+From a web design and web marketing point-of-view, this page has a major flaw. You would think they would have a CTA at the end of the article at least but they don't. They have a CTA in t he header, but the only other one is part of a image card and it would be easy to scroll past it!
