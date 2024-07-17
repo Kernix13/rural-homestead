@@ -1,5 +1,7 @@
 # My Land Searching
 
+- Search "raw" or "undeveloped" or "vacant"
+
 > I found 6 websites and all are free. Are there other sites? How can I find land that has not been listed yet? Private Facebook groups? Forums? Local town or city websites?
 
 ## Search terms and results

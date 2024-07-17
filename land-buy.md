@@ -1,6 +1,6 @@
 # Buying Land
 
-> 11 Articles
+> 18 Articles on how to buy land
 
 ## What to Look for in Land: How Do You Know If It's Buildable?
 
@@ -283,12 +283,6 @@ Once your financing has been approved, your lender will set a day for closing, w
 
 > _Buying a piece of land isn’t simple. It’s important to do your due diligence and check with specialists and experts. This is to ensure you’re complying with local zoning regulations and real estate laws. Complete all of the necessary steps and you can buy the land you need for the home you’ve always wanted_
 
-## ARTICLE: [Buyer's Checklist for Purchasing Vacant Land](https://www.nolo.com/legal-encyclopedia/checklist-for-purchasing-vacant-land.html)
-
--
-
-## ARTICLE: [Price per acre market value of vacant land](https://www.landsearch.com/blog/price-per-acre-market-value)
-
--
-
-## ARTICLE: [20 questions land buyers need to ask before making an offer](https://www.landsearch.com/blog/questions-to-ask-when-buying-land)
+<!--
+## ARTICLE: []()
+ -->
