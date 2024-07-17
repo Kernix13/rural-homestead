@@ -241,7 +241,47 @@ Once your financing has been approved, your lender will set a day for closing, w
 
 ## ARTICLE: [How to Buy Land and What You Need to Know](https://smartasset.com/mortgage/buying-land)
 
--
+- Many experts recommend paying for it in cash if you can
+
+### What to Do Before You Purchase Land
+
+- If you’ve decided to buy land, keep in mind that it’s not going to be a short-term project
+- Some of the costs you’ll have to account for include fees, permits, the cost of purchasing the land you need, the cost of building your house and the cost of making adjustments to the land to have access to running water and other utilities
+
+### How to Buy Land
+
+- ...when actually buying land there are a set number of steps you’ll need to follow. Buying land always entails:
+  - Finding land
+  - Choosing the right land
+  - Making an offer
+  - Completing a land purchase agreement
+
+### How to Find Land for Sale
+
+- A real estate agent can be a big help in facilitating your land search. However, you can also do it yourself.
+- Checking the classified ads in newspapers, you can often find landowners attempting to sell their land independently
+- It’s often possible to buy plots of land that aren’t listed for sale. Even if a plot of land isn’t “on the market,” the owner of the land may still be interested in finding a buyer if the price is right. Keep your ears open for situations like these. You may end up with land you didn’t even know was available
+
+### Choosing the Right Land
+
+- You’ll need to find an area where zoning laws won’t keep you from buying land for the home you want to build
+- Zoning rules set restrictions concerning things like the size of buildings and the kinds of residences that can be built
+- It’s also a good idea to make sure that the land’s soil doesn’t prevent you from building, digging a well or getting electricity and natural gas. Will the land’s elevation be an obstacle? Are there any liens on the land or environmental problems that need solving?
+- While it’s possible to buy a house or a plot of land without the help of a real estate agent or broker, it can help to have someone on your side who specializes in working with vacant lots
+- If you’re opposed to using an agent, it’s still smart to find a real estate attorney who can address your legal concerns
+- You need to look at how accessible the land is, figure out its dimensions and find out whether anyone already has the right to use the property
+
+### Making an Offer on a Plot of Land
+
+- When you’re ready to purchase a piece of land, you’ll have to make a written offer. You’ll approach the seller with the terms you’re willing to abide by. You should also include all of the details related to the transaction
+- After you make your initial offer, don’t forget that you can negotiate the land price down. It’s best to come prepared with research and data, though, to back up whatever price you’re willing to pay. You can even ask the seller to pay some of your closing costs and include contingencies. These include a clause that states you can walk away from the deal if the land fails to pass inspection
+
+### Completing Your Land Purchase Agreement
+
+- To claim a portion of land as your own, you’ll need to officially close on the land purchase. To do so, you’ll have to sign a land purchase agreement. This agreement will specify how much you’re paying for the land and how much money you’re putting down. The seller will have to sign the agreement as well
+- The land contract you’ll sign will include everything that you and the seller agree to regarding the land purchase. Other documents you’ll have to review include state-based real estate forms, a closing statement that highlights all of the costs that stem from the sale and a deed that transfers the land’s title from the owner to you
+
+> _Buying a piece of land isn’t simple. It’s important to do your due diligence and check with specialists and experts. This is to ensure you’re complying with local zoning regulations and real estate laws. Complete all of the necessary steps and you can buy the land you need for the home you’ve always wanted_
 
 ## ARTICLE: [Buyer's Checklist for Purchasing Vacant Land](https://www.nolo.com/legal-encyclopedia/checklist-for-purchasing-vacant-land.html)
 
