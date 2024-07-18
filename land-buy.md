@@ -1,6 +1,6 @@
 # Buying Land
 
-> 18 Articles on how to buy land
+> 6 Articles on how to buy land
 
 ## What to Look for in Land: How Do You Know If It's Buildable?
 
@@ -113,55 +113,6 @@ Once an offer is accepted and financing is secured, you can close on the land pu
 ## ARTICLE: [12 Best Ways to Buy Land with No Money in 2024](https://apxnproperty.com/buy-land-with-no-money/)
 
 ...the simplest way to find low-priced land is by listing sites. Apart from that, We’d recommend you ask for property access or request a delayed closing so that you can save funds to purchase the land.
-
-## ARTICLE: [The Do's and Don'ts of Buying Vacant Land](https://realestate.usnews.com/real-estate/articles/the-dos-and-donts-of-buying-vacant-land)
-
-What to know when buying land, especially when you’re hoping to build a home on the property.
-
-Key Takeaways:
-
-- When purchasing vacant land, it’s important to hire a real estate agent who has experience negotiating land transactions.
-- Most land deals are done in cash, so make sure you’re financially prepared before purchase.
-- Consider access to running water, electricity and sewers, and don’t assume you can get the property rezoned.
-
-Here are the do's and don'ts of buying vacant land:
-
-1. Do work with an agent to find the land.
-
-- Working with a real estate agent when you purchase a home helps you navigate the finer details like negotiations, due diligence and closing the deal. But when you’re purchasing land, it's important to hire an agent who has extensive experience negotiating land deals specifically.
-- Use an agent who actually has a track record of representing both buyers and sellers for land transactions.
-- Don’t rely 100% on your agent – ask questions and do your own homework as well.
-
-2. Do have your finances in order.
-3. Do consider the value of homes in the neighborhood.
-4. Do take utilities and road access into account.
-
-- It’s easy to take for granted access to running water, electricity and sewers when you’re buying an existing house, but with vacant land these are not always a given.
-- Depending on how developed the area is around the land, you want to know if it’s going to cost money for infrastructure to be run to that land or if it’s already serviced.
-
-5. Do consider incentives.
-6. Don't expect to get a loan.
-7. Don't skip the environmental tests.
-
-- Similar to a home inspection and background research on a house, a plot of land needs to be subjected to tests and checks to ensure you know what you’re buying and that you’ll be able to build on it.
-- **Environmental tests check the soil for contamination from previous use. The site of a former gas station or auto body shop is more likely to have contaminated soil, for example, and residential homes can’t be built there**.
-- The land's potential for flooding or its poor soil conditions for building are also a concern. These reports should be interpreted by a professional
-
-8. Don't forget the survey.
-
-- You’ll also want to have a surveyor look at your property to identify the boundaries. Especially if the land is in a neighborhood and has been vacant for years, neighbors may have encroached beyond the property lines, intentionally or not.
-- It’s best to buy land that already has a completed survey, geology and soils report
-
-9. Don't talk to the neighbors.
-
-- discussing your plans to build on a vacant lot can easily lead to organized opposition
-- it’s common for neighbors who are used to having raw land near their homes to get upset when the status quo is about change and seek to keep you from building
-
-10. Don't assume you can have property rezoned.
-
-### Is It Worth It to Buy Vacant Land?
-
-- But before you become a landowner, be sure to thoroughly research the plot of land to ensure the zoning, utility access and building code for the area will allow you to construct the property you want.
 
 ## ARTICLE: [A Quick Guide to Buying Land](https://www.zillow.com/learn/how-to-buy-land/)
 
