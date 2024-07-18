@@ -96,4 +96,7 @@ WordPress is the best option for small businesses. I own 3 WordPress websites, o
   1. Cloudways
   2. Rocket
   3. Kinsta
+
+  - Look into "All In One SEO" and "Slim SEO"
+  - On-Page SEO vs Content SEO?
  -->
