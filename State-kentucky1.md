@@ -139,6 +139,7 @@ Google search for "_best sheds in kentucky_":
 - Sheds of Kentucky: https://www.shedsofkentucky.com/
 - Overholt & Sons: https://overholtstoragebuildings.com/
 - Shed Squad: https://www.shedsquadofgeorgetownkentucky.com/
+- Stellar Barn Co (Willie): https://stellarbarn.co/
 
 > In North Carolina.docx I have notes on Maryland and South Carolina rural land
 
