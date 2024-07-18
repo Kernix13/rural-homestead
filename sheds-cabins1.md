@@ -76,7 +76,7 @@ types of sheds:
 - Gutters cost around $5 to $6 per linear square foot
 - Typically, flooring costs $2.00 to $3.50 per square foot
 - To finish off your walls with sheetrock, you should figure around $1.50 per square foot
-- it is legal to convert a shed built to IRC (2018) into a home in `Kentucky`
+- It is legal to convert a shed built to IRC (2018) into a home in `Kentucky`
 - In order to be in compliance with building codes, ensure you receive a residential building permit prior to constructing your shed and converting it into a home.
 - Assuming you want to add gas, electric, and/or water hook-ups, further permits will be required. Permit applications can be found on your local governments website
 - Ensure the shed you buy is up to building code
