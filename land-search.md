@@ -242,7 +242,7 @@ If you are looking to build a custom home, finding land to buy is going to be th
 
 Finding land to buy is harder than looking at traditional homes, because it’s a much smaller subset of the market.
 
-The most common place to see lots for sale is the multiple listing service (MLS). Real estate agents use the MLS to post their lots for sale, which creates a database of properties available.
+<strong><em><ins>The most common place to see lots for sale is the multiple listing service (MLS)</ins></em></strong>. Real estate agents use the MLS to post their lots for sale, which creates a database of properties available.
 
 In the past, real estate agents functioned as the gatekeepers for these listings and required you to work through them to see available real estate. With platforms like Zillow, Realtor.com, Redfin, Trulia, and others, you can directly access the MLS. However, it can be difficult for inexperienced land buyers to parse out the most important details and information about the listing...we would still advise that you work with experts to find land to purchase. You may have multiple MLS feeds in your area...
 
@@ -250,7 +250,7 @@ Use various sites when searching for land to ensure you don’t miss an opportun
 
 > Their "Land Report":
 
-- Zoning | Setbacks & Height Restrictions | REgulations | Maximum Building Coverage | Tax Rate | Driveway | Fire Department Regulations | Drainage Requirements | Stormwater | Geotechnical | Construction Access | Water District & Connection | Electric & Connection | Natural Gas / Propane Availability | Sewer/Septic Availability | Fire District Review | Flood Zone and Impact | Coastal Commission | Environmental Requirements | Cultural Impacts & Limitations | ADU Requirements | Solar Rating | School Districts & Fees | And more...
+- Zoning | Setbacks & Height Restrictions | Regulations | Maximum Building Coverage | Tax Rate | Driveway | Fire Department Regulations | Drainage Requirements | Stormwater | Geotechnical | Construction Access | Water District & Connection | Electric & Connection | Natural Gas / Propane Availability | Sewer/Septic Availability | Fire District Review | Flood Zone and Impact | Coastal Commission | Environmental Requirements | Cultural Impacts & Limitations | ADU Requirements | Solar Rating | School Districts & Fees | And more...
 
 ### How to find off-market land for sale
 
