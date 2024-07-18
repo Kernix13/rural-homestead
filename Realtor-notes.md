@@ -41,7 +41,7 @@
 ### CLOSING
 
 - It should be by a title company
-- Sales transactions/closing to the company involvement (agent or attorney - HUH?
+- Sales transactions/closing to the company involvement (agent or attorney - HUH?)
 
 ### WALKING THE LAND
 
