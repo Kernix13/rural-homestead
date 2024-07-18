@@ -45,6 +45,8 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 <h2 id="shed-tiny-home">2. <a href="https://thetinylife.com/living-in-a-shed/">An In Depth Guide To Turning A Shed Into A Tiny Home</a></h2>
 
+> STOPPED HERE
+
 - Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
 - <ins>Because water is so easy to get, you can get it and the bill will provide "proof of residence" for things like the DMV, post office box, etc</ins>
 - **_Get your shed pad graded_**???
@@ -105,7 +107,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 <h2 id="shed-homes">6. <a href="https://www.eshutilitybuildings.com/articles/shed-homes-complete-guide/">Shed Homes: The Complete Guide</a></h2>
 
 - **To have a legal shed home, the shed base must be built to the IRC (2018)**
-- it is legal to convert a shed built to IRC (2018) into a home in `Kentucky`
+- It is legal to convert a shed built to IRC (2018) into a home in `Kentucky`
 - In order to be in compliance with building codes, ensure you receive a residential building permit prior to constructing your shed and converting it into a home.
 - Assuming you want to add **gas**, **electric**, and/or **water** hook-ups, further permits will be required. Permit applications can be found on your local governments website
 - <ins>Ensure the shed you buy is up to building code</ins>.
@@ -157,7 +159,7 @@ Below are some general items to consider when planning your shed conversion
 2. Find a property,
 3. Contact the local Planning and/or Zoning department,
 4. Learn about specific building codes & department timelines and processes for various inspections,
-5. Find a top-notch shed company. Work with them on design and building upgrades and nail down the pricing. Hold off on the purchase until you have an interior design plan
+5. Find a top-notch shed company. Work with them on design and building upgrades and nail down the pricing. **Hold off on the purchase until you have an interior design plan**
 6. Design the interior & be super specific (windows, doors, interior walls),
 7. Then order your shed (get in the production queue),
 8. Prepare your foundation ensuring proper room for the shed to be maneuvered into place
