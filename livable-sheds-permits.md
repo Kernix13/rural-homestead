@@ -174,7 +174,7 @@
 
 - You can build a shed of at least 120 square feet before being required to get a permit
 - Size requirements may vary slightly based on whether the shed would be considered commercial or residential (falling under the Building Code or the Residential Code)
-- You can get a shed permit by accessing your local government website in KY and downloading/filling out the appropriate building permit application and submitting it for approval.
+- <strong><em><ins>You can get a shed permit by accessing your local government website in KY and downloading/filling out the appropriate building permit application and submitting it for approval</ins></em></strong>.
 - You will need to know what you are going to use the shed for and where it is going to be located on the property. The shed's size, & often some construction and installment information will also be needed. If you intend to include electric or plumbing in your shed, additional permits may be required.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
