@@ -45,7 +45,7 @@ TAXES
 - Use Google Earth to zoom around & find different access points
 - Has there been a professional survey done? A survey is worth its weight in gold. Not professionally surveyed keeps the fools away
 - Coal company surveys don't count as "professional" but theirs tend to be very accurate
-- <strong><em><ins>No professioanl survey = cheap</ins></em></strong>, if it is not cheap don't buy it - if the land is dirt cheap is does NOT need to have a pro survey
+- <strong><em><ins>No professioanl survey = cheap, if it is not cheap don't buy it</ins></em></strong> - if the land is dirt cheap is does NOT need to have a pro survey
 - _My best deals are unsurveyed land_
 - Trees - selective haversting can make the land free: black walnut, oak, hickory, etc
 - Always look for land that has been inherited b\c the sellers don't know what's on it
@@ -132,9 +132,9 @@ TAXES
 
 ### 2. [How to buy undeveloped land](https://www.bankrate.com/real-estate/buyng-undeveloped-land/)
 
-- Zoning laws restrict how you can use different plots within a municipality. If you’re hoping to buy a plot and build a home, make sure it’s zoned for housing
-- Explore government resources. Depending on how you’re going to use the land, you might qualify for financing through the USDA’s Section 523 and 524 loans, or the SBA’s 504 loan. Some of these will finance construction, as well as the land purchase itself
-- Unless you want to live totally off-grid, you’ll need to work with the local authorities to extend utilities to your property. Talk to the town and figure out how that process works and what you’ll have to pay. The same is true for infrastructure like paved roads
+- Zoning laws restrict how you can use different plots within a municipality. If you're hoping to buy a plot and build a home, make sure it's zoned for housing
+- Explore government resources. Depending on how you're going to use the land, you might qualify for financing through the USDA's Section 523 and 524 loans, or the SBA's 504 loan. Some of these will finance construction, as well as the land purchase itself
+- Unless you want to live totally off-grid, you'll need to work with the local authorities to extend utilities to your property. Talk to the town and figure out how that process works and what you'll have to pay. The same is true for infrastructure like paved roads
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -177,6 +177,6 @@ $1000 / acre without utilities:
 - No electricity: Many solar panels, batteries and associated equipment and knowledge
 - No internet: Starlink or Dish?
 - MUST HAVE NICE NEIGHBORS THAT ARE CLOSE
-- Weed wacker for around the cabin
+- Weed wacker for around the cabin and chain saw
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
