@@ -549,6 +549,11 @@ Important topics/phrases from POWER videos:
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
+### 4. 🔥🤩 MY FAVORITES! Must Buys 😇
+
+- Soliom 600: SOLIOM S600 Outdoor WiFi Security Camera - 360° Pan Tilt, Solar Powered with Battery, Motion Detection, Color Night Vision, 2-Way Talk, Remote Access, $68 on Amazon - connected to wifi, alerts you via phone app - he has 4
+- Driveway Alarm- 1/2 Mile Long Range Wireless Driveway Alarm Outdoor Weather Resistant Motion Sensor&Detector-DIY Security Alert-Monitor&Protect Outdoor/Indoor Property - 1 Receiver and 2 Sensors, $43 on Amazon - he has 5
+
 .................................................
 
 ## Miscellaneous notes
