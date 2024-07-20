@@ -4,11 +4,11 @@
 
 ## What to Look for in Land: How Do You Know If It's Buildable?
 
-Know where to look.
-Look for road access.
-Check the zoning and building codes.
-Consider whether utility hookups are available.
-Check the flood maps.
+1. Know where to look.
+2. Look for road access.
+3. Check the zoning and building codes.
+4. Consider whether utility hookups are available.
+5. Check the flood maps.
 
 ## ARTICLE: [How to buy land](https://www.bankrate.com/real-estate/how-to-buy-land/)
 

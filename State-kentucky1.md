@@ -34,10 +34,22 @@
 
 PERMIT REQUIREMENTS: - [Shed Permits in KY: Complete Guide](https://www.eshutilitybuildings.com/articles/shed-permits-in-ky/)
 
-- Louisville County: https://louisvilleky.gov/government/develop-louisville/building-code#land-use
-- `Fayette County`: (Louisville) https://www.lexingtonky.gov/sites/default/files/2022-07/Building%20Inspection%20Permit%20Guide%20Res%20Acc%20structure_0%20%281%29.pdf
-- Kenton County: https://www.pdskc.org/portals/pdskc/documents/applications_forms/checklists/Checklist-AccFenSign.pdf
-- Boone County: https://www.boonecountyky.org/departments/building_inspection/faq.php
+> Search either ADU, tiny home, or tiny house
+
+1. Louisville County (ALLOWED):
+   1. https://louisvilleky.gov/government/office-planning/accessory-dwelling-units-adu |
+   2. https://louisvilleky.gov/sites/default/files/2022-06/ADU%20Process%20Guide_061722.pdf
+   3. https://louisvilleky.gov/sites/default/files/migration/missing-files/resources_/tinyhome.pdf
+2. `Fayette County`: (Lexington) - allowed?
+   1. https://www.lexingtonky.gov/sites/default/files/2022-07/Building%20Inspection%20Permit%20Guide%20Res%20Acc%20structure_0%20%281%29.pdf
+   2. https://aca-prod.accela.com/LEXKY/Default.aspx - For assistance with the Division of Planning (ADUs, BOA, Development Plans) please call 859-258-3160
+   3. Look Up Property Information: https://aca-prod.accela.com/LEXKY/Default.aspx
+3. Kenton County: `not sure`
+   1. https://www.pdskc.org/portals/pdskc/documents: Apply online, Mapping services, Zoning ordinances, Kenton County planning commission, Open records request, Lienholder system
+   2. Applications/Forms: https://pdskc.govbuilt.com/AdvancedForms?formtags=Permit
+4. Boone County:
+   1. https://www.boonecountyky.org/departments/building_inspection/faq.php
+
 - Warren County: http://www.warrencountyky.gov/building-electrical-services
 - Hardin County: https://www.hcpdc.com/permits
 - Daviess County: https://iompc.org/services/building-electrical-division/

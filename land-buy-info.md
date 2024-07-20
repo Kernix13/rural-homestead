@@ -12,7 +12,7 @@ Key Takeaways:
 
 - When purchasing vacant land, it’s important to hire a real estate agent who has experience negotiating land transactions.
 - Most land deals are done in cash, so make sure you’re financially prepared before purchase.
-- Consider access to running water, electricity and sewers, and don’t assume you can get the property rezoned.
+- Consider access to running water, electricity and sewers, and don’t assume you can get the property rezoned (reclassifying land into a new zone with different restrictions and land-use rights).
 
 Here are the do's and don'ts of buying vacant land:
 
