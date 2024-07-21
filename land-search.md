@@ -24,6 +24,8 @@ SEARCH TERMS:
 6. **[Redfin.com](https://www.redfin.com/state/Kentucky/land)**: signed up for free with Google - also good but mostly repeats
 7. [LandFlip.com](https://www.landflip.com/land-for-sale/undeveloped-keyword): signed up for free - only one _maybe_ in my price range:
    1. HILLSIDE HAVEN MANCHESTER ESCAPE 14 acres for $20K = $1464/acre
+8. [hudhomesusa.org](https://www.hudhomesusa.org/) - rip off, don't pay - harvest properties from HUD/FNMA/FREDDIE and it appears Auction.com
+9. [Trulia.com](https://www.trulia.com/)
 
 > Look into **Foreclosure.com** looks good - $40/month
 
@@ -34,6 +36,7 @@ SEARCH TERMS:
 3. [MossyOakProperties.com](https://www.mossyoakproperties.com/land-for-sale/undeveloped/): signed up for free - only 1 property under 10 acres - 4 acres for $30K - _SKIP_
 4. [Acres.com](https://www.acres.com/): signed up for free but they have a premium plan for $29.99/month - _nothing in my price range_
 5. [Real estate and federal lands for sale by the government](https://www.usa.gov/real-estate-sales): (usa.gov) - they have 9 different links where you can buy land 6 of which involve land - see below - _NOTHING_
+6. [Auction.com](https://www.auction.com/): nothing
 
 ### Real estate and federal lands for sale by the government
 
@@ -65,21 +68,21 @@ SEARCH TERMS:
 - One listing that is ridiculously cheap: 189 acres for $3900
   - [Highway 951 - Lot 17 - Philpot, KY 42366](https://www.loopnet.com/Listing/Highway-951-Philpot-KY/30273993/)
 
-[Commercial Brokers Association](http://commercialmls.com/)
+~~[Commercial Brokers Association](http://commercialmls.com/)~~
 
--
+- Pacific Northwest listings only
+
+~~[Land Central](https://landcentral.com/)~~
+
+- No Kentucky, only 1 city for North Carolina which was $10K for a 1/4 acre and it's land locked!?!
+
+[Brevitas](https://brevitas.com/)
+
+- Maybe but shows _Market Price_ for most listings
 
 [Craigslist](http://craigslist.org/)
 
 -
-
-[Land Central](https://landcentral.com/)
-
--
-
-[Brevitas](https://brevitas.com/)
-
-- Maybe
 
 Nothing for me: ~~CREXI~~, ~~Commercial Brokers Association~~, ~~CommercialCafe~~, ~~CIMLS~~, ~~Leavitt Digital~~,
 
@@ -103,7 +106,7 @@ MLS, or Multiple Listing Service, has homes that are available for sale or for p
 
 Realtors with whom you keep in contact may also be a viable resource. Having a network of realtors could give you access to information regarding listings they have currently or are coming up; they may not even be on the market yet or know of pre-foreclosures
 
-Networking with real estate brokers or brokerages may also increase awareness regarding vacant homes, as often, multiple realtors exist with each brokerage. Go to the National Association of Realtors at [www.nar.realtor](https://www.nar.realtor/about-nar) to find those professionals
+Networking with real estate brokers or brokerages may also increase awareness regarding vacant homes, as often, multiple realtors exist with each brokerage. Go to the National Association of Realtors at [www.nar.realtor](https://www.nar.realtor/about-nar) to find those professionals.
 
 ### Foreclosures, Inspections, & Evictions
 
@@ -155,7 +158,7 @@ These online databases offer a significant degree of versatility and information
 - [Trulia.com](https://www.trulia.com/): searches across diverse listing categories, from foreclosures and reduced-price properties to resale and for sale by owner (FSBO) listings
 - [Zillow.com](https://www.zillow.com/): parallels Trulia in functionalities
 
-### IDX WEbsites
+### IDX Websites
 
 An IDX website is a syndication of the local MLS feed that a real estate agent hosts on their own website. Most real estate broker’s websites can instantly search properties in your area. This is free, quick, and simple.
 
@@ -216,7 +219,7 @@ Real estate attorney fees are generally paid as part of your **_closing costs_**
 ### How to find land off-market
 
 - ...off-market opens up a new world of possibility for investment teams and brokers
-- By searching for land off-market, prospective investors can avoid inflated real estate prices and the competition of other motivated buyers. And with access to nearly every parcel in the country (through Reonomy), your options become nearly limitless
+- By searching for land off-market, prospective investors can avoid inflated real estate prices and the competition of other motivated buyers. And with access to nearly every parcel in the country (through **Reonomy**), your options become nearly limitless
 
 > Article referenced in text is linked below - it's about finding sellers
 
@@ -244,7 +247,7 @@ Finding land to buy is harder than looking at traditional homes, because it’s 
 
 <strong><em><ins>The most common place to see lots for sale is the multiple listing service (MLS)</ins></em></strong>. Real estate agents use the MLS to post their lots for sale, which creates a database of properties available.
 
-In the past, real estate agents functioned as the gatekeepers for these listings and required you to work through them to see available real estate. With platforms like Zillow, Realtor.com, Redfin, Trulia, and others, you can directly access the MLS. However, it can be difficult for inexperienced land buyers to parse out the most important details and information about the listing...we would still advise that you work with experts to find land to purchase. You may have multiple MLS feeds in your area...
+In the past, real estate agents functioned as the gatekeepers for these listings and required you to work through them to see available real estate. With platforms like `Zillow`, `Realtor.com`, `Redfin`, `Trulia`, and others, you can directly access the MLS. However, it can be difficult for inexperienced land buyers to parse out the most important details and information about the listing...we would still advise that you work with experts to find land to purchase. You may have multiple MLS feeds in your area...
 
 Use various sites when searching for land to ensure you don’t miss an opportunity. When searching, you can filter by "Home Type" to remove the existing homes in the market. Choose the "land" option to see only the results of raw land or vacant lots.
 
