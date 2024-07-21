@@ -15,7 +15,9 @@ Eventually, I want to turn it into a homestead and as off-grid as possible. The 
 There are 4 sets of similarly named markdown files:
 
 1. `land-[type]`: `-buy.md`, `-buy-info.md`, and `-search.md`:
-   1. `land-search.md`: This was a worksheet of sorts to find websites that listed raw or undeveloped land.
+   1. `land-search.md`: This was a worksheet of sorts to find websites that listed raw or undeveloped land (6 good ones) and some good articles at the end.
+   2. `land-buy.md`: 6 articles about _How to buy land_
+   3. `land-buy-info.md`: 7 articles on important tips and info on land in general and buying vacant land
 1. `livable-sheds-[type]`: `-costs.md`, `-notes.md`, `-permits.md`, and `-steps.md` are categorized notes that were in the `Rural` files and may be duplicated in the `sheds-cabins` files
    1. [livable-sheds-costs.md](livable-sheds-costs.md): Costs associated with converting your shed/cabin into a livable space - foundation, land clearing, Plumber, Electrician, Carpenter, septic tank install, flooring, insualtion, drywall, Wood burning stove, solar setup, etc.
    2. [livable-sheds-notes.md](livable-sheds-notes.md): The most general of the 3 files and contains notes, info, guides and tips on livable sheds. For example, having a budget, planning the layout, permits & inspections, ventilation, water & sewer hookup, building codes, heating & cooling, zoning, the importance of 2x4's, etc.
