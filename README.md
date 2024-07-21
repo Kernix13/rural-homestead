@@ -12,18 +12,20 @@ Eventually, I want to turn it into a homestead and as off-grid as possible. The 
 - Can, freeze, and smoke, etc. all my food
 - Enjoy being out in nature everyday!
 
-There are 3 sets of markdown files:
+There are 4 sets of similarly named markdown files:
 
+1. `land-[type]`: `-buy.md`, `-buy-info.md`, and `-search.md`:
+   1. `land-search.md`: This was a worksheet of sorts to find websites that listed raw or undeveloped land.
 1. `livable-sheds-[type]`: `-costs.md`, `-notes.md`, `-permits.md`, and `-steps.md` are categorized notes that were in the `Rural` files and may be duplicated in the `sheds-cabins` files
    1. [livable-sheds-costs.md](livable-sheds-costs.md): Costs associated with converting your shed/cabin into a livable space - foundation, land clearing, Plumber, Electrician, Carpenter, septic tank install, flooring, insualtion, drywall, Wood burning stove, solar setup, etc.
    2. [livable-sheds-notes.md](livable-sheds-notes.md): The most general of the 3 files and contains notes, info, guides and tips on livable sheds. For example, having a budget, planning the layout, permits & inspections, ventilation, water & sewer hookup, building codes, heating & cooling, zoning, the importance of 2x4's, etc.
    3. [livable-sheds-permits.md](livable-sheds-permits.md): Has information from various articles on permits, zoning, site plan, setbacks, inspections, fees, approval, codes & ordinances, paperwork, applications, etc.
    4. [livable-sheds-steps.md](livable-sheds-steps.md): the shortest of the 3 files and is a general overview of the process, although there are some unique notes in this file.
-2. `Rural_[#]`: `Rural_1.md`, `Rural_2.md`, and `Rural_3.md` were my original working files
+1. `Rural_[#]`: `Rural_1.md`, `Rural_2.md`, and `Rural_3.md` were my original working files
    1. [Rural_1.md](Rural_1.md): This file was the main file but I cut nearly everything out of it and now is just miscellaneous notes and articles. I'm keeping it for now. I have a link to IRA Exceptions one of which is $10K for a home purchase.
    2. [Rural_2.md](Rural_2.md): These are notes from videos by Ken Wheeler. There are 4 sections: 1) Land, 2) Solar, 3) Power, 4) Survival. The power section is not so good, and I have a lot of bushcraft/survival gear but I love talking gear. There are some good notes in that section. For the Land and Solar sections I include a list titled _Important topics/phrases_ at the top of the section. Definitely check those two out!
    3. [Rural_3.md](Rural_3.md): The bulk of this is the best notes from Ken's Land videos. At the bottom are sections on Google Earth and notes from a few articles.
-3. `State-[name]`: Pertinent notes for Kentucky and North Carolina in their respective files.
+1. `State-[name]`: Pertinent notes for Kentucky and North Carolina in their respective files.
    1. [State-kentucky1.md](State-kentucky1.md): This has links to Kentucky county and city web pages to look into permits and if they allow tiny homes. I also have links to campgrounds which I may need until I find and buy land.
    1. [State-north-carolina.md](State-north-carolina.md): I was originally looking at North Carolina but have since focused solely on Kentucky. There is not a lot in this file.
 
