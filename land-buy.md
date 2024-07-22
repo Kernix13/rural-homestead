@@ -26,7 +26,7 @@ When you find the right plot of land to purchase, do your homework before making
 
 ...present the owner with an offer. This written document contains the details of the property, your contact information, the price you're willing to pay and other terms
 
-You'll also want to include contingencies in your offer to protect yourself from factors that might make you want to walk away from the deal. Common contingencies with land purchases include environmental tests, septic system permits, land surveys and zoning regulations
+You'll also want to include `contingencies` in your offer to protect yourself from factors that might make you want to walk away from the deal. Common contingencies with land purchases include environmental tests, septic system permits, land surveys and zoning regulations
 
 There are templates available online of _sample purchase agreements_, but unless you're an experienced buyer, you'll want to get a real estate lawyer or licensed agent to prepare the offer for you.
 
@@ -59,7 +59,7 @@ Some of the best ways to find land for sale include:
 - **Electricity**. If one isn't already there, the local utility company will need to run an electric line to the building site. Another option is to install a solar-generated system.
 - **Internet service**. Investigate whether cellular coverage and an internet connection are available on the property. You may need to switch cellular service providers, or run a fiber-optic internet cable to the building site.
 - **Road Access**: If there is no public or private road going to the property, you may need to create one. This is often costly
-- Zoning...
+- **Zoning** and any potential restrictions on the land. Be aware of the zoning rules for the land. All land is zoned for a specific use: residential, commercial and agricultural
 
 ### Submit an Offer
 
@@ -76,7 +76,7 @@ Performing a comprehensive inspection of a property is necessary for ensuring th
 - **Check zoning**. A parcel's zoning designation will dictate what the land can be used for, and the type of structures that can be built. It's important to check with the local Zoning and Planning Office
 - **Perform a soil test**. _If a municipal sewer hookup isn't available, you will need to perform a percolation test to determine the rate of water drainage through the soil before installing a septic system_.
 
-> THAT IS WHY PAYING A HIGHER $/acre IS OKAY IN CASE i CAN'T INSTALL A SEPTIC SYSTEM BUT THEN MY HOME MUST BE CLOSE TO THE ROAD
+> THAT IS WHY PAYING A HIGHER $/acre IS OKAY IN CASE I CAN'T INSTALL A SEPTIC SYSTEM BUT THEN MY HOME MUST BE CLOSE TO THE ROAD
 
 ## ARTICLE: [How to buy land](https://www.landsearch.com/blog/how-to-buy-land)
 
@@ -102,7 +102,7 @@ Another way to find land is to enlist the help of a real estate agent. Fortunate
 
 Not all land for sale is listed online, and there are still even times when <ins>there's just a sign posted</ins>. Land agents not only have expertise when it comes to land, but also local knowledge of the area they work in. An agent can also help with land price negotiation, paperwork, and other pieces of the land buying process.
 
-### Make an offer on the land
+### Make an offer on the land (IMPORTANT PARAGRAPH)
 
 Assuming you can check all the boxes so far, it's time to make an offer to buy the land. This is normally a document containing information such as the price you're willing to pay and any _contingencies like a land survey, environmental test_, and more. It'll also include land purchase terms like who pays closing costs. Hopefully, they'll accept your offer, but they could come back with a counteroffer.
 
@@ -174,7 +174,7 @@ In addition to working with your agent or builder to identify property, expand y
 
 Consider whether you'll be able to build the home you want, and whether you can do so within your budget. Some of things to consider include zoning, setbacks, legal access to the land, the availability of utilities, any HOA restrictions and environmental and soil limitations. Reaching out to professionals like lawyers, inspectors, surveyors, and contractors to help navigate all of this information is highly recommended and can make this process a lot easier.
 
-#### 5. Submit a land purchase offer
+#### 5. Submit a land purchase offer (IMPORTANT PARAGRAPH)
 
 If you have an agent, you'll work with them to craft an offer. Some of the contingencies to consider: financing, including a property appraisal, title search to ensure there are no liens or other owners, buildability as determined by soil tests, setbacks and zoning. Be sure the offer gives you enough time to investigate the issues so you don't get locked into a contract on a piece of land that you can't build on.
 
@@ -217,12 +217,12 @@ If you have an agent, you'll work with them to craft an offer. Some of the conti
 ### Making an Offer on a Plot of Land
 
 - When you're ready to purchase a piece of land, you'll have to make a written offer. You'll approach the seller with the terms you're willing to abide by. You should also include all of the details related to the transaction
-- After you make your initial offer, don't forget that you can negotiate the land price down. It's best to come prepared with research and data, though, to back up whatever price you're willing to pay. You can even ask the seller to pay some of your closing costs and include contingencies. These include a clause that states you can walk away from the deal if the land fails to pass inspection
+- After you make your initial offer, don't forget that you can negotiate the land price down. It's best to come prepared with research and data, though, to back up whatever price you're willing to pay. You can even ask the seller to pay some of your closing costs and include contingencies. These include a clause that states **_you can walk away from the deal if the land fails to pass inspection_**
 
 ### Completing Your Land Purchase Agreement
 
 - To claim a portion of land as your own, you'll need to officially close on the land purchase. To do so, you'll have to sign a land purchase agreement. This agreement will specify how much you're paying for the land and how much money you're putting down. The seller will have to sign the agreement as well
-- The land contract you'll sign will include everything that you and the seller agree to regarding the land purchase. Other documents you'll have to review include state-based real estate forms, a closing statement that highlights all of the costs that stem from the sale and a deed that transfers the land's title from the owner to you
+- The land contract you'll sign will include everything that you and the seller agree to regarding the land purchase. Other documents you'll have to review include `state-based real estate forms`, a `closing statement` that highlights all of the costs that stem from the sale `and a deed` that transfers the land's title from the owner to you
 
 > _Buying a piece of land isn't simple. It's important to do your due diligence and check with specialists and experts. This is to ensure you're complying with local zoning regulations and real estate laws. Complete all of the necessary steps and you can buy the land you need for the home you've always wanted_
 
