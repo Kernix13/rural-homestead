@@ -167,6 +167,8 @@ These questions are general in nature and are designed to get you off to a good 
 
 A common mistake land buyers make is they enter into the process unprepared. Doing research on the property by answering the following questions can help ensure you make a good investment:
 
+### Questions to ask
+
 - Is the lot buildable?
 - Has the property been surveyed and are boundaries clearly marked?
 - Are utilities, septic systems, or any wells available to serve the property?
@@ -205,7 +207,7 @@ On the other hand, if the land must rely on a well for water, or if it's outside
 
 ### How Much Will It Cost to Connect to and Use an Existing Sewer System?
 
-_If the piece of property is served by a sewer system, things are pretty simple_. Your main requirement as the land owner is to construct the connection from the new home to the main system. (**_In fact, you probably wouldn't be allowed to "go rogue" and construct your own septic, or alternative wastewater treatment system, even if you want to_**.)
+_If the piece of property is served by a sewer system, things are pretty simple_. Your main requirement as the land owner is to construct the connection from the new home to the main system. (**_In fact, you probably wouldn't be allowed to "go rogue" and construct your own septic, or alternative wastewater treatment system, even if you wanted to_**.)
 
 An experienced general contractor or plumber should be able to give you an estimate of the time and expense involved in following through on this. Commonly, the cost is somewhat less than what's required to construct a conventional septic system (and much less than to construct an alternative septic system, described further below).
 
@@ -283,7 +285,7 @@ In some areas, well water can be used only for household purposes. Many areas al
 
 ## ARTICLE: [Real estate land use and property types](https://www.landsearch.com/blog/land-use-types-definitions)
 
-Land use describes the relationship between people and land. It’s what it sounds like—how a piece of land is being used. A more specific land use definition is the characterization of actions people apply to land for various purposes.
+Land use describes the relationship between people and land. It’s what it sounds like — how a piece of land is being used. A more specific land use definition is the characterization of actions people apply to land for various purposes.
 
 If you’re a land buyer and you find the “perfect” property, it’s of the utmost importance to make sure you can do what you want with it.
 
@@ -291,13 +293,13 @@ Understanding how a parcel of land was used in the past is a pretty good indicat
 
 ### Primary real estate asset classes
 
-The major types of land use today are agricultural, commercial, recreational, residential, and transport.
+The major types of land use today are agricultural, commercial, recreational, `residential`, and transport.
 
-1. Agricultural land use: e.g., Standard crop farms, Ranches, Homesteads, Hobby farms, Chicken Farms, Vineyards
-2. Recreational land use: e.g., Hunting land, Ranches, Horse properties, Camps, Fishing properties, ATV land
+1. Agricultural land use: e.g., Standard crop farms, Ranches, `Homesteads`, Hobby farms, Chicken Farms, Vineyards
+2. Recreational land use: e.g., Hunting land, Ranches, Horse properties, `Camps`, Fishing properties, ATV land
 3. Commercial land use: Retail, Restaurants, Hotels, Offices, Factories, Storage, Hospitals, Industrial, Warehouses
 4. **Residential land use**: Single-family homes, Apartment complexes, Condos, <strong><em><ins>Cabins</ins></em></strong>, <strong><em><ins>Tiny houses</ins></em></strong>, Mobile homes,
-5. Mixed land use: Residential property with a small business, Commercial property with a house, Hunting land with tillable acreage, Ranches with a home, farmland, and hunting opportunities
+5. **Mixed land use**: `Residential property with a small business`, Commercial property with a house, Hunting land with tillable acreage, Ranches with a home, farmland, and hunting opportunities
 
 ### Vacant land meaning
 
