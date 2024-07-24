@@ -87,9 +87,38 @@ WordPress is the best option for small businesses. I own 3 WordPress websites, o
 
 > "_best free wordpress theme for real estate website_" - make sure they are block themes or just go with _Frost_
 
+### WordPress Themes
+
 - Check out: [Medium: 20 Top Free Real Estate WordPress Themes](https://medium.com/@Don_Peno/20-top-free-real-estate-wordpress-themes-133f0f3cee1c)
+- [17 Best Real Estate WordPress Themes for Realtors](https://www.wpbeginner.com/showcase/best-real-estate-themes-for-wordpress/)
 - Check this page too: [20+ Best Real Estate WordPress Themes](https://wpthemego.com/best-real-estate-wordpress-themes/)
 - Searching for "real estate" from _Add theme_ in the WordPress admin dashboard returned 128 themes, some of which are mentioned in the 2 articles above
+
+### WordPress Plugins for IDX (Broker Reciprocity)
+
+> IDX: the grandfather of real estate APIs, so it’s particularly robust and well-supported.
+
+- Do the 10-day free trial for the WP plugin [Showcase IDX Real Estate Search & Lead Capture](https://wordpress.org/plugins/showcase-idx/)
+- [dsIDXpress plugin](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
+- Check out [9 Best WordPress IDX Plugins In 2024](https://cyberchimps.com/blog/best-idx-plugins-for-wordpress/)
+  - [Estatik Real Estate Plugin](https://wordpress.org/plugins/estatik/)
+  - [SimplyRETS Real Estate IDX](https://wordpress.org/plugins/simply-rets/)
+  - [Rover IDX](https://wordpress.org/plugins/rover-idx/)
+  - [Buying Buddy IDX CRM](https://wordpress.org/plugins/buying-buddy-idx-crm/)
+  - [Wovax IDX](https://wordpress.org/plugins/wovax-idx/)
+  - [Easy Property Listings](https://wordpress.org/plugins/easy-property-listings/)
+
+### IDX and MLS APIs
+
+- **Look into [Reonomy.com API](https://www.reonomy.com/solutions/data-solutions/)** for off-market - I think it's only for CRE properties
+- [Zillo MLS API](https://www.zillowgroup.com/developers/api/mls-broker-data/mls-listings/): _The platform is currently invite only, so please contact us for the latest list of available MLS integrations_ - REST API
+  - Their [docs page](https://bridgedataoutput.com/docs/platform/API) is excellent
+  - I'll have to go thru my notes for creating a back-end server for accessing a REST API
+- Found the following API from a Reddit thread: [reapi](https://www.realestateapi.com/) and their [docs page](https://developer.realestateapi.com/reference/welcome-to-realestateapi)
+- Same thread has [rentcast](https://www.rentcast.io/api) and their [API](https://developers.rentcast.io/reference/introduction) - $0.00 for developers!!!
+- [Realtors Property Resource API](https://support.narrpr.com/hc/en-us/articles/204962850-API-FAQs) - FREE, supports XML (`XMLHttpRequest`) and SOAP requests
+
+> Could I get API access for local County Assessor's Office and/or Property tax assessor/Delinquent Tax Office to find land?
 
 <!--
   MOVE THIS INTO MY WORDPRESS FOLDER AT A LATER TIME - JAKSON RECOMMENDED HOSTING:
