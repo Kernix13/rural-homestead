@@ -45,8 +45,6 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 <h2 id="shed-tiny-home">2. <a href="https://thetinylife.com/living-in-a-shed/">An In Depth Guide To Turning A Shed Into A Tiny Home</a></h2>
 
-> STOPPED HERE
-
 - Of the three main utilities, water is the simplest because it's not terribly complicated or pose much risks - cash for the permits and the install, run it to a frost proof hydrant and get your inspections if needed
 - <ins>Because water is so easy to get, you can get it and the bill will provide "proof of residence" for things like the DMV, post office box, etc</ins>
 - **_Get your shed pad graded_**???
@@ -81,6 +79,8 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 
 <h2 id="shed-tiny-house">4. <a href="https://www.thespruce.com/shed-into-a-tiny-house-8379938">Turning Your Shed Into a Tiny House</a></h2>
 
+> EXCELLENT PINTS IN THIS ARTICLE
+
 - What is DADU (detached accessory dwelling unit) permissibility?
 - _North Carolina on the east coast is especially welcoming to ADU (Accessory Dwelling Unit) development_
 - **Water and Sewer**: Installing a composting toilet eliminates the steep cost of water and sewer installations. But not all areas permit the use of composting toilets,
@@ -95,7 +95,7 @@ Your shed must pass all of these requirements or you can't make it an accessory 
 <h2 id="linked-in">5. <a href="https://www.linkedin.com/pulse/how-turn-shed-tiny-house-art-chartier-7kdkc/">How to Turn a Shed into Tiny House</a></h2>
 
 - Take stock of your financial resources and set a realistic budget for the project. Keep in mind that unexpected expenses may arise, so it's wise to have a contingency fund
-- With limited space, every inch counts. Plan the layout thoughtfully, prioritizing functionality. Consider multifunctional furniture and creative storage solutions to maximize the use of your compact space
+- With limited space, every inch counts. Plan the layout thoughtfully, prioritizing functionality. Consider _multifunctional furniture_ and _creative storage solutions_ to maximize the use of your compact space
 - Ensure your tiny house is comfortable year-round by investing in proper insulation
 - If you plan to have plumbing and electrical amenities, consult with professionals to ensure safety and compliance with regulations. This may involve connecting to existing utilities or installing independent systems
 - **Prefab or Kit Sheds**: designed for easy assembly, making them a popular choice for DIYers. They often come with pre-cut materials and instructions, saving time and effort - Limited customization options compared to building from scratch
@@ -148,12 +148,14 @@ Below are some general items to consider when planning your shed conversion
 1. How to determine total interior square footage?
 
 - The width of the wall studs should be deducted from all sides of the building
-- Add your interior wall finish thickness, i.e., ½ or ¾ inch drywall, to determine your exact interior square footage of the building
+- Add your interior wall finish thickness, i.e., 1/2 or 3/4" drywall, to determine your exact interior square footage of the building
 - You have to subtract spaces such as bathrooms and kitchens
 
 ......................................................................
 
 <h2 id="checklist">9. <a href="https://www.ncshedconversions.com/checklist">Checklist</a></h2>
+
+<div id="check-list"></div>
 
 1. Determine a Budget,
 2. Find a property,
@@ -174,7 +176,7 @@ Below are some general items to consider when planning your shed conversion
 
 <h2 id="shed-conversions">10. <a href="https://www.ncshedconversions.com/sheds">Shed conversions</a></h2>
 
-- Shed are sold with finished on the outside but unfinished on the interior where you can see the interior studs
+- Sheds are sold finished on the outside but unfinished on the interior where you can see the interior studs
 - **What to look for**:
   - 2×4 construction,
   - a strong floor, good venting,
