@@ -162,6 +162,8 @@ These online databases offer a significant degree of versatility and information
 
 An IDX website is a syndication of the local MLS feed that a real estate agent hosts on their own website. Most real estate broker’s websites can instantly search properties in your area. This is free, quick, and simple.
 
+It stands for _Internet Data Exchange_, which is a system and set of rules that allows real estate agents and brokers to share each other's listings. It's also known as _Broker Reciprocity_.
+
 This is comparable to looking at properties on Zillow or Redfin, without a lot of the user-friendly features... you will not be able to see all of the crucial information.
 
 ### PropStream
