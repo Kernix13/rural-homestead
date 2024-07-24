@@ -14,30 +14,31 @@
 | Slab foundation max    |        $12K        |
 | Land Clearing/sqft min |         $1         |
 | Land Clearing/sqft max |        $10         |
-| Land                   |        TBD         |
+| The Land               |        TBD         |
 | Prefab Shed            |      $10-14K       |
-| Permit                 |        TBD         |
-| License(s)             |        TBD         |
+| Permit                 |         ?          |
+| License(s)             |         ?          |
 | Title Search           |        $500        |
 | Real Estate Agent      | 2-3% of land value |
 
 **Livable add-on costs**
 
-| Type                     | Cost  |
-| :----------------------- | :---: |
-| Plumber/hr min           |  $45  |
-| Plumber/hr max           | $150  |
-| Approx plumbing          | $1750 |
-| Electrician/hr min       |  $44  |
-| Electrician/hr max       | $100  |
-| Insulation               |   ?   |
-| Overall $/sqft min       |  $30  |
-| Overall $/sqft max       | $150  |
-| Flooring/sq ft min       |  $2   |
-| Flooring/sq ft max       | $3.5  |
-| Wall sheetrock/sqft      | $1.50 |
-| Septic tank              |   ?   |
-| Wood burning stove (new) | $800  |
+| Type                     |   Cost   |
+| :----------------------- | :------: |
+| Plumber/hr min           |   $45    |
+| Plumber/hr max           |   $150   |
+| Plumbn hooked up         | $1500-2K |
+| Approx plumbing          |  $1750   |
+| Electrician/hr min       |   $44    |
+| Electrician/hr max       |   $100   |
+| Insulation               |    ?     |
+| Overall $/sqft min       |   $30    |
+| Overall $/sqft max       |   $150   |
+| Flooring/sq ft min       |    $2    |
+| Flooring/sq ft max       |   $3.5   |
+| Wall sheetrock/sqft      |  $1.50   |
+| Septic tank              |    ?     |
+| Wood burning stove (new) |   $800   |
 
 **Solar power**
 
@@ -49,7 +50,7 @@
 | Lithium iron phosphate battery |   $730   |
 | Golf cart battery              |   $160   |
 | Sinewave inverter              | $170-260 |
-| Cables/cabling                 |          |
+| Cables/cabling                 |    ?     |
 
 **Furnishing**
 
@@ -70,7 +71,7 @@ _Last Updated: Nov 17, 2022_
 - A shed costs from $200 to $30,000 to build. The final cost depends on the style, type, and material you want to use. The national average cost to build a shed is around $2,500
 - The average storage shed cost per square foot is around $15 to $150. The price of a shed will typically change based on the style, size, labor costs, shed kits purchased, and building materials
 - If you want a large shed, say 12 by 16 feet, you will need to budget around $3,000 to $15,000
-- When considering the size of the shed, you should pay attention to the height as much as you do to the floor space. Shed prices differ if it has a high or low roof
+- **_When considering the size of the shed, you should pay attention to the height as much as you do to the floor space_**. Shed prices differ if it has a high or low roof
 - Not all prefabricated shed manufacturers make concrete `slab foundations` a must. However, a significant number of large custom sheds will require one. Various municipalities require custom-built sheds and prefab sheds to have a concrete slab foundation. Ensure you are well informed about the rules in your area concerning construction projects. Needing shed foundation work will add to the final cost of your structure, which could range from $4,000 to $12,000
 - The importance of getting a fireproof shed. You should know that accidents occur, and there is no harm in being prepared. It is advised that you go for a shed that is fire resistant to protect your furniture and equipment from damage
 
