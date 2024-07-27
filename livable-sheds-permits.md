@@ -50,7 +50,7 @@
 
 ### Post-Construction Inspection
 
-- After completing your shed you will need to ensure that the shed is painted. In most areas only a one inspection is needed.
+- After completing your shed you will need to ensure that the shed is painted. In most areas only one inspection is needed.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -65,11 +65,11 @@
 
 ### Zoning Codes
 
-- Zoning deals with the location of <ins>where</ins> you intend to place your building.
+- Zoning deals with the location of <ins><em>where</em></ins> you intend to place your building.
 - Zoning regulations are based on more local factors and determine the size requirements of your building on what zone it's located in. You will need to call your local zoning or planning department to find that info.
 - Cities and towns in North Carolina have been fairly accommodating for people intending to use tiny homes as an Accessory Dwelling Unit (ADU). So if you have plans to put your tiny home in your backyard, most areas have specific guidelines in addition to the standard setback and such. For example, some require that the ADU can only be a certain size, based on the size of the primary dwelling.
 - If you plan on putting the tiny home on a different parcel of land, or plan on using it as something like an Airbnb or vacation home, <ins>there will be different zoning guidelines</ins>.
-- Zoning codes are super specific to each town and city and typically can have different requirements within each city zone. So your first stop would be to contact the Planning & Zoning department of your county. They will direct you to the proper contact.
+- <ins>Zoning codes are super specific to each town and city and typically can have different requirements within each city zone</ins>. So your first stop would be to contact the **_Planning & Zoning department_** of your county. They will direct you to the proper contact.
 
 ### Building Codes
 
@@ -118,7 +118,9 @@
   - <ins>Mechanical permit</ins>: Furnaces, A/Cs, fireplaces, clothes dryer exhausts, and similar items
   - <ins>Electrical permit</ins>: Lighting, outlets, and all other grid-based or independent electricity
   - <ins>Plumbing permit</ins>: Water for sinks, showers, toilets, and bathtubs
-- **Inspections**: Inspections are a component of most permits. Applying for permits is the first step; permit approvals are the last step. Between application and approval are several inspections by municipal inspectors – WOW, LOTS OF INFO UNDER Cover inspection, Service/feeder inspection, and Final inspection – JUST OR ELECTRICAL!
+- **Inspections**: Inspections are a component of most permits. Applying for permits is the first step; permit approvals are the last step. Between application and approval are several inspections by municipal inspectors – WOW, LOTS OF INFO UNDER Cover inspection, Service/feeder inspection, and Final inspection – JUST FOR ELECTRICAL!
+
+> REAd the rest of the article!
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -153,9 +155,11 @@
 3. Complete an application
 4. Pay the required fee
 5. If your application is denied: If your shed plans fails to meet the requirements, you will have to ajust your plans and apply again
-6. During the inspection
+6. During the inspection have all the necessary documentation prepared
 7. Final approval
 8. Time: It depends on the complexity of the shed building project, but in general, <strong><ins>building permits can take from one week to two months</ins></strong> - minimum of $50, but usually not more than $145
+
+Tips: It pays to determine the local zoning department requirements ahead of your application | Retroactive applications are possible...if you’ve built your shed beforehand it's okay
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
