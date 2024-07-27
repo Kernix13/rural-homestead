@@ -25,7 +25,7 @@ This file contains miscellaneous notes mostly from various articles:
 
 2. [Shed Sizes Guide](https://www.urban-sheds.com/post/shed-sizes-guide)
 
-- Some large shed sizes: 9 x 16 | 10 x 16 | 12 x 16 | 12 x 20 | **12 x 24** | 14 x 20 | 14 x 24 |
+- Some large shed sizes: 9 x 16 | 10 x 16 | 12 x 16 | **12 x 20** | **12 x 24** | 14 x 20 | 14 x 24 |
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -87,15 +87,15 @@ Ones I like:
 Optional upgrades:
 
 - Insulated Egress Windows
-- Pre-Hung Insulated Doors
+- **Pre-Hung Insulated Doors**
 - Transom Dormers
-- Hurricane Ties on Rafters
-- Collar Ties in Rafters
-- Drywall 3-Member Corners
-- 12" OC Floor Joists
-- House wrap under Siding
-- Interior Wall Height Studs
-- Tar Paper under Shingles
-- Ridge Vent
+- **Hurricane Ties on Rafters**
+- **Collar Ties in Rafters**
+- **Drywall 3-Member Corners**
+- **12" OC Floor Joists**
+- _House wrap under Siding_
+- _Interior Wall Height Studs_
+- _Tar Paper under Shingles_
+- _Ridge Vent_
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
