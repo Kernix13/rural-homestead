@@ -1,5 +1,7 @@
 # Steps towards building a livable shed
 
+> _This file sucks!_
+
 ## ONE
 
 1. **Foundation**: laying about 5 inches of gravel or pour a slab
