@@ -173,7 +173,7 @@ TAXES
 
 $1000 / acre without utilities:
 
-- No water: need a well, rain water and to buy water
+- No water: need a well, rain water and/or buy water
 - No electricity: Many solar panels, batteries and associated equipment and knowledge
 - No internet: Starlink or Dish?
 - MUST HAVE NICE NEIGHBORS THAT ARE CLOSE
