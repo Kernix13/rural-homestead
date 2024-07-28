@@ -100,6 +100,7 @@ WordPress is the best option for small businesses. I own 3 WordPress websites, o
 
 - Do the 10-day free trial for the WP plugin [Showcase IDX Real Estate Search & Lead Capture](https://wordpress.org/plugins/showcase-idx/)
 - [dsIDXpress plugin](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
+- [IMPress for IDX Broker](https://wordpress.org/plugins/idx-broker-platinum/)
 - Check out [9 Best WordPress IDX Plugins In 2024](https://cyberchimps.com/blog/best-idx-plugins-for-wordpress/)
   - [Estatik Real Estate Plugin](https://wordpress.org/plugins/estatik/)
   - [SimplyRETS Real Estate IDX](https://wordpress.org/plugins/simply-rets/)
