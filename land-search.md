@@ -34,7 +34,7 @@ SEARCH TERMS:
 1. [LandsOfAmerica.com](https://www.landsofamerica.com/United-States/undeveloped-land/): redirects to `land.com` - signed up for free, same as LandAndFarm.com? - _NOTHING_
 2. [LandLeader.com](https://www.landleader.com/land-for-sale/undeveloped) – _nothing in my price range_
 3. [MossyOakProperties.com](https://www.mossyoakproperties.com/land-for-sale/undeveloped/): signed up for free - only 1 property under 10 acres - 4 acres for $30K - _SKIP_
-4. [Acres.com](https://www.acres.com/): signed up for free but they have a premium plan for $29.99/month - _nothing in my price range_
+4. [Acres.com](https://www.acres.com/): signed up for free but they have a premium plan for $7.49/month - _nothing in my price range_
 5. [Real estate and federal lands for sale by the government](https://www.usa.gov/real-estate-sales): (usa.gov) - they have 9 different links where you can buy land 6 of which involve land - see below - _NOTHING_
 6. [Auction.com](https://www.auction.com/): nothing
 
