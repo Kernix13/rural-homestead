@@ -55,7 +55,15 @@ No clue if ADU is okay:
 9. Laurel County: https://londonky.gov/development/
 10. `Pike County`: https://pikevilleky.gov/code-violation-fines/
 11. Calloway County: don't think so, far SW of KY close to Nashville - https://www.murrayky.gov/planning/building/preparetobuild.htm
-12.
+
+> [Manufactured Home Requirements](https://www.kymitigation.org/manufactured-home-requirements/): …[Manufactured homes must] be elevated on a permanent foundation … and be securely anchored to an adequately anchored foundation system to resist flotation, collapse and lateral movement - The following types of permanent foundations should be used:
+
+- Reinforced piers
+- Posts
+- Piles
+- Poured concrete walls
+- Reinforced block walls, or
+- Compacted fill
 
 Allow ADU: single dwelling unit
 
