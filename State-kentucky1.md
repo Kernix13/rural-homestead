@@ -15,7 +15,7 @@
 
 ## Kentucky Counties
 
-> Check out these counties in KY: `Pike County` | `Boyd County` | `Greenup County` | `Jackson`, Mt Vernon |
+> Check out these counties in KY: `Pike County` | `Boyd County` | `Greenup County` | `Jackson`, Mt Vernon (Rockcastle County) |
 > "_Look in `Jackson` county and around my Vernon_" - from Ken
 
 - [What Counties In Kentucky Allow Tiny Houses](https://www.greatlakestinyhome.com/what-counties-in-kentucky-allow-tiny-houses/) - Jefferson (Louisville) and Fayette (Lexington)

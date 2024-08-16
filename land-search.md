@@ -26,6 +26,7 @@ SEARCH TERMS:
    1. HILLSIDE HAVEN MANCHESTER ESCAPE 14 acres for $20K = $1464/acre
 8. [hudhomesusa.org](https://www.hudhomesusa.org/) - rip off, don't pay - harvest properties from HUD/FNMA/FREDDIE and it appears Auction.com
 9. [Trulia.com](https://www.trulia.com/)
+10. [ky-land.com](http://ky-land.com/) - SUCKS
 
 > Look into **Foreclosure.com** looks good - $40/month
 

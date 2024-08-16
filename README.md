@@ -41,6 +41,34 @@ Other important markdown files:
 4. `kentucky.html` and `style.css`: a quick HTML file used to paste into a CodePen pen for the agent who helped me - very little styling - IGNORE
 5. `data.js`: this was a quick JavaScript file to output onto the page terms and jargon that I needed to learn - IGNORE
 
+## Elizabeth City rental
+
+From the owner:
+
+```
+Hello, the property is available for rent and move-in ASAP,  I am the owner of the property located at 114 Whitehurst St, Elizabeth City, NC  which has just been recently renovated. I wanted to sell it out but due to some facts about the realtor I was working with before I decided not to sell it again, the agents are not truthful about handling things and I am looking to handle things myself now the best way I can . Am looking for someone that will take care of the property as if it was their own, someone that will be very neat, take good care of the property for me and  make payment of rent with no delay. Pets are allowed as long as they are not destructive.
+
+The rent is $970 while the security deposit is $800 . The  house is ready to move in.. Utilities are included in the Rent AND LEASE IS 6 MONTHS TO A YEAR WITH OPTION OF LEASE TO OWN. The house is for rent now but would be really interested in a lease to own in the future.
+
+Here is the Address below : 114 Whitehurst St, Elizabeth City, NC
+
+Status: For Rent
+Price: $970
+Deposit: $800
+Application fee: $50 per Adult
+Pet Deposit : $300
+3 Bedrooms
+2 Bathrooms
+Single-Family Home
+Refrigerator
+Dishwasher
+Microwave
+Washer
+Dryer
+
+You can drive by the house anytime of the day if you wish to see the house for yourself. I am out of town at the moment. I need a responsible person that can take very good care of it as I am not after the money. Utilities include:water, washer/dryer, sewer except trash.. Your monthly rent already covers utilities so you do not have to pay extra charges for that. Pets are allowed as long as they are not destructive..like I explained to you before I am no longer dealing with the realtor,the for sale sign is still there because I haven't gotten a tenant yet so deal  with me directly
+```
+
 <!--
    Look into adding `CHANGELOG.md` - look at
    1. https://github.com/vweevers/common-changelog and
