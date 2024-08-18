@@ -45,27 +45,27 @@ Other important markdown files:
 
 From the owner:
 
-> _Hello, the property is available for rent and move-in ASAP, I am the owner of the property located at 114 Whitehurst St, Elizabeth City, NC which has just been recently renovated. I wanted to sell it out but due to some facts about the realtor I was working with before I decided not to sell it again, the agents are not truthful about handling things and I am looking to handle things myself now the best way I can . Am looking for someone that will take care of the property as if it was their own, someone that will be very neat, take good care of the property for me and make payment of rent with no delay. Pets are allowed as long as they are not destructive._
+Hi again Jim, I have completed the background check, it came out clean. I am ready to proceed with you now that we got the result of the Rental Application. I have agreed to lease the property to you After the agreement and payment is taken care of .I will take this property off the market for you, reserved the house for you, come down to give you the keys, show you around if you are not familiar with the neighborhood and help you settle down if needed on your preferred date. I can also fix a date. I will show you the Property before you move in once the paperwork and payment is done (if needed).
 
-> _The rent is **`$970`** while the security deposit is $800 . The house is ready to move in.. Utilities are included in the Rent AND LEASE IS 6 MONTHS TO A YEAR WITH OPTION OF LEASE TO OWN. The house is for rent now but would be really interested in a lease to own in the future._
+The home is exactly as seen in the picture. You can go ahead and view the neighborhood of the house and surroundings at your own convenient time. I can also give you a guarantee in writing that the unit is “as is” as seen on craigslist and as per the listed .
+eatures, amenities, If otherwise your money will be refunded back to you immediately
 
-> _Here is the Address below : **114 Whitehurst St, Elizabeth City, NC**_
+More so , there is storage room available separately with no extra/additional price and charge to be paid.
 
-- Status: For Rent
-- Price: $970
-- Deposit: $800
-- Application fee: $50 per Adult
-- Pet Deposit : $300
-- 3 Bedrooms
-- 2 Bathrooms
-- Single-Family Home
-- Refrigerator
-- Dishwasher
-- Microwave
-- Washer
-- Dryer
+Mode of payment is via PayPal as you did for the application fee ,once payment is confirmed I can issue you a copy of the rental receipt/invoice which you will use to pick up the keys on your arrival/move date.
 
-> _You can drive by the house anytime of the day if you wish to see the house for yourself. I am out of town at the moment. I need a responsible person that can take very good care of it as I am not after the money. Utilities include:water, washer/dryer, sewer except trash.. Your monthly rent already covers utilities so you do not have to pay extra charges for that. Pets are allowed as long as they are not destructive..like I explained to you before I am no longer dealing with the realtor,the for sale sign is still there because I haven't gotten a tenant yet so deal with me directly_
+However, RENTAL TERMS : You will pay the security deposit and pay the first month later as you move in .
+
+SECURITY DEPOSIT = $700
+
+A MONTH RENT : $800
+
+More so, Kindly get back to me if you are still interested so you can make payment and after the payment is confirmed . I can send you the Rental Agreement Booking form to fill for reservation/immediate move in . Also, I want to know if you’re paying for first and last month upfront or will do month to month so I state it on the booking form before sending it to you once payment is confirmed. I’ll look forward to your swift response
+
+Okay, no problem if you want a lease of 6 months . And about a pet sitter in Elizabeth city that is not a problem when you move in, I will introduce one to you . As regards moving in last week August or September 1st . I can waive the last week in August for you and your rent start counting from September 1st .
+Yes, it’s $2600 in total . $800 first month, $800 last month, $700 security deposit and $300 pet deposit . Send the money via PayPal to my PayPal details through Friends & Family option . Once the payment is confirmed . I will issue you the rental receipt and lease . You will print it out and sign it . Bring it along on your move in date and we will meet at the property to hand over the keys to you .
+
+Of course yes, I will need 30 to 45 days notice . s
 
 <!--
    Look into adding `CHANGELOG.md` - look at
