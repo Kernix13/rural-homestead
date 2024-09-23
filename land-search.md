@@ -16,17 +16,18 @@ SEARCH TERMS:
 
 **Best ones** (all FREE):
 
+1. [LandAndHomes.com/land](https://www.landandhomes.co/land): signed up with Google and phone #
 1. **[LandSearch.com](https://www.landwatch.com/undeveloped-land)**: signed up for free with Google
-2. **[LandAndFarm.com](https://www.landandfarm.com/search/Undeveloped-Land-for-sale/)**: signed up for free
-3. **[LandWatch.com](https://www.landwatch.com/undeveloped-land)**: lots of repeats from LandSearch.com - signed up for free but sign-up info was already part of their database, same as LandAndFarm.com?
-4. **[Realtor.com](https://www.realtor.com/)**: signed up for free with Google - some repeated listings but some good new ones as well
-5. **[Zillow.com](https://www.zillow.com/)**: signed up for free - not bad but nothing different from Realtor.com
-6. **[Redfin.com](https://www.redfin.com/state/Kentucky/land)**: signed up for free with Google - also good but mostly repeats
-7. [LandFlip.com](https://www.landflip.com/land-for-sale/undeveloped-keyword): signed up for free - only one _maybe_ in my price range:
+1. **[LandAndFarm.com](https://www.landandfarm.com/search/Undeveloped-Land-for-sale/)**: signed up for free
+1. **[LandWatch.com](https://www.landwatch.com/undeveloped-land)**: lots of repeats from LandSearch.com - signed up for free but sign-up info was already part of their database, same as LandAndFarm.com?
+1. **[Realtor.com](https://www.realtor.com/)**: signed up for free with Google - some repeated listings but some good new ones as well
+1. **[Zillow.com](https://www.zillow.com/)**: signed up for free - not bad but nothing different from Realtor.com
+1. **[Redfin.com](https://www.redfin.com/state/Kentucky/land)**: signed up for free with Google - also good but mostly repeats
+1. [LandFlip.com](https://www.landflip.com/land-for-sale/undeveloped-keyword): signed up for free - only one _maybe_ in my price range:
    1. HILLSIDE HAVEN MANCHESTER ESCAPE 14 acres for $20K = $1464/acre
-8. [hudhomesusa.org](https://www.hudhomesusa.org/) - rip off, don't pay - harvest properties from HUD/FNMA/FREDDIE and it appears Auction.com
-9. [Trulia.com](https://www.trulia.com/)
-10. [ky-land.com](http://ky-land.com/) - SUCKS
+1. [hudhomesusa.org](https://www.hudhomesusa.org/) - rip off, don't pay - harvest properties from HUD/FNMA/FREDDIE and it appears Auction.com
+1. [Trulia.com](https://www.trulia.com/)
+1. [ky-land.com](http://ky-land.com/) - SUCKS
 
 > Look into **Foreclosure.com** looks good - $40/month
 

@@ -12,6 +12,8 @@
 6. [Facebook undeveloped land for sale in kentucky](#facebook-undeveloped-land-for-sale-in-kentucky)
 7. [Miscellaneous2 notes for Kentucky](#miscellaneous2-notes-for-kentucky)
 8. [Shed or tiny home permits](#shed-or-tiny-home-permits)
+9. [Kentucky Sheds](#kentucky-sheds)
+   10 [Moving to Kentucky](#moving-to-kentucky)
 
 ## Kentucky Counties
 
@@ -181,14 +183,6 @@ Links:
 - [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/tiny-homes/) - check them out – The Cub or The Elope
 - I NEED AT LEAST 1 ACRE BUT 2 OR MORE IS BETTER
 
-Google search for "_best sheds in kentucky_":
-
-- Esh's: https://www.eshutilitybuildings.com/
-- Sheds of Kentucky: https://www.shedsofkentucky.com/
-- Overholt & Sons: https://overholtstoragebuildings.com/
-- Shed Squad: https://www.shedsquadofgeorgetownkentucky.com/
-- Stellar Barn Co (Willie): https://stellarbarn.co/
-
 > In North Carolina.docx I have notes on Maryland and South Carolina rural land
 
 > How to find undeveloped land for sale in kentucky
@@ -260,3 +254,140 @@ Are there any cat lovers in this group who have any ideas to solve my dilemma?
 > Also search: raw land for sale in kentucky and/or "rural"
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+## Kentucky Sheds
+
+Google search for "_best sheds in kentucky_":
+
+### 1. Shed Squad
+
+- 2x4 construction?
+- https://www.shedsquadofgeorgetownkentucky.com/
+- https://www.shedsquadofgeorgetownkentucky.com/structure-types/cabin-style
+- Georgetown, KY in Scott County - **Nort-East-Central**
+- Signature Hunter Cabins look okay
+- same with Signature Lofted Cabins
+
+### 2. Esh Utility Buildings - Esh's
+
+- 4.9 Google rating
+- https://www.eshutilitybuildings.com/
+- Burkesville, KY - Cumberland County - South-Central on NC border
+- 14×28 Ranch Cabin in stock $14.8K
+
+### 3. Schwartz's Cabins
+
+- 4.9 Google rating
+- https://www.schwartzcabins.com/
+- Ewing, KY in Fleming County - **North East**
+- $20K for 16x24 but does that price include delivery and finished interior?
+- https://www.schwartzcabins.com/sites/default/files/Schwartz%20Cabins%20Price%20List.pdf
+
+### 4. Bluegrass Cabins
+
+- 5.0 Google revie (only 1)
+- https://bluegrasscabins.com/structures/ | https://www.facebook.com/bluegrasscheds/
+- Hustonville, KY in Lincoln County - central
+- Lofted Cabin | Standard Garden Shed with Dormer |
+
+### 5. He Shed She Shed LLC
+
+- 4.9 Google rating
+- https://www.heshedsheshedusa.com/
+- Campbellsville, KY in Taylow County - Central
+- Junction City, KY in Boyle County - Central
+- Russell Springs, KY in Russell County - South Central
+
+### Weaver Portable Buildings
+
+- 4.9 Google rating
+- https://www.weaverportablebuildings.com/
+- Elkton, KY in Todd County - south west
+
+### Sheds of Kentucky - sucks
+
+- https://www.shedsofkentucky.com/
+- Greenville, KY in Muhlenberg County - `West-Central`
+- Morgantown, KY in Butler County - `West-Central`
+- Scottsville, KY in Allen County - South-Central on NC border, little west
+- Hartford, KY in Ohio County - `North-West`
+
+### Overholt & Sons
+
+> really slow - only 2 styles of liveable sheds
+
+- https://overholtstoragebuildings.com/
+- Russellville KY in Logan County - South-West on NC border
+- Auburn KY in Logan County - South-West on NC border
+- Bowling Green KY in Warren County - South-West on NC border
+
+### Amish Made Cabins
+
+- 4.3 Google Rating - pricey
+- https://www.amishmadecabins.com/
+- Shepherdsville, KY in Bullitt County - south of Louisville
+- website sucks, no examples or images
+- they also have Amish Made Cabins, LLC with a Google rating of 3.6???
+
+### Leland's Cabins
+
+- 4.8 Google rating
+- https://www.lelandscabins.com/cabins/
+- Munfordville, Kentucky in Hart County - central
+- weak images - maybe ADU Series
+
+### Deer Run Cabins
+
+- 4.1 Google rating
+- https://deerruncabins.com/pre-built/
+- NO - way too big and way too expensive
+
+MORE:
+
+- A-1 Built Sheds: https://www.a1builtsheds.com/cabins-office
+- True Built Storage Barns: https://truebuiltbarns.com/
+- Four Winds: https://www.fourwindsstore.com/buildings/cabins
+- Trailhead Cabins: https://trailheadcabins.us/models
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+## Moving to Kentucky
+
+> Mercer, Anderson, Franklin, Knox, Bell,
+
+- `Richard Allen Brittain`: cell signal is iffy...had to install a signal booster
+- `Debbie Moss`: I am an agent in Ky and have helped numerous people move here. I would be happy to help you
+- `Nicole Carlton`: Messaged you! Would love to help. I'm an agent in central Kentucky - have you checked out Central Kentucky areas like Mercer county, Anderson, Franklin - Heart of KY Real Estate is my agency
+- "I live in Lawrenceburg (Anderson) co. So I'm very familiar with anderson and surrounding counties"
+- `Latasha Friend`: Hey, I work with a program that helps remote workers relocate to EKY! If you do work remotely, PM me. We offer an incentive as well to offset moving costs
+- `Tracy Osborne Henson`: We live in rural Knox county (eastern KY) and have Spectrum internet. I work from home and have no issues. We even stream our TV service - We’re between Barbourville and Pineville. I believe Pineville is in Bell County
+- `Courtney Nicole Murley`: Would love to help 🫶🏻🏡 Courtney Murley, EXP Realty, 270-363-7216 - `DID NOT MESSAGE`
+
+> - `Anita Jordan`: Hey Jim! There are many agents out there it’s really important to find someone you trust! Here are some of my suggestions when looking.
+>
+> 1. Look for someone who has been in the industry for a while. Every transaction is different so agents learn as they go. Someone who have been around for a while will know how to handle different situations better.
+> 2. Solo agent vs team - A solo agent will be with you every step of the way but with a team you may be brought on by the team leader and then “given” to the newest /least experienced person they have with the support of the team behind them.
+> 3. Find someone who has an incredible network of agents and vendors. If you don’t know where you are going to end up for sure, make sure the person you hire is connected with agents in the areas you’re interested in. They then will work as a team to get you where you want to be. Also once you move they can provide you with recommended trusted vendors (plumbers, electricians, moving companies, contractors) that can help you in your transition.
+> 4. Find someone who understands investment real estate. This purchase is the largest investment you are going to make, you want to make sure it’s a good one - even if it’s your forever home.
+> 5. Always make sure you feel heard by your agent! You want to make sure the person you are working with has YOUR BEST INTEREST in mind, and not their commission!
+>    These are just some of my suggestions when looking for a buyers agent.
+>    It sounds like you should consider something somewhat close to Interstate 64 or interstate 75 if you want to have access to those areas. I would almost recommend the southern part of KY near Daniel Boone Forest
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+## APARTMENTS
+
+BEREA 40404 and 40403
+
+> 1. `Realtor Tina Neil` - https://tinaneal.remax.com/agents/1344874/Tina+Neal - - `859-302-0259`, referred by her husband's uncle Bryan Cain from Boonesborough State Park | https://www.facebook.com/tina.pingleton |
+
+- Apartments: "Look on Furnished Finder"
+- Kentucky Life Property Management
+- Mrs Sandra Rhoades via Sandrarhoades13@gmail.com - She's a private property owner - `EMAILED HER` - Divins Ct, Richmond, KY 40475 -
+- https://room-roommate-flat-apartment-rent-965.mystrikingly.com/
+- https://www.furnishedfinder.com/property/400128_1?deviceId=a7f2f6c7-0b1d-480f-9a32-058b3fa0a5e6 | https://www.furnishedfinder.com/
+- daniel mullins: https://www.facebook.com/groups/353328202959579/user/100001712822757/ - 859-868-8298
+- jenna ramsey: https://www.facebook.com/groups/353328202959579/user/100000939285540/
+-
+
+TINA NEIL: Just Love Coffee in Berea - 636 Chestnut St., Berea KY 40403 @ 2:30
