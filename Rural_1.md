@@ -71,6 +71,8 @@ Ones I like:
 
 > https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-iras-distributions-withdrawals
 
+> how many days do you have t return money from an IRA and not be penalized
+
 ## Short term rentals websites
 
 > In case you need a place before your land purchase goes thru and tiny home is build/delivered:

@@ -107,7 +107,7 @@ Plugins:
 
 ## Lighthouse
 
-- Later
+- Later: [Google PageSpeed Insights](https://pagespeed.web.dev/)
 
 ## Design
 
