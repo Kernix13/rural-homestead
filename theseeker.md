@@ -33,7 +33,7 @@
 - It shows 9 posts. You have more than that. Where is the next button?
 - You need to optimize the titles so that the majority of the cards have the same height
 - Individual posts pages look pretty good
-- Do you want to have comments? No one really comments on blod posts anymore unless it is a very popular blog. You have a Facebook page, people could comment there
+- Do you want to have comments? No one really comments on blog posts anymore unless it is a very popular blog. You have a Facebook page, people could comment there
 
 4. Register & Login
 
@@ -50,8 +50,8 @@
 
 QUESTIONS:
 
-1. Do you want to add a link t o the Facebook page somewhere? In the footer would be ideal - any other social media links? Your YouTube?
-2. Why do you have a PayPal image in t he sidebar that is not a link to PayPal?
+1. Do you want to add a link to the Facebook page somewhere? In the footer would be ideal - any other social media links? Your YouTube?
+2. Why do you have a PayPal image in the sidebar that is not a link to PayPal?
 
 ## Posts
 
@@ -101,8 +101,9 @@ Plugins:
 
 5. If needed [create Categories](https://wordpress.dearflip.com/docs/using-categories/)
 
-- []()https://wordpress.dearflip.com/docs/using-categories/
-  > DearFlip Categories can be used to display multiple flipbooks using a managed shortcode
+- [Categories](https://wordpress.dearflip.com/docs/using-categories/)
+
+> DearFlip Categories can be used to display multiple flipbooks using a managed shortcode
 
 ## Lighthouse
 
