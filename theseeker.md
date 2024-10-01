@@ -6,7 +6,9 @@
 4. [Kristi Miller on YouTube](https://www.youtube.com/@kmiller1005)
 5. Contact info: P.O. Box 302 , Berea, KY, United States, Kentucky | (859) 986-2032
 
-## Pages
+## Desktop
+
+### Pages
 
 1. Home Page
 
@@ -53,9 +55,17 @@ QUESTIONS:
 1. Do you want to add a link to the Facebook page somewhere? In the footer would be ideal - any other social media links? Your YouTube?
 2. Why do you have a PayPal image in the sidebar that is not a link to PayPal?
 
-## Posts
+### Posts
 
 > Skip for now
+
+## Tablet
+
+> Later
+
+## Smartphone
+
+> Later
 
 ## Theme and Plugins
 
@@ -93,7 +103,7 @@ Plugins:
 
 - [Creating flip books](https://wordpress.dearflip.com/docs/create-flipbooks/)
 
-> After you have completed installing DearFlip you will get a menu added to WordPress admin, dFlip Books. Now your 3D flipbooks can be added and accessed on your WordPress site following the menu. Let’s start with creating a Flipbook Post
+> _After you have completed installing DearFlip you will get a menu added to WordPress admin, dFlip Books. Now your 3D flipbooks can be added and accessed on your WordPress site following the menu. Let’s start with creating a Flipbook Post_
 
 4. Copy the Shortcode to your Post/Page
 

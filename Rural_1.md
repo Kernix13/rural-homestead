@@ -67,11 +67,7 @@ Ones I like:
 - `Medical`: health insurance premiums paid while unemployed | no | yes| 72(t)(2)(D)
 - `Unemployed health insurance`: distributions equal to the amount paid for family health insurance by an individual who was unemployed for 12 weeks and received unemployment compensation in the year of the distribution or the subsequent year | n/a | yes | 72(t)(2)(D)
 
-### MORE
-
-> https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-iras-distributions-withdrawals
-
-> how many days do you have t return money from an IRA and not be penalized
+> You use the distributions to buy, build, or rebuild a first home (up to $10,000)
 
 ## Short term rentals websites
 
