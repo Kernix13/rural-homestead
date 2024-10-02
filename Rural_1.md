@@ -73,8 +73,8 @@ Ones I like:
 
 > In case you need a place before your land purchase goes thru and tiny home is build/delivered:
 
-1. https://www.airbnb.com/
-2. http://www.sublet.com/
+1. https://www.airbnb.com/ - VERY GOOD
+2. http://www.sublet.com/ - NOTHING IN RICHMOND OR BEREA
 3. https://www.vrbo.com/
 4. https://www.shorttermhousing.com/
 5. https://www.extendedstayamerica.com/
@@ -101,3 +101,9 @@ Optional upgrades:
 - _Ridge Vent_
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+Airbnb
+
+1. https://www.airbnb.com/rooms/618700294237368099?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066108941&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3wNN6PfaaMwCZ4O&previous_page_section_name=1000
+2. https://www.airbnb.com/rooms/48876717?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066100381&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3HBeJA3bHcvKdmX&previous_page_section_name=1000
+3.
