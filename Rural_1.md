@@ -105,5 +105,12 @@ Optional upgrades:
 Airbnb
 
 1. https://www.airbnb.com/rooms/618700294237368099?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066108941&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3wNN6PfaaMwCZ4O&previous_page_section_name=1000
+
+> Once your identity is verified, your Host will have 24 hours to confirm your stay. We’ll email you an update within an hour.
+> _WHY THE FUCK_ IS IT `$977.81` FOR 18 DAYS?
+
 2. https://www.airbnb.com/rooms/48876717?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066100381&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3HBeJA3bHcvKdmX&previous_page_section_name=1000
-3.
+
+Cat grooming: https://vcahospitals.com/old-marple/primary/services/pet-grooming
+
+- 820 West Springfield Road, Springfield, PA 19064 | 610-328-1300, 610-328-4409
