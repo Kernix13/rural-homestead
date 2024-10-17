@@ -102,15 +102,57 @@ Optional upgrades:
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-Airbnb
+## Movers
 
-1. https://www.airbnb.com/rooms/618700294237368099?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066108941&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3wNN6PfaaMwCZ4O&previous_page_section_name=1000
+Cross County Moving Experts (Cross Country Movers) - 855-374-3990 | 5213 Grays Avenue, Phila, PA 19143
 
-> Once your identity is verified, your Host will have 24 hours to confirm your stay. We’ll email you an update within an hour.
-> _WHY THE FUCK_ IS IT `$977.81` FOR 18 DAYS?
+- https://www.crosscountrymovers.info/
+- Extra Space Storage 10 E South Ave Glenolden to Interstae Storage 3099 Lexington Rd Richmond, KY 40475
 
-2. https://www.airbnb.com/rooms/48876717?adults=1&children=0&infants=0&pets=0&wishlist_item_id=11004066100381&check_in=2024-10-13&check_out=2024-10-31&source_impression_id=p3_1727891000_P3HBeJA3bHcvKdmX&previous_page_section_name=1000
+## Mount Vernon property for $40K
 
-Cat grooming: https://vcahospitals.com/old-marple/primary/services/pet-grooming
+Average Property taxes in Mount Vernon = 1.24%, if the property is valued at $50K then that is $620, if it is valued at $100K then it's $1240.
 
-- 820 West Springfield Road, Springfield, PA 19064 | 610-328-1300, 610-328-4409
+**DETAILS**:
+
+- Amish built 16 x 44 foot cabin
+- 2 bedrooms with closets
+- 1 bathroom with standup shower
+- kitchen/living area = 704 sqft
+- closed cell spray foam insulated throughout ($6K)
+- metal roof - black
+- front and back porches included
+
+**COMPLETED**:
+
+- electric & plumbing and inspection
+- spray foam insulation
+- shower installed
+- drywall installed
+- walls primed and ready for paint
+- interior doors installed
+- washer/dryer hookup
+- wood beam in living room/kitchen area - covered in photos (?) to keep primer from getting on it
+- Windows installed
+- water meter installed
+
+**INCLUDED BUT NOT INSTALLED**:
+
+- 2 ceiling fans
+- bathroom: vanity/sink/faucet/toilet
+- new black refrigerator
+- 2 outdoor black barn farmhouse-style lights
+- light switch covers
+- plug covers
+- interior lights
+  bathroom mirror with LED light
+
+**NEEDS/NOT INCLUDED**:
+
+- kitchen: cabinets, countertop, sink,
+- carpet or vinyl flooring
+- AC/Heat source
+- hot water heater
+- septic system - perc test/permit complete
+
+An electric pole will be installed at no cost once the septic system has been installed - the only cost is running the electric 10-20 feet from the cabin, underground or above
