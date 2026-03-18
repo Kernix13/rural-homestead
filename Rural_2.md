@@ -66,7 +66,7 @@ Important topics/phrases from Land tips videos:
 - Use Google Earth to zoom around & find different _access points_
 - Check property taxes / tax base -
 - Has there been a _professional survey_ done? A survey is worth its weight in gold
-  - Check your local _PVA office_ to see what thye say the acreage is b\c it's usually not accurate, off by no more than 5-8%
+  - Check your local _PVA office_ to see what they say the acreage is b\c it's usually not accurate, off by no more than 5-8%
   - Not professionally surveyed keeps the fools away
 - NEIGHBORS: DON'T TALK TO THEM UNTIL YOU OWN THE LAND! They don't know the land behind them is for sale - if they find out, they will buy it - keep that in mind if you are asked what you are doing
 - Does it have water - water is very important - sping is the best, next creek
