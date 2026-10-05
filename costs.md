@@ -104,28 +104,6 @@ Best,
 Jim Kernicky
 ```
 
-## 661 Grand Ave, Beattyville, KY 41311
-
-- 1 hr 11 mins - 48 miles
-- Dream Maker Realty & Log Homes | 1901 Camargo Rd, Mt Sterling, KY 40353
-- http://www.dreammakerky.com/
-- Phil Gingrich 812-801-5812 - Mountaineer Buildings, Harrison County or PAintsville in Johnson County? https://mountaineerbuildings.com/
-
-................ 1: ..........................
-
-## Sandy Ridge Rd, Campton, KY 41301 | Lot 32
-
-- https://www.landsearch.com/properties/sandy-ridge-rd-campton-ky-41301/3245337
-- Agent Adam Ratliff
-- RE company Paragon Realty Partners
-- phone (606) 359-3780
-- 2 acres, $20K
-- MLS # LBAR 23019088
-- $15 or $20K and since July 2024?
-- POINTS: development | electricity, city water, fiber internet | no MLS #?
-
-> we offer these exceptional lots for outright purchase only
-
 Subject: Interested in [Property Title or MLS#] – [Location]
 
 Hi [Agent’s Name],
@@ -138,55 +116,6 @@ Thanks in advance for your time. I’m seriously looking and hope to hear back f
 
 Best,
 Jim Kernicky
-
-................ 2: ..........................
-
-## Wolfe County, Campton, KY
-
-- https://www.landsearch.com/properties/campton-ky/4219441
-- Agent Mike Sebastian
-- phone (502) 230-2208
-- 0.5 acres, $22,370K - 2/6/25
-- POINTS: 29 lots | Underground electric to your driveway? Is there a driveway already? And is it only for the driveway? | Fiber Internet to your driveway? Same. | Perk test for septic |
-
-Subject: Interested in [Property Title or MLS#] – [Location]
-
-Hi [Agent’s Name],
-
-I saw your listing for [brief description of the property] on Landsearch.com. I'm interested in rural land in [general area], and this property caught my eye because of [specific feature – e.g., "its location near Berea" or "access to city sewer"].
-
-I’d like to know more about [ask 1–2 specific questions, such as: zoning, access, utilities, restrictions, etc.].
-
-Thanks in advance for your time. I’m seriously looking and hope to hear back from you.
-
-Best,
-Jim Kernicky
-
-................ 3: ..........................
-
-## High Falls Rd, Campton, KY 41301
-
-- https://www.landsearch.com/properties/high-falls-rd-campton-ky-41301/4369013
-- Agent Vickie Oldfield
-- RE company Paragon Realty Partners
-- phone (606) 477-0836
-- MLS # LBAR 25007653
-- 0.6 acre, $25K
-- MLS # LBAR 25007653
-- POINTS: mostly flat | Surveyed and staked | Electric available | annual HOA dues |
-
-Hi [Agent’s Name],
-
-I saw your listing for [brief description of the property] on Landsearch.com. I'm interested in rural land in [general area], and this property caught my eye because of [specific feature – e.g., "its location near Berea" or "access to city sewer"].
-
-I’d like to know more about [ask 1–2 specific questions, such as: zoning, access, utilities, restrictions, etc.].
-
-Thanks in advance for your time. I’m seriously looking and hope to hear back from you.
-
-Best,
-Jim Kernicky
-
-................ 4 ..........................
 
 ................ 5 ..........................
 

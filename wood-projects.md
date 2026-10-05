@@ -16,7 +16,7 @@
 1. FineWoodworking: https://www.youtube.com/@FineWoodworking/videos
 2. Fix This Build That: https://www.youtube.com/@Fixthisbuildthat/videos
 3. Essential Craftsman: https://www.youtube.com/@essentialcraftsman/videos
-4. CReeves Makes: https://www.youtube.com/@CReevesMakes/videos
+4. Creeves Makes: https://www.youtube.com/@CReevesMakes/videos
 5. The New Yankee Workshop: https://www.youtube.com/@newyankeeworkshop
 6. Insider Carpentry - Spencer Lewis: https://www.youtube.com/@InsiderCarpentry
 
